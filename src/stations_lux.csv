@@ -1,0 +1,1206 @@
+Station Name,LID,Modes of Transports
+"Capellen, Hireknapp","A=1@O=Capellen, Hireknapp@X=6001684@Y=49641526@U=82@L=190901002@",32
+"Capellen, Hirebesch","A=1@O=Capellen, Hirebesch@X=6006457@Y=49641724@U=82@L=190901010@",32
+"Reckange-sur-Mess, Findel","A=1@O=Reckange-sur-Mess, Findel@X=6007293@Y=49564336@U=82@L=221004002@",32
+"Reckange-sur-Mess, Am Duerf","A=1@O=Reckange-sur-Mess, Am Duerf@X=6007329@Y=49562097@U=82@L=221004001@",32
+"Mamer, Coq Hardi","A=1@O=Mamer, Coq Hardi@X=6011338@Y=49623269@U=82@L=190903004@",32
+"Capellen, Eechterfeld","A=1@O=Capellen, Eechterfeld@X=6012372@Y=49641688@U=82@L=190901008@",32
+"Mamer, Scoutshome","A=1@O=Mamer, Scoutshome@X=6012678@Y=49636178@U=82@L=190903016@",32
+"Capellen, Pafebruch","A=1@O=Capellen, Pafebruch@X=6013891@Y=49640825@U=82@L=190901009@",32
+"Mamer, Holzemerstrooss","A=1@O=Mamer, Holzemerstrooss@X=6015411@Y=49624779@U=82@L=190903009@",32
+"Mamer, Eglantiers","A=1@O=Mamer, Eglantiers@X=6016777@Y=49633993@U=82@L=190903005@",32
+"Reckange-sur-Mess, Wollefskaul","A=1@O=Reckange-sur-Mess, Wollefskaul@X=6017999@Y=49562772@U=82@L=221004003@",32
+"Mamer, Eisebunnsbréck","A=1@O=Mamer, Eisebunnsbréck@X=6018772@Y=49627413@U=82@L=190903006@",32
+"Mamer, Gare","A=1@O=Mamer, Gare@X=6020211@Y=49625768@U=82@L=190903008@",4
+"Mamer, Zentrum","A=1@O=Mamer, Zentrum@X=6021101@Y=49628905@U=82@L=190903014@",32
+"Mamer, Mambra","A=1@O=Mamer, Mambra@X=6022009@Y=49631521@U=82@L=190903012@",32
+"Mamer, C.I.P.A.","A=1@O=Mamer, C.I.P.A.@X=6025218@Y=49628654@U=82@L=190903003@",32
+"Mamer, Baerendall","A=1@O=Mamer, Baerendall@X=6025838@Y=49629894@U=82@L=190903002@",32
+"Mamer, Arelerstrooss","A=1@O=Mamer, Arelerstrooss@X=6028337@Y=49628914@U=82@L=190903001@",32
+"Mamer (Lycée), Gare","A=1@O=Mamer (Lycée), Gare@X=6029766@Y=49618397@U=82@L=190903011@",4
+"Mamer, Gaaschtbierg","A=1@O=Mamer, Gaaschtbierg@X=6032472@Y=49627170@U=82@L=190903007@",32
+"Roedgen, Laangwis","A=1@O=Roedgen, Laangwis@X=6032886@Y=49573397@U=82@L=221005001@",32
+"Mamer (Lycée), Gare routière","A=1@O=Mamer (Lycée), Gare routière@X=6035924@Y=49622325@U=82@L=190903015@",32
+"Mamer, Tossebierg","A=1@O=Mamer, Tossebierg@X=6036688@Y=49624276@U=82@L=190903013@",32
+"Bertrange, Gaston Thorn / LJBM","A=1@O=Bertrange, Gaston Thorn / LJBM@X=6036787@Y=49621130@U=82@L=200101009@",32
+"Bertrange, Ecole Européenne II","A=1@O=Bertrange, Ecole Européenne II@X=6037991@Y=49617732@U=82@L=200101021@",32
+"Bertrange, Waassertuerm","A=1@O=Bertrange, Waassertuerm@X=6048086@Y=49620842@U=82@L=200101019@",32
+"Bertrange, Millewee","A=1@O=Bertrange, Millewee@X=6048104@Y=49617885@U=82@L=200101011@",32
+"Bertrange, Rue de Mamer","A=1@O=Bertrange, Rue de Mamer@X=6048563@Y=49615790@U=82@L=200101017@",32
+"Bertrange, Belle-Etoile","A=1@O=Bertrange, Belle-Etoile@X=6049866@Y=49621903@U=82@L=200101002@",32
+"Bertrange, Gemeng","A=1@O=Bertrange, Gemeng@X=6050289@Y=49610576@U=82@L=200101008@",32
+"Bertrange, Dicks","A=1@O=Bertrange, Dicks@X=6052248@Y=49604733@U=82@L=200101004@",32
+"Bertrange, Pesch","A=1@O=Bertrange, Pesch@X=6053390@Y=49617660@U=82@L=200101022@",32
+"Leudelange, Ketzelach","A=1@O=Leudelange, Ketzelach@X=6057318@Y=49579635@U=82@L=220701010@",32
+"Strassen, Riedgen","A=1@O=Strassen, Riedgen@X=6057399@Y=49618154@U=82@L=200901026@",32
+"Strassen, Schoenacht","A=1@O=Strassen, Schoenacht@X=6057714@Y=49622136@U=82@L=200901011@",32
+"Leudelange, Schléiwenhaff","A=1@O=Leudelange, Schléiwenhaff@X=6057714@Y=49577999@U=82@L=220702001@",32
+"Leudelange, Ehlbett I","A=1@O=Leudelange, Ehlbett I@X=6058127@Y=49577127@U=82@L=220701012@",32
+"Strassen, Follereau","A=1@O=Strassen, Follereau@X=6058199@Y=49618415@U=82@L=200901010@",32
+"Bertrange, Kirfecht","A=1@O=Bertrange, Kirfecht@X=6058262@Y=49611925@U=82@L=200101010@",32
+"Strassen, Terminus","A=1@O=Strassen, Terminus@X=6058442@Y=49621840@U=82@L=200901029@",32
+"Leudelange, Ackerheek","A=1@O=Leudelange, Ackerheek@X=6058990@Y=49583744@U=82@L=220702002@",32
+"Leudelange, Galgebësch","A=1@O=Leudelange, Galgebësch@X=6059080@Y=49569550@U=82@L=220701004@",32
+"Leudelange, Gare","A=1@O=Leudelange, Gare@X=6059341@Y=49587052@U=82@L=220701021@",4
+"Bertrange, Gare","A=1@O=Bertrange, Gare@X=6059368@Y=49613093@U=82@L=200101024@",4
+"Leudelange, Gare routière","A=1@O=Leudelange, Gare routière@X=6059628@Y=49586737@U=82@L=220701005@",32
+"Leudelange, Pëssendall","A=1@O=Leudelange, Pëssendall@X=6060473@Y=49572237@U=82@L=220701017@",32
+"Leudelange, Ehlbett II","A=1@O=Leudelange, Ehlbett II@X=6060671@Y=49579977@U=82@L=220701014@",32
+"Bertrange, Gare routière","A=1@O=Bertrange, Gare routière@X=6060797@Y=49613039@U=82@L=200101007@",32
+"Leudelange, Bowent","A=1@O=Leudelange, Bowent@X=6061624@Y=49580256@U=82@L=220701002@",32
+"Bertrange, ramassage scol. (rue de Strassen)","A=1@O=Bertrange, ramassage scol. (rue de Strassen)@X=6061876@Y=49616464@U=82@L=200101015@",32
+"Strassen, Geesseneck","A=1@O=Strassen, Geesseneck@X=6062011@Y=49621633@U=82@L=200901016@",32
+"Leudelange, Queesche Wee","A=1@O=Leudelange, Queesche Wee@X=6062361@Y=49570413@U=82@L=220701013@",32
+"Leudelange, Gemeng","A=1@O=Leudelange, Gemeng@X=6062748@Y=49567527@U=82@L=220701006@",32
+"Leudelange, Kamellebierg","A=1@O=Leudelange, Kamellebierg@X=6063062@Y=49570538@U=82@L=220701009@",32
+"Bertrange, Montereale","A=1@O=Bertrange, Montereale@X=6063952@Y=49609830@U=82@L=200101012@",32
+"Strassen, Chapelle","A=1@O=Strassen, Chapelle@X=6064015@Y=49618649@U=82@L=200901008@",32
+"Leudelange, Wäschbur","A=1@O=Leudelange, Wäschbur@X=6064411@Y=49566970@U=82@L=220701016@",32
+"Bertrange, City Concorde","A=1@O=Bertrange, City Concorde@X=6065606@Y=49600652@U=82@L=200102002@",32
+"Leudelange, Gruef","A=1@O=Leudelange, Gruef@X=6065669@Y=49562889@U=82@L=220701008@",32
+"Leudelange, Beetebuergerwee","A=1@O=Leudelange, Beetebuergerwee@X=6066101@Y=49562053@U=82@L=220701001@",32
+"Strassen, Kesseler","A=1@O=Strassen, Kesseler@X=6066451@Y=49621013@U=82@L=200901017@",32
+"Roodt/Bour, Bréck","A=1@O=Roodt/Bour, Bréck@X=6000614@Y=49694365@U=82@L=190507001@",32
+"Tuntange, Sëllerstrooss","A=1@O=Tuntange, Sëllerstrooss@X=6003590@Y=49720164@U=82@L=160206004@",32
+"Nospelt, Beim Gliesener","A=1@O=Nospelt, Beim Gliesener@X=6005199@Y=49673708@U=82@L=190605001@",32
+"Tuntange, Al Schoul","A=1@O=Tuntange, Al Schoul@X=6008830@Y=49718420@U=82@L=160206006@",32
+"Nospelt, Pompjeesbau","A=1@O=Nospelt, Pompjeesbau@X=6008866@Y=49673285@U=82@L=190605003@",32
+"Tuntange, Kiirch","A=1@O=Tuntange, Kiirch@X=6008938@Y=49717701@U=82@L=160206002@",32
+"Tuntange, Duerf","A=1@O=Tuntange, Duerf@X=6009639@Y=49716739@U=82@L=160206001@",32
+"Buschdorf, Belle Vue","A=1@O=Buschdorf, Belle Vue@X=6010170@Y=49746718@U=82@L=160203001@",32
+"Tuntange, Gemeng","A=1@O=Tuntange, Gemeng@X=6010574@Y=49718051@U=82@L=160206008@",32
+"Nospelt, Kräizhiel","A=1@O=Nospelt, Kräizhiel@X=6011275@Y=49672413@U=82@L=190605002@",32
+"Kehlen, Zone Industrielle 3","A=1@O=Kehlen, Zone Industrielle 3@X=6012165@Y=49664314@U=82@L=190602006@",32
+"Tuntange, Weisserchen","A=1@O=Tuntange, Weisserchen@X=6012732@Y=49713161@U=82@L=160206005@",32
+"Kehlen, Zone Industrielle 2","A=1@O=Kehlen, Zone Industrielle 2@X=6014206@Y=49662426@U=82@L=190602010@",32
+"Tuntange, Knupp","A=1@O=Tuntange, Knupp@X=6016058@Y=49716433@U=82@L=160206003@",32
+"Brouch (Mersch), Kneppchen","A=1@O=Brouch (Mersch), Kneppchen@X=6017065@Y=49741882@U=82@L=160202003@",32
+"Bour, Bour","A=1@O=Bour, Bour@X=6017757@Y=49701035@U=82@L=161109001@",32
+"Kehlen, Zone Industrielle 1","A=1@O=Kehlen, Zone Industrielle 1@X=6018898@Y=49663136@U=82@L=190602009@",32
+"Brouch (Mersch), Kiercheplaz","A=1@O=Brouch (Mersch), Kiercheplaz@X=6020310@Y=49735194@U=82@L=160202001@",32
+"Dondelange, Pompstatioun","A=1@O=Dondelange, Pompstatioun@X=6025146@Y=49695488@U=82@L=190601002@",32
+"Kehlen, Um Ënneschte Buer","A=1@O=Kehlen, Um Ënneschte Buer@X=6029434@Y=49667622@U=82@L=190602002@",32
+"Dondelange, Dondel","A=1@O=Dondelange, Dondel@X=6029937@Y=49687928@U=82@L=190601001@",32
+"Brouch (Mersch), Kloeppel","A=1@O=Brouch (Mersch), Kloeppel@X=6030602@Y=49738798@U=82@L=160202002@",32
+"Kehlen, Bei Fiewer","A=1@O=Kehlen, Bei Fiewer@X=6034405@Y=49667514@U=82@L=190602001@",32
+"Kehlen, Op der Héicht","A=1@O=Kehlen, Op der Héicht@X=6035043@Y=49666004@U=82@L=190602003@",32
+"Kehlen, Schaarfeneck","A=1@O=Kehlen, Schaarfeneck@X=6035888@Y=49670759@U=82@L=190602004@",32
+"Kehlen, Um Knapp","A=1@O=Kehlen, Um Knapp@X=6038585@Y=49667379@U=82@L=190602005@",32
+"Ansembourg, Kapell","A=1@O=Ansembourg, Kapell@X=6040751@Y=49702320@U=82@L=160208001@",32
+"Kehlen, Katterwang","A=1@O=Kehlen, Katterwang@X=6044769@Y=49678364@U=82@L=190602011@",32
+"Hollenfels, Schoul","A=1@O=Hollenfels, Schoul@X=6048140@Y=49712694@U=82@L=160210001@",32
+"Hollenfels, Veräinsbau","A=1@O=Hollenfels, Veräinsbau@X=6050531@Y=49714689@U=82@L=160210002@",32
+"Meispelt, Bei Mëllesch","A=1@O=Meispelt, Bei Mëllesch@X=6055709@Y=49690059@U=82@L=190604001@",32
+"Meispelt, Kräizwee","A=1@O=Meispelt, Kräizwee@X=6058019@Y=49685960@U=82@L=190604002@",32
+Marienthal,A=1@O=Marienthal@X=6058981@Y=49710204@U=82@L=160207001@,32
+"Meispelt, Kuesselt","A=1@O=Meispelt, Kuesselt@X=6060725@Y=49692144@U=82@L=190604003@",32
+"Hollenfels, Kuelbecherhaff","A=1@O=Hollenfels, Kuelbecherhaff@X=6062244@Y=49717782@U=82@L=160211001@",32
+"Keispelt, Spellen Eck","A=1@O=Keispelt, Spellen Eck@X=6066469@Y=49694922@U=82@L=190603002@",32
+"Keispelt, Bei Péickes","A=1@O=Keispelt, Bei Péickes@X=6067566@Y=49693439@U=82@L=190603001@",32
+"Vichten, Ohligsfeld","A=1@O=Vichten, Ohligsfeld@X=6001972@Y=49802550@U=82@L=150902006@",32
+"Mertzig, Eglise","A=1@O=Mertzig, Eglise@X=6002880@Y=49831945@U=82@L=141101003@",32
+"Mertzig, Gemeng","A=1@O=Mertzig, Gemeng@X=6005630@Y=49833167@U=82@L=141101005@",32
+"Buschdorf, Määschhaff","A=1@O=Buschdorf, Määschhaff@X=6006880@Y=49750215@U=82@L=160203003@",32
+"Vichten, Hemeschbaach","A=1@O=Vichten, Hemeschbaach@X=6007392@Y=49801426@U=82@L=150902005@",32
+"Boevange, Gare","A=1@O=Boevange, Gare@X=6008183@Y=49774800@U=82@L=160201003@",32
+"Boevange, Uerbelt","A=1@O=Boevange, Uerbelt@X=6008938@Y=49774638@U=82@L=160201006@",32
+"Mertzig, Internat","A=1@O=Mertzig, Internat@X=6009118@Y=49834722@U=82@L=141101004@",32
+"Boevange, Helpert","A=1@O=Boevange, Helpert@X=6011060@Y=49774890@U=82@L=160201004@",32
+"Buschdorf, Helpërtwee","A=1@O=Buschdorf, Helpërtwee@X=6012174@Y=49751150@U=82@L=160203002@",32
+"Boevange-sur-Attert, prov. Rue de Helpert","A=1@O=Boevange-sur-Attert, prov. Rue de Helpert@X=6013487@Y=49775403@U=82@L=160201008@",32
+"Boevange-sur-Attert, Millen","A=1@O=Boevange-sur-Attert, Millen@X=6014557@Y=49777164@U=82@L=160201002@",32
+"Boevange, Lëtschert","A=1@O=Boevange, Lëtschert@X=6017793@Y=49773191@U=82@L=160201005@",32
+Michelbouch,A=1@O=Michelbouch@X=6018719@Y=49818749@U=82@L=150901001@,32
+"Boevange, Beim Wald","A=1@O=Boevange, Beim Wald@X=6020489@Y=49772023@U=82@L=160201007@",32
+"Grevenknapp, Um ënnschte Knapp","A=1@O=Grevenknapp, Um ënnschte Knapp@X=6028220@Y=49765595@U=82@L=160205003@",32
+"Grevenknapp, Riesenhaff","A=1@O=Grevenknapp, Riesenhaff@X=6031816@Y=49762809@U=82@L=160205002@",32
+Openthalt,A=1@O=Openthalt@X=6035447@Y=49751060@U=82@L=160204002@,32
+"Openthalt, Finsterthal","A=1@O=Openthalt, Finsterthal@X=6035645@Y=49753972@U=82@L=160204001@",32
+"Reckange/Mersch, Barriär","A=1@O=Reckange/Mersch, Barriär@X=6052383@Y=49748237@U=82@L=160907001@",32
+"Bissen, Um Sand","A=1@O=Bissen, Um Sand@X=6059601@Y=49787475@U=82@L=160101008@",32
+"Bissen, Kräizung","A=1@O=Bissen, Kräizung@X=6063260@Y=49789102@U=82@L=160101002@",32
+"Bissen, Henckels","A=1@O=Bissen, Henckels@X=6064608@Y=49789650@U=82@L=160101006@",32
+"Bissen, Kiirch","A=1@O=Bissen, Kiirch@X=6066613@Y=49787691@U=82@L=160101004@",32
+"Bockholtz (Goesdorf), Op der Millen","A=1@O=Bockholtz (Goesdorf), Op der Millen@X=6006367@Y=49926511@U=82@L=120401002@",32
+"Ringel, Ringel","A=1@O=Ringel, Ringel@X=6010790@Y=49915832@U=82@L=120506001@",32
+"Masseler, Op der Houscht","A=1@O=Masseler, Op der Houscht@X=6018512@Y=49934017@U=82@L=120405002@",32
+"Oberfeulen, route d'Arlon","A=1@O=Oberfeulen, route d'Arlon@X=6030045@Y=49846094@U=82@L=140802002@",32
+"Dirbach, Bifurcation","A=1@O=Dirbach, Bifurcation@X=6030827@Y=49921019@U=82@L=120513001@",32
+"Dirbach, Village","A=1@O=Dirbach, Village@X=6033191@Y=49920399@U=82@L=120513002@",32
+"Oberfeulen, Place de la Chapelle","A=1@O=Oberfeulen, Place de la Chapelle@X=6034099@Y=49847145@U=82@L=140802001@",32
+"Masseler, Masseler","A=1@O=Masseler, Masseler@X=6034791@Y=49930053@U=82@L=120405001@",32
+"Oberfeulen, Op Hopericht","A=1@O=Oberfeulen, Op Hopericht@X=6036095@Y=49849006@U=82@L=140802003@",32
+"Kehmen, Bei der Kiirch","A=1@O=Kehmen, Bei der Kiirch@X=6036391@Y=49899885@U=82@L=140305001@",32
+"Niederfeulen, Atelier","A=1@O=Niederfeulen, Atelier@X=6037857@Y=49857312@U=82@L=140801005@",32
+"Niederfeulen, Belle Vue","A=1@O=Niederfeulen, Belle Vue@X=6043448@Y=49854795@U=82@L=140801001@",32
+"Niederfeulen, route d'Arlon","A=1@O=Niederfeulen, route d'Arlon@X=6044050@Y=49854310@U=82@L=140801004@",32
+"Scheidel, Hengesch","A=1@O=Scheidel, Hengesch@X=6044329@Y=49893161@U=82@L=140308001@",32
+"Niederfeulen, Mairie","A=1@O=Niederfeulen, Mairie@X=6045749@Y=49854040@U=82@L=140801003@",32
+"Niederfeulen, Faubourg","A=1@O=Niederfeulen, Faubourg@X=6051116@Y=49852476@U=82@L=140801002@",32
+"Goebelsmühle, Op der Gare","A=1@O=Goebelsmühle, Op der Gare@X=6053129@Y=49921333@U=82@L=140304001@",32
+"Goebelsmühle, Gare","A=1@O=Goebelsmühle, Gare@X=6053426@Y=49921145@U=82@L=140304002@",6
+"Goebelsmühle, Op der Gafel","A=1@O=Goebelsmühle, Op der Gafel@X=6056284@Y=49920524@U=82@L=140304003@",32
+"Schlindermanderscheid, An der Driicht","A=1@O=Schlindermanderscheid, An der Driicht@X=6056518@Y=49934350@U=82@L=140309003@",32
+"Welscheid, Bei der Bréck","A=1@O=Welscheid, Bei der Bréck@X=6060015@Y=49886860@U=82@L=140310001@",32
+"Bourscheid, Bei Meesch","A=1@O=Bourscheid, Bei Meesch@X=6060375@Y=49907661@U=82@L=140301002@",32
+"Schlindermanderscheid, Kiirch","A=1@O=Schlindermanderscheid, Kiirch@X=6061435@Y=49932965@U=82@L=140309002@",32
+"Schlindermanderscheid, Bei Zäichens","A=1@O=Schlindermanderscheid, Bei Zäichens@X=6061489@Y=49931266@U=82@L=140309001@",32
+"Bourscheid, Bei der Kiirch","A=1@O=Bourscheid, Bei der Kiirch@X=6064276@Y=49909872@U=82@L=140301001@",32
+"Welscheid, Jongerts","A=1@O=Welscheid, Jongerts@X=6065885@Y=49887255@U=82@L=140310002@",32
+"Wilwerwiltz, Gare","A=1@O=Wilwerwiltz, Gare@X=6000542@Y=49988456@U=82@L=120606005@",6
+"Wilwerwiltz, Gare routière","A=1@O=Wilwerwiltz, Gare routière@X=6001082@Y=49988429@U=82@L=120606001@",32
+"Drauffelt, Op der Léi","A=1@O=Drauffelt, Op der Léi@X=6001315@Y=50015181@U=82@L=110109003@",32
+"Alscheid, Haut","A=1@O=Alscheid, Haut@X=6005352@Y=49969659@U=82@L=120601001@",32
+"Drauffelt, Gare routière","A=1@O=Drauffelt, Gare routière@X=6006808@Y=50017338@U=82@L=110109002@",32
+"Drauffelt, Gare","A=1@O=Drauffelt, Gare@X=6007185@Y=50016898@U=82@L=110109004@",6
+"Drauffelt, Park & Rail","A=1@O=Drauffelt, Park *26 Rail@X=6007743@Y=50016898@U=82@L=110109005@",32
+"Alscheid, Village","A=1@O=Alscheid, Village@X=6007788@Y=49970190@U=82@L=120601002@",32
+"Wilwerwiltz, Tomm","A=1@O=Wilwerwiltz, Tomm@X=6007860@Y=49986784@U=82@L=120606002@",32
+"Alscheid, Schoulbierg","A=1@O=Alscheid, Schoulbierg@X=6010197@Y=49970163@U=82@L=120601003@",32
+"Pintsch, An der Kéier","A=1@O=Pintsch, An der Kéier@X=6010466@Y=49992870@U=82@L=120605001@",32
+"Kautenbach, Am Duerf","A=1@O=Kautenbach, Am Duerf@X=6016768@Y=49951717@U=82@L=120603001@",32
+"Kautenbach, Gare routière","A=1@O=Kautenbach, Gare routière@X=6021424@Y=49949218@U=82@L=120603002@",32
+"Kautenbach, Gare","A=1@O=Kautenbach, Gare@X=6022089@Y=49948625@U=82@L=120603003@",6
+"Siebenaler, Bei der Kierch","A=1@O=Siebenaler, Bei der Kierch@X=6025146@Y=50009670@U=82@L=110116002@",32
+"Consthum, Ennescht Duerf","A=1@O=Consthum, Ennescht Duerf@X=6050019@Y=49972302@U=82@L=110404001@",32
+"Bockholtz (Parc Hosingen), Kiirch","A=1@O=Bockholtz (Parc Hosingen), Kiirch@X=6050756@Y=50011567@U=82@L=110411001@",32
+"Consthum, Knupp","A=1@O=Consthum, Knupp@X=6052689@Y=49973606@U=82@L=110404003@",32
+"Schlindermanderscheid, Um Friedbësch","A=1@O=Schlindermanderscheid, Um Friedbësch@X=6055772@Y=49951546@U=82@L=140309004@",32
+"Consthum, Kémel","A=1@O=Consthum, Kémel@X=6057768@Y=49972410@U=82@L=110404004@",32
+"Consthum, Wollefswee","A=1@O=Consthum, Wollefswee@X=6058199@Y=49972374@U=82@L=110404002@",32
+"Neidhausen, Kiirch","A=1@O=Neidhausen, Kiirch@X=6066137@Y=50028916@U=82@L=110405001@",32
+"Bertrange, Spatzwiss","A=1@O=Bertrange, Spatzwiss@X=6068779@Y=49610702@U=82@L=200102005@",32
+"Leudelange, Stiédswee","A=1@O=Leudelange, Stiédswee@X=6069013@Y=49568920@U=82@L=220701015@",32
+"Bertrange, Automobile Club","A=1@O=Bertrange, Automobile Club@X=6069211@Y=49601299@U=82@L=200102001@",32
+"Leudelange, Op der Strooss","A=1@O=Leudelange, Op der Strooss@X=6069750@Y=49563347@U=82@L=220701011@",32
+"Bertrange, Richterwee","A=1@O=Bertrange, Richterwee@X=6070137@Y=49607331@U=82@L=200101014@",32
+"Strassen, Barblé","A=1@O=Strassen, Barblé@X=6070586@Y=49620455@U=82@L=200901004@",32
+"Strassen, Grande-Duchesse Charlotte","A=1@O=Strassen, Grande-Duchesse Charlotte@X=6072186@Y=49619125@U=82@L=200901013@",32
+"Helfenterbréck, Pletzer","A=1@O=Helfenterbréck, Pletzer@X=6075387@Y=49603601@U=82@L=200102003@",32
+"Bertrange, Fleuri","A=1@O=Bertrange, Fleuri@X=6076052@Y=49605138@U=82@L=200101006@",32
+"Strassen, Les Thermes","A=1@O=Strassen, Les Thermes@X=6076312@Y=49612275@U=82@L=200901033@",32
+"Strassen, Benelux","A=1@O=Strassen, Benelux@X=6076330@Y=49619628@U=82@L=200901020@",32
+"Leudelange, LaLux","A=1@O=Leudelange, LaLux@X=6076690@Y=49566394@U=82@L=220701020@",32
+"Strassen, Cité Pescher Lilas","A=1@O=Strassen, Cité Pescher Lilas@X=6077265@Y=49622029@U=82@L=200901038@",32
+"Strassen, Cité Pescher Lavandes","A=1@O=Strassen, Cité Pescher Lavandes@X=6077939@Y=49623503@U=82@L=200901039@",32
+"Bertrange, Helfenterbrück","A=1@O=Bertrange, Helfenterbrück@X=6078038@Y=49603673@U=82@L=200102004@",32
+"Strassen, Kiem","A=1@O=Strassen, Kiem@X=6078065@Y=49618568@U=82@L=200901018@",32
+"Strassen, Cité Pescher","A=1@O=Strassen, Cité Pescher@X=6078461@Y=49621157@U=82@L=200901035@",32
+"Strassen, Atrium","A=1@O=Strassen, Atrium@X=6079072@Y=49608509@U=82@L=200901002@",32
+"Leudelange, Schaefert","A=1@O=Leudelange, Schaefert@X=6079620@Y=49572354@U=82@L=220701019@",32
+"Leudelange, Edeleck","A=1@O=Leudelange, Edeleck@X=6079764@Y=49565648@U=82@L=220701003@",32
+"Strassen, Bourmicht","A=1@O=Strassen, Bourmicht@X=6079917@Y=49610765@U=82@L=200901007@",32
+"Strassen, Aurélia","A=1@O=Strassen, Aurélia@X=6080654@Y=49619008@U=82@L=200901003@",32
+"Strassen, Oricher-Hoehl","A=1@O=Strassen, Oricher-Hoehl@X=6080969@Y=49621705@U=82@L=200901009@",32
+"Leudelange, Foyer","A=1@O=Leudelange, Foyer@X=6081337@Y=49569585@U=82@L=220701018@",32
+"Strassen, Réimerwee","A=1@O=Strassen, Réimerwee@X=6082191@Y=49617813@U=82@L=200901025@",32
+"Bridel, Stuff","A=1@O=Bridel, Stuff@X=6083378@Y=49652853@U=82@L=190801004@",32
+"Bridel, Schanz","A=1@O=Bridel, Schanz@X=6084457@Y=49648915@U=82@L=190801003@",32
+"Merl, Op der Millen","A=1@O=Merl, Op der Millen@X=6084960@Y=49603448@U=82@L=200420010@",32
+"Strassen, Michel Angelo","A=1@O=Strassen, Michel Angelo@X=6086911@Y=49616680@U=82@L=200901022@",32
+"Strassen, Hondseck","A=1@O=Strassen, Hondseck@X=6087558@Y=49618019@U=82@L=200901014@",32
+"Strassen, Schafsstrachen","A=1@O=Strassen, Schafsstrachen@X=6088457@Y=49620608@U=82@L=200901034@",32
+"Merl, Plak","A=1@O=Merl, Plak@X=6089248@Y=49603034@U=82@L=200420013@",32
+"Strassen, Les Aubépines","A=1@O=Strassen, Les Aubépines@X=6090336@Y=49616033@U=82@L=200901019@",32
+"Leudelange, Grasbësch","A=1@O=Leudelange, Grasbësch@X=6091351@Y=49577056@U=82@L=220701007@",32
+"Strassen, Kaltacht","A=1@O=Strassen, Kaltacht@X=6091378@Y=49619880@U=82@L=200901006@",32
+"Strassen, Huorgarten","A=1@O=Strassen, Huorgarten@X=6091945@Y=49617381@U=82@L=200901015@",32
+"Reckenthal, Gäertnerei","A=1@O=Reckenthal, Gäertnerei@X=6092529@Y=49624707@U=82@L=200425002@",32
+"Merl, St.Hubert","A=1@O=Merl, St.Hubert@X=6093005@Y=49603996@U=82@L=200420014@",32
+"Strassen, Primeurs","A=1@O=Strassen, Primeurs@X=6093985@Y=49620078@U=82@L=200901024@",32
+"Cessange, Boy Konen","A=1@O=Cessange, Boy Konen@X=6094030@Y=49580373@U=82@L=200407005@",32
+"Merl, Celtes","A=1@O=Merl, Celtes@X=6094605@Y=49601641@U=82@L=200420003@",32
+"Merl, St. Gengoul","A=1@O=Merl, St. Gengoul@X=6094758@Y=49602657@U=82@L=200420015@",32
+"Belair, Rue de l'Ouest","A=1@O=Belair, Rue de l'Ouest@X=6094767@Y=49615206@U=82@L=200403016@",32
+"Merl, Barrière","A=1@O=Merl, Barrière@X=6097203@Y=49602261@U=82@L=200420002@",32
+"Strassen, Pl. Thomas Edison LTPS2","A=1@O=Strassen, Pl. Thomas Edison LTPS2@X=6097221@Y=49620797@U=82@L=200405055@",32
+"Cessange, Rue de Leudelange","A=1@O=Cessange, Rue de Leudelange@X=6097311@Y=49582009@U=82@L=200407010@",32
+"Belair, Kannerklinick/Maternité","A=1@O=Belair, Kannerklinick/Maternité@X=6097545@Y=49617938@U=82@L=200403009@",32
+"Belair, Val Ste Croix","A=1@O=Belair, Val Ste Croix@X=6097590@Y=49612302@U=82@L=200403019@",32
+"Merl, Laang Heck","A=1@O=Merl, Laang Heck@X=6097797@Y=49605237@U=82@L=200420008@",32
+"Bridel, Biirgerkräiz","A=1@O=Bridel, Biirgerkräiz@X=6097914@Y=49646434@U=82@L=201002001@",32
+"Merl, Charlemagne","A=1@O=Merl, Charlemagne@X=6098030@Y=49607817@U=82@L=200420016@",32
+"Belair, Aubépines","A=1@O=Belair, Aubépines@X=6098273@Y=49615502@U=82@L=200403003@",32
+"Strassen, Steekaul","A=1@O=Strassen, Steekaul@X=6098381@Y=49624150@U=82@L=200901012@",32
+"Merl, Kierfecht","A=1@O=Merl, Kierfecht@X=6099091@Y=49609812@U=82@L=200420007@",32
+"Cessange, Am Brill","A=1@O=Cessange, Am Brill@X=6099145@Y=49588175@U=82@L=200407014@",32
+"Cessange, Am Eck","A=1@O=Cessange, Am Eck@X=6099298@Y=49585793@U=82@L=200407001@",32
+"Luxembourg, Centre Hospitalier","A=1@O=Luxembourg, Centre Hospitalier@X=6099756@Y=49618972@U=82@L=200405008@",32
+"Cessange, Antoine","A=1@O=Cessange, Antoine@X=6100305@Y=49584022@U=82@L=200407002@",32
+"Merl, Marcel Cahen","A=1@O=Merl, Marcel Cahen@X=6101213@Y=49601830@U=82@L=200420009@",32
+"Belair, Glaesener-Hartmann","A=1@O=Belair, Glaesener-Hartmann@X=6101878@Y=49611592@U=82@L=200403023@",32
+"Merl, Orval","A=1@O=Merl, Orval@X=6102525@Y=49605839@U=82@L=200420011@",32
+"Belair, Wandmillen","A=1@O=Belair, Wandmillen@X=6102651@Y=49615844@U=82@L=200403021@",32
+"Cessange, Duerf","A=1@O=Cessange, Duerf@X=6103082@Y=49587132@U=82@L=200407006@",32
+"Belair, Oradour","A=1@O=Belair, Oradour@X=6103936@Y=49609561@U=82@L=200403012@",32
+"Rollingergrund, Roudebierg","A=1@O=Rollingergrund, Roudebierg@X=6104700@Y=49624770@U=82@L=200425006@",32
+"Hollerich, AVL Portal","A=1@O=Hollerich, AVL Portal@X=6105527@Y=49599115@U=82@L=200415016@",32
+"Cessange, Fischerhaff","A=1@O=Cessange, Fischerhaff@X=6105599@Y=49591366@U=82@L=200407007@",32
+"Merl, Conservatoire","A=1@O=Merl, Conservatoire@X=6105662@Y=49602261@U=82@L=200420004@",32
+"Rollingergrund, Val St André","A=1@O=Rollingergrund, Val St André@X=6105779@Y=49621975@U=82@L=200425011@",32
+"Hollerich, P+R Bouillon","A=1@O=Hollerich, P+R Bouillon@X=6106282@Y=49600104@U=82@L=200415009@",32
+"Belair, Place de France","A=1@O=Belair, Place de France@X=6106372@Y=49606387@U=82@L=200403013@",32
+"Cessange, Kierch","A=1@O=Cessange, Kierch@X=6106732@Y=49589128@U=82@L=200407008@",32
+"Rollingergrund, Villeroy & Boch","A=1@O=Rollingergrund, Villeroy *26 Boch@X=6106948@Y=49628177@U=82@L=200425012@",32
+"Cessange, Tubishaff","A=1@O=Cessange, Tubishaff@X=6107020@Y=49585847@U=82@L=200407012@",32
+"Limpertsberg, Neumans-Park","A=1@O=Limpertsberg, Neumans-Park@X=6107631@Y=49620896@U=82@L=200419029@",32
+"Belair, Kierch","A=1@O=Belair, Kierch@X=6107721@Y=49610459@U=82@L=200403010@",32
+"Rollingergrund, Val Fleuri","A=1@O=Rollingergrund, Val Fleuri@X=6107748@Y=49619098@U=82@L=200425010@",32
+"Belair, Place de Liège","A=1@O=Belair, Place de Liège@X=6107775@Y=49608590@U=82@L=200403014@",32
+"Kockelscheuer, Kräizhaff","A=1@O=Kockelscheuer, Kräizhaff@X=6108089@Y=49562376@U=82@L=200418002@",32
+"Limpertsberg, Lefèvre","A=1@O=Limpertsberg, Lefèvre@X=6108098@Y=49622352@U=82@L=200419024@",32
+"Belair, Amsterdam","A=1@O=Belair, Amsterdam@X=6108188@Y=49612203@U=82@L=200403001@",32
+"Kockelscheuer, Plateau","A=1@O=Kockelscheuer, Plateau@X=6108188@Y=49560156@U=82@L=200418004@",32
+"Belair, Rue d'Ostende","A=1@O=Belair, Rue d'Ostende@X=6108458@Y=49614388@U=82@L=200403018@",32
+"Kockelscheuer, Patinoire","A=1@O=Kockelscheuer, Patinoire@X=6108476@Y=49565244@U=82@L=200418003@",32
+"Merl, Geesseknäppchen (N)","A=1@O=Merl, Geesseknäppchen (N)@X=6108485@Y=49603610@U=82@L=200420005@",32
+"Cessange, Artisans","A=1@O=Cessange, Artisans@X=6109923@Y=49594468@U=82@L=200407003@",32
+"Merl, Parc","A=1@O=Merl, Parc@X=6110112@Y=49607457@U=82@L=200420012@",32
+"Bambësch, Centre Sportif","A=1@O=Bambësch, Centre Sportif@X=6110489@Y=49632070@U=82@L=200401001@",32
+"Cessange, EIGT","A=1@O=Cessange, EIGT@X=6110507@Y=49590009@U=82@L=200407015@",32
+"Gasperich, Stadion","A=1@O=Gasperich, Stadion@X=6110948@Y=49576552@U=82@L=200423009@",256
+"Rollingergrund, Beim Klomp","A=1@O=Rollingergrund, Beim Klomp@X=6111092@Y=49618001@U=82@L=200425004@",32
+"Merl, Athénée","A=1@O=Merl, Athénée@X=6111218@Y=49604967@U=82@L=200420001@",32
+"Cessange, Kuelebierg","A=1@O=Cessange, Kuelebierg@X=6111253@Y=49588238@U=82@L=200407009@",32
+"Gasperich, Stade de Luxembourg","A=1@O=Gasperich, Stade de Luxembourg@X=6111496@Y=49576813@U=82@L=200412031@",32
+"Hollerich, Kierfecht","A=1@O=Hollerich, Kierfecht@X=6111946@Y=49599600@U=82@L=200415017@",32
+"Limpertsberg, Jean Soupert","A=1@O=Limpertsberg, Jean Soupert@X=6112036@Y=49622029@U=82@L=200419012@",32
+"Belair, Archiducs","A=1@O=Belair, Archiducs@X=6112260@Y=49612671@U=82@L=200403002@",32
+"Belair, Franciscaines","A=1@O=Belair, Franciscaines@X=6112970@Y=49608275@U=82@L=200403007@",32
+"Gasperich, Schaarfen Eck","A=1@O=Gasperich, Schaarfen Eck@X=6113132@Y=49579555@U=82@L=200412018@",32
+"Belair, Sacré-Coeur","A=1@O=Belair, Sacré-Coeur@X=6113159@Y=49610280@U=82@L=200403005@",32
+"Kockelscheuer, Camping","A=1@O=Kockelscheuer, Camping@X=6113204@Y=49573837@U=82@L=200418001@",32
+"Muhlenbach, Peiffeschbierg","A=1@O=Muhlenbach, Peiffeschbierg@X=6113240@Y=49628384@U=82@L=200421004@",32
+"Merl, Geesseknäppchen (S)","A=1@O=Merl, Geesseknäppchen (S)@X=6113483@Y=49601722@U=82@L=200420006@",32
+"Belair, Nicolas Simmer","A=1@O=Belair, Nicolas Simmer@X=6113537@Y=49614244@U=82@L=200403017@",32
+"Rollingergrund, Bei der Fiels","A=1@O=Rollingergrund, Bei der Fiels@X=6114076@Y=49617255@U=82@L=200425003@",32
+"Luxembourg, Uni Campus Limpertsberg","A=1@O=Luxembourg, Uni Campus Limpertsberg@X=6114508@Y=49620959@U=82@L=200419020@",32
+"Limpertsberg, Léandre Lacroix","A=1@O=Limpertsberg, Léandre Lacroix@X=6114669@Y=49622181@U=82@L=200419023@",32
+"Limpertsberg, Lycée Michel Lucius","A=1@O=Limpertsberg, Lycée Michel Lucius@X=6114804@Y=49624393@U=82@L=200419022@",32
+"Hollerich, Alphonse Munchen","A=1@O=Hollerich, Alphonse Munchen@X=6114813@Y=49604518@U=82@L=200415001@",32
+"Luxembourg, Siggy vu Lëtzebuerg","A=1@O=Luxembourg, Siggy vu Lëtzebuerg@X=6114948@Y=49626164@U=82@L=200419015@",32
+"Belair, Bragance","A=1@O=Belair, Bragance@X=6114957@Y=49607295@U=82@L=200403004@",32
+"Limpertsberg, L.T.C.","A=1@O=Limpertsberg, L.T.C.@X=6115164@Y=49624788@U=82@L=200419021@",32
+"Cessange, Rue Verte","A=1@O=Cessange, Rue Verte@X=6115236@Y=49589676@U=82@L=200407011@",32
+"Gasperich, Cloche d'Or","A=1@O=Gasperich, Cloche d'Or@X=6115353@Y=49583474@U=82@L=200412006@",32
+"Cessange, Barrès","A=1@O=Cessange, Barrès@X=6115757@Y=49595870@U=82@L=200407004@",32
+"Luxembourg, Square New York","A=1@O=Luxembourg, Square New York@X=6115946@Y=49613219@U=82@L=200403022@",32
+"Gasperich, Stengege Wee","A=1@O=Gasperich, Stengege Wee@X=6116216@Y=49588229@U=82@L=200412028@",32
+"Rollingergrund, Biischtefabrick","A=1@O=Rollingergrund, Biischtefabrick@X=6116584@Y=49615143@U=82@L=200425005@",32
+"Hollerich, Poincaré","A=1@O=Hollerich, Poincaré@X=6116611@Y=49602270@U=82@L=200415011@",32
+"Limpertsberg, Batty Weber","A=1@O=Limpertsberg, Batty Weber@X=6116764@Y=49622379@U=82@L=200419008@",32
+"Belair, Crécy","A=1@O=Belair, Crécy@X=6116854@Y=49608868@U=82@L=200403006@",32
+"Gasperich, Gaasperecher Bierg","A=1@O=Gasperich, Gaasperecher Bierg@X=6116971@Y=49592778@U=82@L=200412009@",32
+"Limpertsberg, Ermesinde","A=1@O=Limpertsberg, Ermesinde@X=6117007@Y=49619179@U=82@L=200419014@",32
+"Muhlenbach, Siwemuergen","A=1@O=Muhlenbach, Siwemuergen@X=6117016@Y=49629193@U=82@L=200421006@",32
+"Gasperich, prov. Cloche d'Or Quai 4","A=1@O=Gasperich, prov. Cloche d'Or Quai 4@X=6117105@Y=49583276@U=82@L=900000011@",32
+"Hollerich, Schluechthaus","A=1@O=Hollerich, Schluechthaus@X=6117321@Y=49600320@U=82@L=200415013@",32
+"Gasperich, Louis de Froment","A=1@O=Gasperich, Louis de Froment@X=6117582@Y=49590252@U=82@L=200412013@",32
+"Gasperich, Émile Bian","A=1@O=Gasperich, Émile Bian@X=6117798@Y=49580256@U=82@L=200412004@",32
+"Hollerich, Salzhaff","A=1@O=Hollerich, Salzhaff@X=6117861@Y=49600032@U=82@L=200415012@",32
+"Hollerich, Aciérie","A=1@O=Hollerich, Aciérie@X=6117915@Y=49597236@U=82@L=200415002@",32
+"Gasperich, Jean Piret","A=1@O=Gasperich, Jean Piret@X=6118166@Y=49583141@U=82@L=200412022@",32
+"Gasperich, Beethoven","A=1@O=Gasperich, Beethoven@X=6118337@Y=49589640@U=82@L=200412002@",32
+"Belair, Guillaume","A=1@O=Belair, Guillaume@X=6118454@Y=49606639@U=82@L=200403008@",32
+"Hollerich, Nancy","A=1@O=Hollerich, Nancy@X=6118454@Y=49603412@U=82@L=200415008@",32
+"Limpertsberg, N.S. Pierret","A=1@O=Limpertsberg, N.S. Pierret@X=6118562@Y=49620707@U=82@L=200419028@",32
+"Centre, Stäreplaz / Étoile (Bus)","A=1@O=Centre, Stäreplaz / Étoile (Bus)@X=6119056@Y=49613507@U=82@L=200405045@",32
+"Limpertsberg, Square André","A=1@O=Limpertsberg, Square André@X=6119137@Y=49623656@U=82@L=200419034@",32
+"Limpertsberg, Henri VII","A=1@O=Limpertsberg, Henri VII@X=6119254@Y=49617912@U=82@L=200419019@",32
+"Gasperich, Klensch","A=1@O=Gasperich, Klensch@X=6119425@Y=49593155@U=82@L=200412011@",32
+"Centre, Stäreplaz / Étoile (Tram)","A=1@O=Centre, Stäreplaz / Étoile (Tram)@X=6119604@Y=49613678@U=82@L=200405061@",256
+"Hollerich, Heentze Park","A=1@O=Hollerich, Heentze Park@X=6119937@Y=49601407@U=82@L=200415005@",32
+"Limpertsberg, Avenir","A=1@O=Limpertsberg, Avenir@X=6120198@Y=49625453@U=82@L=200419007@",32
+"Gasperich, Lise Meitner","A=1@O=Gasperich, Lise Meitner@X=6120324@Y=49584624@U=82@L=200412032@",32
+"Limpertsberg, Alen Tramsschapp","A=1@O=Limpertsberg, Alen Tramsschapp@X=6120611@Y=49621975@U=82@L=200419002@",32
+"Gasperich, Waassertuerm (Tram)","A=1@O=Gasperich, Waassertuerm (Tram)@X=6120629@Y=49579914@U=82@L=200423008@",256
+"Gasperich, Waassertuerm","A=1@O=Gasperich, Waassertuerm@X=6120782@Y=49580723@U=82@L=200412023@",32
+"Belair, Rheinsheim","A=1@O=Belair, Rheinsheim@X=6120827@Y=49607457@U=82@L=200403015@",32
+"Hollerich, Gare","A=1@O=Hollerich, Gare@X=6120863@Y=49595394@U=82@L=200415014@",4
+"Hollerich, Gare routière","A=1@O=Hollerich, Gare routière@X=6120953@Y=49595178@U=82@L=200415004@",32
+"Gasperich, François Hogenberg","A=1@O=Gasperich, François Hogenberg@X=6120962@Y=49587555@U=82@L=200412008@",32
+"Belair, Wampach","A=1@O=Belair, Wampach@X=6121088@Y=49609893@U=82@L=200403020@",32
+"Limpertsberg, Faïencerie","A=1@O=Limpertsberg, Faïencerie@X=6121267@Y=49616042@U=82@L=200419039@",256
+"Gasperich, Al Gaasperech","A=1@O=Gasperich, Al Gaasperech@X=6121312@Y=49592238@U=82@L=200412001@",32
+"Hollerich, Jean-Baptiste Merkels","A=1@O=Hollerich, Jean-Baptiste Merkels@X=6121375@Y=49599151@U=82@L=200415006@",32
+"Limpertsberg, Alfred de Musset","A=1@O=Limpertsberg, Alfred de Musset@X=6122005@Y=49618936@U=82@L=200419003@",32
+"Gasperich, Hildegard von Bingen","A=1@O=Gasperich, Hildegard von Bingen@X=6122014@Y=49582413@U=82@L=200412024@",32
+"Limpertsberg, Faïencerie/INL","A=1@O=Limpertsberg, Faïencerie/INL@X=6122077@Y=49616123@U=82@L=200419036@",32
+"Muhlenbach, Eecher Schmelz","A=1@O=Muhlenbach, Eecher Schmelz@X=6122274@Y=49627988@U=82@L=200421003@",32
+"Limpertsberg, Waassertuerm","A=1@O=Limpertsberg, Waassertuerm@X=6122346@Y=49623952@U=82@L=200419035@",32
+"Limpertsberg, Hall Victor Hugo","A=1@O=Limpertsberg, Hall Victor Hugo@X=6122805@Y=49620734@U=82@L=200419038@",32
+"Limpertsberg, Lycée de Garçons","A=1@O=Limpertsberg, Lycée de Garçons@X=6122832@Y=49620060@U=82@L=200419025@",32
+"Limpertsberg, Bois","A=1@O=Limpertsberg, Bois@X=6122984@Y=49622613@U=82@L=200419011@",32
+"Gasperich, Charles Darwin","A=1@O=Gasperich, Charles Darwin@X=6123740@Y=49584535@U=82@L=200412026@",32
+"Gasperich, Gerhard Mercator","A=1@O=Gasperich, Gerhard Mercator@X=6123883@Y=49582566@U=82@L=200412021@",32
+"Limpertsberg, Allée Scheffer","A=1@O=Limpertsberg, Allée Scheffer@X=6124045@Y=49618199@U=82@L=200419004@",32
+"Limpertsberg, Guillaume Schneider","A=1@O=Limpertsberg, Guillaume Schneider@X=6124171@Y=49620545@U=82@L=200419018@",32
+"Gasperich, Richard Wagner","A=1@O=Gasperich, Richard Wagner@X=6124270@Y=49589191@U=82@L=200412016@",32
+"Luxembourg/Centre, Michel Rodange","A=1@O=Luxembourg/Centre, Michel Rodange@X=6124737@Y=49603088@U=82@L=200405024@",32
+"Gasperich, Bei der Auer","A=1@O=Gasperich, Bei der Auer@X=6124755@Y=49591276@U=82@L=200412003@",32
+"Luxembourg/Centre, Monterey","A=1@O=Luxembourg/Centre, Monterey@X=6125016@Y=49610450@U=82@L=200405025@",32
+"Luxembourg, Amélie","A=1@O=Luxembourg, Amélie@X=6125034@Y=49613606@U=82@L=200405049@",32
+"Limpertsberg, Theater (Tram)","A=1@O=Limpertsberg, Theater (Tram)@X=6125340@Y=49617642@U=82@L=200419041@",256
+"Gasperich, Lycée Vauban","A=1@O=Gasperich, Lycée Vauban@X=6125340@Y=49583708@U=82@L=200423006@",256
+"Limpertsberg, Theater (Bus)","A=1@O=Limpertsberg, Theater (Bus)@X=6125582@Y=49617929@U=82@L=200419026@",32
+"Gasperich, Lascombes","A=1@O=Gasperich, Lascombes@X=6125663@Y=49594252@U=82@L=200412012@",32
+Hamilius (Bus),A=1@O=Hamilius (Bus)@X=6125978@Y=49611502@U=82@L=200405020@,32
+Hamilius (Tram),A=1@O=Hamilius (Tram)@X=6126140@Y=49611098@U=82@L=200405057@,256
+"Luxembourg, Ste Zithe","A=1@O=Luxembourg, Ste Zithe@X=6126194@Y=49606675@U=82@L=200405038@",32
+"Centre, Etats-Unis","A=1@O=Centre, Etats-Unis@X=6126661@Y=49600302@U=82@L=200405012@",32
+"Hollerich, Fonderie","A=1@O=Hollerich, Fonderie@X=6126670@Y=49598576@U=82@L=200415003@",32
+"Limpertsberg, Arts et Métiers","A=1@O=Limpertsberg, Arts et Métiers@X=6126688@Y=49621759@U=82@L=200419005@",32
+"Centre, Fondation Pescatore","A=1@O=Centre, Fondation Pescatore@X=6126751@Y=49615709@U=82@L=200405014@",32
+"Limpertsberg, Bd.P. Eyschen","A=1@O=Limpertsberg, Bd.P. Eyschen@X=6126814@Y=49619359@U=82@L=200419009@",32
+"Gasperich, Millewee","A=1@O=Gasperich, Millewee@X=6127039@Y=49592059@U=82@L=200412020@",32
+"Bereldange, Schoul","A=1@O=Bereldange, Schoul@X=6127398@Y=49653311@U=82@L=201001003@",32
+"Limpertsberg, Belle-Vue","A=1@O=Limpertsberg, Belle-Vue@X=6127551@Y=49623035@U=82@L=200419010@",32
+"Beggen, Rue du Pont","A=1@O=Beggen, Rue du Pont@X=6127686@Y=49649005@U=82@L=200402007@",32
+"Eich, Ecole Eich","A=1@O=Eich, Ecole Eich@X=6127713@Y=49626946@U=82@L=200410002@",32
+"Limpertsberg, Kiischtewee","A=1@O=Limpertsberg, Kiischtewee@X=6127713@Y=49620833@U=82@L=200419037@",32
+"Gasperich, Francophonie","A=1@O=Gasperich, Francophonie@X=6127803@Y=49584948@U=82@L=200412025@",32
+"Bereldange, Rue du Pont","A=1@O=Bereldange, Rue du Pont@X=6127821@Y=49649589@U=82@L=201001004@",32
+"Gasperich, Clemenceau","A=1@O=Gasperich, Clemenceau@X=6127857@Y=49589883@U=82@L=200412005@",32
+"Gasperich, Déportation","A=1@O=Gasperich, Déportation@X=6127982@Y=49593793@U=82@L=200412007@",32
+"Centre, Adolphe Fischer","A=1@O=Centre, Adolphe Fischer@X=6128027@Y=49599996@U=82@L=200405062@",32
+"Howald, P&R Howald","A=1@O=Howald, P*26R Howald@X=6128171@Y=49579312@U=82@L=200304012@",32
+"Beggen, Bastogne","A=1@O=Beggen, Bastogne@X=6128270@Y=49645931@U=82@L=200402001@",32
+"Luxembourg, Place de Metz","A=1@O=Luxembourg, Place de Metz@X=6128351@Y=49606882@U=82@L=200405051@",256
+"Centre, Badanstalt","A=1@O=Centre, Badanstalt@X=6129169@Y=49613534@U=82@L=200405005@",32
+"Limpertsberg, Alen Eecher Bierg","A=1@O=Limpertsberg, Alen Eecher Bierg@X=6129448@Y=49621858@U=82@L=200419001@",32
+"Beggen, Kierch","A=1@O=Beggen, Kierch@X=6129475@Y=49643423@U=82@L=200402006@",32
+"Eich, Eecher Plaz","A=1@O=Eich, Eecher Plaz@X=6129933@Y=49627566@U=82@L=200410003@",32
+"Limpertsberg, Crispinus","A=1@O=Limpertsberg, Crispinus@X=6130239@Y=49619350@U=82@L=200419013@",32
+"Beggen, Binnchen","A=1@O=Beggen, Binnchen@X=6130293@Y=49641643@U=82@L=200402002@",32
+"Centre, Alsace","A=1@O=Centre, Alsace@X=6130329@Y=49596041@U=82@L=200405003@",32
+"Eich, Octroi","A=1@O=Eich, Octroi@X=6130329@Y=49622550@U=82@L=200410005@",32
+"Luxembourg, rue Heine","A=1@O=Luxembourg, rue Heine@X=6130625@Y=49605219@U=82@L=200405037@",32
+"Luxembourg, Paräisser Plaz","A=1@O=Luxembourg, Paräisser Plaz@X=6130706@Y=49604086@U=82@L=200405058@",256
+"Howald, Gare (Tram)","A=1@O=Howald, Gare (Tram)@X=6130859@Y=49581667@U=82@L=200304019@",256
+"Centre, Cathédrale","A=1@O=Centre, Cathédrale@X=6131147@Y=49610001@U=82@L=200405007@",32
+"Howald, PE Howald gare routière","A=1@O=Howald, PE Howald gare routière@X=6131425@Y=49580453@U=82@L=200304016@",32
+"Centre, Kasinosgaass","A=1@O=Centre, Kasinosgaass@X=6131515@Y=49612374@U=82@L=200405022@",32
+"Pfaffenthal, Stade G. Diderich","A=1@O=Pfaffenthal, Stade G. Diderich@X=6131569@Y=49621714@U=82@L=200423002@",32
+"Centre, F.D. Roosevelt","A=1@O=Centre, F.D. Roosevelt@X=6131650@Y=49608796@U=82@L=200405013@",32
+"Centre, Gruef","A=1@O=Centre, Gruef@X=6131659@Y=49611089@U=82@L=200405018@",32
+"Beggen, Henri Heymanns","A=1@O=Beggen, Henri Heymanns@X=6132144@Y=49637966@U=82@L=200402005@",32
+"Eich, Centre Culturel","A=1@O=Eich, Centre Culturel@X=6132369@Y=49628932@U=82@L=200410001@",32
+"Pfaffenthal, Halte CFL","A=1@O=Pfaffenthal, Halte CFL@X=6132387@Y=49618990@U=82@L=200423007@",32
+"Howald, Gare","A=1@O=Howald, Gare@X=6132459@Y=49581083@U=82@L=200304014@",4
+"Pfaffenthal, Sichenhaff","A=1@O=Pfaffenthal, Sichenhaff@X=6132558@Y=49620078@U=82@L=200423001@",32
+"Weimerskirch, Laval's Park","A=1@O=Weimerskirch, Laval's Park@X=6132783@Y=49628276@U=82@L=200426007@",32
+"Pfaffenthal, Théiwesbuer","A=1@O=Pfaffenthal, Théiwesbuer@X=6132828@Y=49615835@U=82@L=200423003@",32
+"Pfaffenthal-Kirchberg, Gare","A=1@O=Pfaffenthal-Kirchberg, Gare@X=6132917@Y=49618936@U=82@L=200417051@",6
+"Luxembourg, Gare Centrale routière","A=1@O=Luxembourg, Gare Centrale routière@X=6133034@Y=49599070@U=82@L=200405036@",32
+"Gare, Al Avenue","A=1@O=Gare, Al Avenue@X=6133052@Y=49603043@U=82@L=200405001@",32
+"Luxembourg, Gare Centrale (Tram)","A=1@O=Luxembourg, Gare Centrale (Tram)@X=6133412@Y=49599942@U=82@L=200405059@",256
+"Howald, Ronneboesch","A=1@O=Howald, Ronneboesch@X=6133601@Y=49578817@U=82@L=200304011@",32
+"Luxembourg, Gare Centrale","A=1@O=Luxembourg, Gare Centrale@X=6134239@Y=49599969@U=82@L=200405060@",7
+"Dommeldange, Emile Metz","A=1@O=Dommeldange, Emile Metz@X=6134257@Y=49635081@U=82@L=200409007@",32
+"Luxembourg, Wallis","A=1@O=Luxembourg, Wallis@X=6134329@Y=49603115@U=82@L=200405039@",32
+"Beggen, Henri Dunant","A=1@O=Beggen, Henri Dunant@X=6134545@Y=49647594@U=82@L=200402004@",32
+"Eich, Eecher Klinick","A=1@O=Eich, Eecher Klinick@X=6134643@Y=49631791@U=82@L=200410004@",32
+"Beggen, Cyprien Merjai","A=1@O=Beggen, Cyprien Merjai@X=6134778@Y=49643396@U=82@L=200402003@",32
+"Pfaffenthal, Um Bock","A=1@O=Pfaffenthal, Um Bock@X=6135093@Y=49611655@U=82@L=200423004@",32
+"Grund, Stadgronn-Bréck","A=1@O=Grund, Stadgronn-Bréck@X=6135381@Y=49608392@U=82@L=200413001@",32
+"Howald, Op der Stirzel","A=1@O=Howald, Op der Stirzel@X=6135390@Y=49576768@U=82@L=200304007@",32
+"Pfaffenthal, Vauban","A=1@O=Pfaffenthal, Vauban@X=6135417@Y=49613956@U=82@L=200423005@",32
+"Weimerskirch, Knupp","A=1@O=Weimerskirch, Knupp@X=6135605@Y=49628815@U=82@L=200426006@",32
+"Kirchberg, Rout Bréck - Pafendall (Bus)","A=1@O=Kirchberg, Rout Bréck - Pafendall (Bus)@X=6135749@Y=49618370@U=82@L=200417047@",32
+"Kopstal, Kléipesch","A=1@O=Kopstal, Kléipesch@X=6072096@Y=49660844@U=82@L=190802004@",32
+"Kopstal, Kapell","A=1@O=Kopstal, Kapell@X=6072483@Y=49661374@U=82@L=190802002@",32
+"Kopstal, Saangen","A=1@O=Kopstal, Saangen@X=6072861@Y=49668799@U=82@L=190802003@",32
+"Kopstal, Bréck","A=1@O=Kopstal, Bréck@X=6073067@Y=49663972@U=82@L=190802001@",32
+"Bridel, Berk","A=1@O=Bridel, Berk@X=6078551@Y=49659792@U=82@L=190801001@",32
+"Mersch, Hunnebour","A=1@O=Mersch, Hunnebour@X=6079881@Y=49729414@U=82@L=160904013@",32
+"Reckange/Mersch, Schoul","A=1@O=Reckange/Mersch, Schoul@X=6080151@Y=49747446@U=82@L=160907005@",32
+"Bridel, Flamo","A=1@O=Bridel, Flamo@X=6081571@Y=49659010@U=82@L=190801002@",32
+"Bridel, Taverne","A=1@O=Bridel, Taverne@X=6082659@Y=49657069@U=82@L=190801005@",32
+"Reckange/Mersch, Hunnebourerstr.","A=1@O=Reckange/Mersch, Hunnebourerstr.@X=6084070@Y=49745576@U=82@L=160907004@",32
+Direndall,A=1@O=Direndall@X=6089760@Y=49688486@U=82@L=190607001@,32
+"Schoenfels, Duerf","A=1@O=Schoenfels, Duerf@X=6090003@Y=49717728@U=82@L=160909001@",32
+"Schoenfels, Schlass","A=1@O=Schoenfels, Schlass@X=6091522@Y=49719184@U=82@L=160909002@",32
+"Mersch, Uewermiersch","A=1@O=Mersch, Uewermiersch@X=6096439@Y=49743023@U=82@L=160904006@",32
+"Mersch, Lankheck","A=1@O=Mersch, Lankheck@X=6096916@Y=49744848@U=82@L=160904002@",32
+"Mersch, Nic. Welter","A=1@O=Mersch, Nic. Welter@X=6100044@Y=49744309@U=82@L=160904010@",32
+"Mersch, Maartplaz","A=1@O=Mersch, Maartplaz@X=6103801@Y=49747581@U=82@L=160904003@",32
+"Rollingen, Blannenheem","A=1@O=Rollingen, Blannenheem@X=6112970@Y=49744525@U=82@L=160902001@",32
+"Rollingen, Veräinsbau","A=1@O=Rollingen, Veräinsbau@X=6113708@Y=49741199@U=82@L=160902004@",32
+"Gosseldange, Route de Schoenfels","A=1@O=Gosseldange, Route de Schoenfels@X=6114562@Y=49728038@U=82@L=160701002@",32
+"Gosseldange, Kapell","A=1@O=Gosseldange, Kapell@X=6115604@Y=49726241@U=82@L=160701001@",32
+"Gosseldange, Vor Bell","A=1@O=Gosseldange, Vor Bell@X=6116332@Y=49722052@U=82@L=160701003@",32
+"Rollingen, Lëtzebuergerstr.","A=1@O=Rollingen, Lëtzebuergerstr.@X=6116521@Y=49735625@U=82@L=160902003@",32
+"Gosseldange, Op der Uelzechtbréck","A=1@O=Gosseldange, Op der Uelzechtbréck@X=6118984@Y=49719903@U=82@L=160701004@",32
+"Steinsel, Laval","A=1@O=Steinsel, Laval@X=6119685@Y=49669555@U=82@L=200801004@",32
+Prettingen,A=1@O=Prettingen@X=6119802@Y=49717943@U=82@L=160703011@,32
+"Steinsel, Gonneschhaff","A=1@O=Steinsel, Gonneschhaff@X=6120270@Y=49671631@U=82@L=200801003@",32
+"Steinsel, Bourgaass","A=1@O=Steinsel, Bourgaass@X=6121816@Y=49677537@U=82@L=200801002@",32
+"Steinsel, Um Gruef","A=1@O=Steinsel, Um Gruef@X=6122301@Y=49675290@U=82@L=200801008@",32
+"Lintgen, Gare","A=1@O=Lintgen, Gare@X=6123083@Y=49720685@U=82@L=160702002@",4
+"Steinsel, Schoul","A=1@O=Steinsel, Schoul@X=6123937@Y=49678022@U=82@L=200801007@",32
+"Steinsel, Michel Rodange Plaz","A=1@O=Steinsel, Michel Rodange Plaz@X=6124665@Y=49676998@U=82@L=200801005@",32
+"Steinsel, Kennedy","A=1@O=Steinsel, Kennedy@X=6124908@Y=49670516@U=82@L=200801011@",32
+"Lintgen, Kräizung","A=1@O=Lintgen, Kräizung@X=6125115@Y=49720344@U=82@L=160702003@",32
+"Bereldange, Elterstrachen","A=1@O=Bereldange, Elterstrachen@X=6125960@Y=49660952@U=82@L=201001001@",32
+"Steinsel, Zone Industrielle","A=1@O=Steinsel, Zone Industrielle@X=6127110@Y=49669950@U=82@L=200801009@",32
+"Bereldange, Police","A=1@O=Bereldange, Police@X=6127245@Y=49656736@U=82@L=201001002@",32
+"Lintgen, An der Kléck","A=1@O=Lintgen, An der Kléck@X=6127866@Y=49714195@U=82@L=160702001@",32
+"Mullendorf, Op der Muschel","A=1@O=Mullendorf, Op der Muschel@X=6129609@Y=49682760@U=82@L=200803012@",32
+Müllendorf/Mëlleref,A=1@O=Müllendorf/Mëlleref@X=6129672@Y=49679056@U=82@L=200801001@,32
+"Hunsdorf, Bei der Kiirch","A=1@O=Hunsdorf, Bei der Kiirch@X=6130086@Y=49696576@U=82@L=160805002@",32
+"Walferdange, Gemenge Plaz","A=1@O=Walferdange, Gemenge Plaz@X=6130751@Y=49659145@U=82@L=201004002@",32
+"Hunsdorf, Alsbech","A=1@O=Hunsdorf, Alsbech@X=6131470@Y=49696369@U=82@L=160805001@",32
+"Helmsange, Tricentenaire","A=1@O=Helmsange, Tricentenaire@X=6133250@Y=49662345@U=82@L=201003004@",32
+"Helmsange, Mercatoris","A=1@O=Helmsange, Mercatoris@X=6134293@Y=49665869@U=82@L=201003002@",32
+"Heisdorf, Altersheem","A=1@O=Heisdorf, Altersheem@X=6134922@Y=49676045@U=82@L=200802001@",32
+"Heisdorf, Millewee","A=1@O=Heisdorf, Millewee@X=6135156@Y=49668763@U=82@L=201003003@",32
+"Helmsange, Barriär","A=1@O=Helmsange, Barriär@X=6135650@Y=49659963@U=82@L=201003001@",32
+"Heisdorf, Bei der Parkmauer","A=1@O=Heisdorf, Bei der Parkmauer@X=6135902@Y=49671173@U=82@L=200802002@",32
+"Walferdange, Gare routière","A=1@O=Walferdange, Gare routière@X=6135965@Y=49661482@U=82@L=201004003@",32
+"Bissen, Beim Maes","A=1@O=Bissen, Beim Maes@X=6071243@Y=49787520@U=82@L=160101011@",32
+"Bissen, Geiwels","A=1@O=Bissen, Geiwels@X=6071755@Y=49791844@U=82@L=160101003@",32
+"Bissen, Op der Millen","A=1@O=Bissen, Op der Millen@X=6074622@Y=49795026@U=82@L=160101005@",32
+"Reckange/Mersch, Hosbich","A=1@O=Reckange/Mersch, Hosbich@X=6076007@Y=49751293@U=82@L=160907003@",32
+"Bissen, Beim Steekräiz","A=1@O=Bissen, Beim Steekräiz@X=6077463@Y=49785443@U=82@L=160101012@",32
+"Bissen, Innovation Campus","A=1@O=Bissen, Innovation Campus@X=6083225@Y=49786288@U=82@L=160101010@",32
+"Reckange/Mersch, Um neie Lehm","A=1@O=Reckange/Mersch, Um neie Lehm@X=6083755@Y=49751231@U=82@L=160907006@",32
+"Reckange/Mersch, Beim Bur","A=1@O=Reckange/Mersch, Beim Bur@X=6085167@Y=49752237@U=82@L=160907002@",32
+"Colmar-Berg, rue Martzen 2","A=1@O=Colmar-Berg, rue Martzen 2@X=6086389@Y=49816474@U=82@L=160301016@",32
+"Colmar-Berg, rue Martzen 1","A=1@O=Colmar-Berg, rue Martzen 1@X=6086767@Y=49818245@U=82@L=160301015@",32
+"Bissen, Z.A.C. Klengbousbierg","A=1@O=Bissen, Z.A.C. Klengbousbierg@X=6086839@Y=49788455@U=82@L=160101009@",32
+"Colmar-Berg, place Pemmers","A=1@O=Colmar-Berg, place Pemmers@X=6087028@Y=49813634@U=82@L=160301014@",32
+"Colmar-Berg, C. Administratif","A=1@O=Colmar-Berg, C. Administratif@X=6091190@Y=49803799@U=82@L=160301001@",32
+"Welsdorf, rue des Champs","A=1@O=Welsdorf, rue des Champs@X=6091783@Y=49817337@U=82@L=160302013@",32
+"Colmar-Berg, Usines","A=1@O=Colmar-Berg, Usines@X=6091981@Y=49804815@U=82@L=160301007@",32
+Rouscht,A=1@O=Rouscht@X=6092924@Y=49786459@U=82@L=160102002@,32
+"Ettelbruck, Hall Omnisports","A=1@O=Ettelbruck, Hall Omnisports@X=6093266@Y=49841042@U=82@L=140701006@",32
+"Colmar-Berg, Piscine","A=1@O=Colmar-Berg, Piscine@X=6093275@Y=49811521@U=82@L=160301018@",32
+"Ettelbruck, CNFPC","A=1@O=Ettelbruck, CNFPC@X=6094605@Y=49839630@U=82@L=140701045@",32
+"Colmar-Berg, Faubourg","A=1@O=Colmar-Berg, Faubourg@X=6095208@Y=49805894@U=82@L=160301003@",32
+"Schieren, Gare","A=1@O=Schieren, Gare@X=6095226@Y=49829796@U=82@L=141301003@",4
+"Schieren, rue de la Gare","A=1@O=Schieren, rue de la Gare@X=6095513@Y=49833068@U=82@L=141301008@",32
+"Schieren, Alen Atelier","A=1@O=Schieren, Alen Atelier@X=6095657@Y=49830012@U=82@L=141301009@",32
+"Schieren, Porte de Schieren","A=1@O=Schieren, Porte de Schieren@X=6095909@Y=49824583@U=82@L=141301007@",32
+"Schieren, Uewerschieren","A=1@O=Schieren, Uewerschieren@X=6096134@Y=49827855@U=82@L=141301005@",32
+"Colmar-Berg, Goldbierg","A=1@O=Colmar-Berg, Goldbierg@X=6096233@Y=49810110@U=82@L=160301005@",32
+"Schieren, Neie Wee","A=1@O=Schieren, Neie Wee@X=6096313@Y=49828097@U=82@L=141301004@",32
+"Colmar-Berg, Centre","A=1@O=Colmar-Berg, Centre@X=6097167@Y=49811917@U=82@L=160301002@",32
+"Schieren, Faubourg","A=1@O=Schieren, Faubourg@X=6097491@Y=49833760@U=82@L=141301002@",32
+"Schieren, Vali's Plaz","A=1@O=Schieren, Vali's Plaz@X=6097617@Y=49832996@U=82@L=141301006@",32
+"Mersch, Reckenerstrooss","A=1@O=Mersch, Reckenerstrooss@X=6097770@Y=49751869@U=82@L=160904004@",32
+"Colmar-Berg, rue d'Ettelbruck","A=1@O=Colmar-Berg, rue d'Ettelbruck@X=6097887@Y=49812870@U=82@L=160301011@",32
+"Colmar-Berg, rue de l'Alzette","A=1@O=Colmar-Berg, rue de l'Alzette@X=6097914@Y=49812726@U=82@L=160301020@",32
+"Ettelbruck, H.v.Landewyck","A=1@O=Ettelbruck, H.v.Landewyck@X=6097949@Y=49839702@U=82@L=140701018@",32
+"Ettelbruck, Cité Thill","A=1@O=Ettelbruck, Cité Thill@X=6098066@Y=49840143@U=82@L=140701010@",32
+"Colmar-Berg, Raedelsboesch","A=1@O=Colmar-Berg, Raedelsboesch@X=6098093@Y=49796689@U=82@L=160301006@",32
+"Roost (Bissen), Mold Plant","A=1@O=Roost (Bissen), Mold Plant@X=6098803@Y=49794064@U=82@L=160102001@",32
+"Mersch, Mierscherbierg","A=1@O=Mersch, Mierscherbierg@X=6099594@Y=49755608@U=82@L=160904008@",32
+"Colmar-Berg, Gare","A=1@O=Colmar-Berg, Gare@X=6101069@Y=49815018@U=82@L=160301004@",4
+"Schieren, Centre sportif","A=1@O=Schieren, Centre sportif@X=6101554@Y=49830174@U=82@L=141301001@",32
+"Colmar-Berg, Z.I. Rond-Point","A=1@O=Colmar-Berg, Z.I. Rond-Point@X=6102093@Y=49805804@U=82@L=160301017@",32
+"Mersch, Beim Klouschter","A=1@O=Mersch, Beim Klouschter@X=6102983@Y=49753370@U=82@L=160904009@",32
+"Colmar-Berg, Z.I. Jean Piret","A=1@O=Colmar-Berg, Z.I. Jean Piret@X=6103172@Y=49804051@U=82@L=160301009@",32
+"Mersch, Stäereplaz","A=1@O=Mersch, Stäereplaz@X=6106193@Y=49750673@U=82@L=160904005@",32
+"Pettingen, Beim Schlass","A=1@O=Pettingen, Beim Schlass@X=6107289@Y=49770440@U=82@L=160906002@",32
+"Mersch, Gare routière","A=1@O=Mersch, Gare routière@X=6110112@Y=49753055@U=82@L=160904001@",32
+"Pettingen, Barriär","A=1@O=Pettingen, Barriär@X=6110256@Y=49768661@U=82@L=160906001@",32
+"Mersch, Gare","A=1@O=Mersch, Gare@X=6110301@Y=49751842@U=82@L=160904011@",6
+"Mersch, Lycée Ermesinde","A=1@O=Mersch, Lycée Ermesinde@X=6111307@Y=49755159@U=82@L=160904007@",32
+"Mersch, Lohr","A=1@O=Mersch, Lohr@X=6113159@Y=49749253@U=82@L=160904014@",32
+"Rollingen, Fielserstrooss","A=1@O=Rollingen, Fielserstrooss@X=6113195@Y=49748255@U=82@L=160902002@",32
+"Cruchten, Zaneschhaff","A=1@O=Cruchten, Zaneschhaff@X=6114238@Y=49803979@U=82@L=161001006@",32
+"Beringen, Wäschbur","A=1@O=Beringen, Wäschbur@X=6114669@Y=49758260@U=82@L=160901001@",32
+"Moesdorf, Kiirch","A=1@O=Moesdorf, Kiirch@X=6114885@Y=49768661@U=82@L=160905001@",32
+Essen,A=1@O=Essen@X=6116431@Y=49778063@U=82@L=160910002@,32
+"Cruchten, Gare","A=1@O=Cruchten, Gare@X=6120108@Y=49796284@U=82@L=161001008@",4
+"Cruchten, Schlaederhaff","A=1@O=Cruchten, Schlaederhaff@X=6123047@Y=49803098@U=82@L=161001007@",32
+"Cruchten, Schléf","A=1@O=Cruchten, Schléf@X=6124081@Y=49796995@U=82@L=161001005@",32
+"Cruchten, Haaptstrooss","A=1@O=Cruchten, Haaptstrooss@X=6129241@Y=49798954@U=82@L=161001002@",32
+"Cruchten, Neistrooss","A=1@O=Cruchten, Neistrooss@X=6130149@Y=49798990@U=82@L=161001004@",32
+"Bourscheid, An der Schlënner","A=1@O=Bourscheid, An der Schlënner@X=6070469@Y=49932129@U=82@L=140301004@",32
+"Ettelbruck, Cité Lopert 1","A=1@O=Ettelbruck, Cité Lopert 1@X=6072456@Y=49850274@U=82@L=140701008@",32
+"Ettelbruck, Rue Abbe Joseph Flies","A=1@O=Ettelbruck, Rue Abbe Joseph Flies@X=6076384@Y=49851649@U=82@L=140701027@",32
+"Ettelbruck, rue M. Rodange 39","A=1@O=Ettelbruck, rue M. Rodange 39@X=6076771@Y=49850903@U=82@L=140701042@",32
+"Bourscheid, Beim Schlass","A=1@O=Bourscheid, Beim Schlass@X=6077661@Y=49906034@U=82@L=140301005@",32
+"Burden, Beim Fëschweier","A=1@O=Burden, Beim Fëschweier@X=6078766@Y=49878032@U=82@L=140601001@",32
+"Ettelbruck, rue M. Rodange","A=1@O=Ettelbruck, rue M. Rodange@X=6079800@Y=49850561@U=82@L=140701044@",32
+"Ettelbruck, Camping","A=1@O=Ettelbruck, Camping@X=6081985@Y=49845869@U=82@L=140701046@",32
+"Warken, Cité Waarkdall 6","A=1@O=Warken, Cité Waarkdall 6@X=6083234@Y=49860683@U=82@L=140702007@",32
+"Ettelbruck, Cité Patton 1","A=1@O=Ettelbruck, Cité Patton 1@X=6083800@Y=49848781@U=82@L=140701009@",32
+"Warken, Rue de Welscheid","A=1@O=Warken, Rue de Welscheid@X=6084007@Y=49859631@U=82@L=140702008@",32
+"Lipperscheid, Ale Kiirfecht","A=1@O=Lipperscheid, Ale Kiirfecht@X=6084807@Y=49917998@U=82@L=140306001@",32
+"Warken, Cité Waarkdall","A=1@O=Warken, Cité Waarkdall@X=6085634@Y=49860351@U=82@L=140702004@",32
+"Ettelbruck, Rue Ph.Manternach","A=1@O=Ettelbruck, Rue Ph.Manternach@X=6085832@Y=49850202@U=82@L=140701037@",32
+"Ettelbruck, Rue J.A. Zinnen 20","A=1@O=Ettelbruck, Rue J.A. Zinnen 20@X=6086353@Y=49849177@U=82@L=140701033@",32
+"Ettelbruck, rue Eugène Simon","A=1@O=Ettelbruck, rue Eugène Simon@X=6086983@Y=49844449@U=82@L=140701036@",32
+"Warken, LTEtt (Annexe)","A=1@O=Warken, LTEtt (Annexe)@X=6087144@Y=49857708@U=82@L=140702005@",32
+"Ettelbruck, Rue du Camping 53","A=1@O=Ettelbruck, Rue du Camping 53@X=6087180@Y=49846966@U=82@L=140701047@",32
+"Warken, Cité Bourschterbach","A=1@O=Warken, Cité Bourschterbach@X=6087189@Y=49860701@U=82@L=140702010@",32
+"Michelau, Bei Schreiwesch","A=1@O=Michelau, Bei Schreiwesch@X=6088187@Y=49899427@U=82@L=140307005@",32
+"Warken, Centre d'Education Diff.","A=1@O=Warken, Centre d'Education Diff.@X=6088493@Y=49857753@U=82@L=140702001@",32
+"Bourscheid, Op der Millen","A=1@O=Bourscheid, Op der Millen@X=6089005@Y=49914025@U=82@L=140301003@",32
+"Ettelbruck, rue Pierre Kraus","A=1@O=Ettelbruck, rue Pierre Kraus@X=6089023@Y=49845078@U=82@L=140701035@",32
+"Warken, Rue Bourschterbach","A=1@O=Warken, Rue Bourschterbach@X=6089554@Y=49858436@U=82@L=140702011@",32
+"Ettelbruck, rue de Bastogne 132","A=1@O=Ettelbruck, rue de Bastogne 132@X=6089967@Y=49847847@U=82@L=140701049@",32
+"Ettelbruck, Grondwee","A=1@O=Ettelbruck, Grondwee@X=6090030@Y=49847694@U=82@L=140701017@",32
+"Michelau, Kiirch","A=1@O=Michelau, Kiirch@X=6091019@Y=49897413@U=82@L=140307002@",32
+"Burden, Haaptstrooss","A=1@O=Burden, Haaptstrooss@X=6091199@Y=49881988@U=82@L=140601002@",32
+"Ettelbruck, Rue du Camping 17","A=1@O=Ettelbruck, Rue du Camping 17@X=6091315@Y=49847181@U=82@L=140701048@",32
+"Warken, Chapelle","A=1@O=Warken, Chapelle@X=6091315@Y=49855209@U=82@L=140702009@",32
+"Michelau, Gare routière","A=1@O=Michelau, Gare routière@X=6091324@Y=49897036@U=82@L=140307006@",32
+"Ettelbruck, Rue J.A. Zinnen","A=1@O=Ettelbruck, Rue J.A. Zinnen@X=6092035@Y=49848997@U=82@L=140701032@",32
+"Michelau, Gare","A=1@O=Michelau, Gare@X=6092097@Y=49896649@U=82@L=140307001@",6
+"Warken, Café Kaell","A=1@O=Warken, Café Kaell@X=6092385@Y=49854786@U=82@L=140702002@",32
+"Warken, Rue de Burden","A=1@O=Warken, Rue de Burden@X=6092583@Y=49857780@U=82@L=140702003@",32
+"Michelau, Op der Sauer","A=1@O=Michelau, Op der Sauer@X=6092745@Y=49894878@U=82@L=140307003@",32
+"Lipperscheid, Beim Leweck","A=1@O=Lipperscheid, Beim Leweck@X=6093275@Y=49922826@U=82@L=140306002@",32
+"Ettelbruck, Um Boeschel","A=1@O=Ettelbruck, Um Boeschel@X=6093617@Y=49846085@U=82@L=140701003@",32
+"Ettelbruck, Centre Hospitalier du Nord","A=1@O=Ettelbruck, Centre Hospitalier du Nord@X=6094075@Y=49853096@U=82@L=140701020@",32
+"Ettelbruck, Rue de Bastogne","A=1@O=Ettelbruck, Rue de Bastogne@X=6094102@Y=49847118@U=82@L=140701030@",32
+"Ettelbruck, Hall Deich","A=1@O=Ettelbruck, Hall Deich@X=6094911@Y=49844503@U=82@L=140701019@",32
+"Michelau, Willspull","A=1@O=Michelau, Willspull@X=6095136@Y=49888001@U=82@L=140307004@",32
+"Ettelbruck, Place du Marché","A=1@O=Ettelbruck, Place du Marché@X=6096412@Y=49845932@U=82@L=140701025@",32
+"Ettelbruck, Rue du Deich (CHNP)","A=1@O=Ettelbruck, Rue du Deich (CHNP)@X=6096412@Y=49843801@U=82@L=140701031@",32
+"Burden, Beim Bur","A=1@O=Burden, Beim Bur@X=6096790@Y=49882006@U=82@L=140601003@",32
+"Ettelbruck, Apdikt Petry","A=1@O=Ettelbruck, Apdikt Petry@X=6098480@Y=49845941@U=82@L=140701034@",32
+"Ettelbruck, Rond Point","A=1@O=Ettelbruck, Rond Point@X=6098723@Y=49843622@U=82@L=140701026@",32
+"Ettelbruck, Ecole Primaire","A=1@O=Ettelbruck, Ecole Primaire@X=6098956@Y=49845887@U=82@L=140701015@",32
+"Ettelbruck, L.T.Salentiny","A=1@O=Ettelbruck, L.T.Salentiny@X=6099181@Y=49850274@U=82@L=140701021@",32
+"Ettelbruck, LTEtt Gare routière","A=1@O=Ettelbruck, LTEtt Gare routière@X=6099738@Y=49850238@U=82@L=140701023@",32
+"Ettelbruck, Avenue Lucien Salentiny","A=1@O=Ettelbruck, Avenue Lucien Salentiny@X=6100853@Y=49849114@U=82@L=140701050@",32
+"Ettelbruck, Poste","A=1@O=Ettelbruck, Poste@X=6102669@Y=49847802@U=82@L=140701024@",32
+"Ettelbruck, Anc. Clinique","A=1@O=Ettelbruck, Anc. Clinique@X=6103280@Y=49847856@U=82@L=140701001@",32
+"Gralingen, Am Bréill","A=1@O=Gralingen, Am Bréill@X=6104835@Y=49935159@U=82@L=130102001@",32
+"Ettelbruck, Prince Henri","A=1@O=Ettelbruck, Prince Henri@X=6105716@Y=49847424@U=82@L=140701052@",32
+"Ettelbruck, Gare routière","A=1@O=Ettelbruck, Gare routière@X=6106130@Y=49847235@U=82@L=140701053@",32
+"Ettelbruck, J-F Kennedy","A=1@O=Ettelbruck, J-F Kennedy@X=6106229@Y=49849042@U=82@L=140701051@",32
+"Ettelbruck, Gare","A=1@O=Ettelbruck, Gare@X=6107721@Y=49847972@U=82@L=140701022@",6
+"Flebour, Op der Fléiber","A=1@O=Flebour, Op der Fléiber@X=6109222@Y=49908272@U=82@L=140303002@",32
+"Ettelbruck, Patton","A=1@O=Ettelbruck, Patton@X=6109995@Y=49850561@U=82@L=140701029@",32
+"Erpeldange-sur-Sûre, Beim Schlass","A=1@O=Erpeldange-sur-Sûre, Beim Schlass@X=6112602@Y=49859748@U=82@L=140602007@",32
+"Erpeldange-sur-Sûre, Bei der Kierch","A=1@O=Erpeldange-sur-Sûre, Bei der Kierch@X=6112827@Y=49861744@U=82@L=140602005@",32
+"Erpeldange-sur-Sûre, An der Gewan","A=1@O=Erpeldange-sur-Sûre, An der Gewan@X=6112854@Y=49858391@U=82@L=140602001@",32
+"Erpeldange-sur-Sûre, Beim Hôtel","A=1@O=Erpeldange-sur-Sûre, Beim Hôtel@X=6113393@Y=49865888@U=82@L=140602004@",32
+"Erpeldange-sur-Sûre, Bei der Schoul","A=1@O=Erpeldange-sur-Sûre, Bei der Schoul@X=6114606@Y=49861214@U=82@L=140602003@",32
+"Erpeldange-sur-Sûre, Beim Dreieck","A=1@O=Erpeldange-sur-Sûre, Beim Dreieck@X=6114930@Y=49852629@U=82@L=140602002@",32
+"Erpeldange-sur-Sûre, Um Dreieck","A=1@O=Erpeldange-sur-Sûre, Um Dreieck@X=6115029@Y=49850804@U=82@L=140602008@",32
+"Erpeldange-sur-Sûre, Laduno","A=1@O=Erpeldange-sur-Sûre, Laduno@X=6117726@Y=49852934@U=82@L=140602006@",32
+"Brandenbourg, Terminus","A=1@O=Brandenbourg, Terminus@X=6121384@Y=49913962@U=82@L=130203004@",32
+"Closdelt, Closdelt","A=1@O=Closdelt, Closdelt@X=6121465@Y=49903031@U=82@L=140311001@",32
+"Ingeldorf, Cactus","A=1@O=Ingeldorf, Cactus@X=6127119@Y=49851442@U=82@L=140603006@",32
+"Erpeldange-sur-Sûre, Heemricht","A=1@O=Erpeldange-sur-Sûre, Heemricht@X=6127704@Y=49869600@U=82@L=140602011@",32
+"Ingeldorf, Kiirchplaz","A=1@O=Ingeldorf, Kiirchplaz@X=6127731@Y=49848674@U=82@L=140603004@",32
+"Landscheid, Kiirch","A=1@O=Landscheid, Kiirch@X=6128396@Y=49924075@U=82@L=130205001@",32
+"Diekirch, Selzesland","A=1@O=Diekirch, Selzesland@X=6131299@Y=49871326@U=82@L=140401019@",32
+"Ingeldorf, Café de la Station","A=1@O=Ingeldorf, Café de la Station@X=6131371@Y=49853411@U=82@L=140603002@",32
+"Diekirch, Hannert der Seitert","A=1@O=Diekirch, Hannert der Seitert@X=6133816@Y=49874724@U=82@L=140401020@",32
+"Ingeldorf, Bei der Bréck","A=1@O=Ingeldorf, Bei der Bréck@X=6133951@Y=49851442@U=82@L=140603001@",32
+"Diekirch, Friedhaff","A=1@O=Diekirch, Friedhaff@X=6135057@Y=49890869@U=82@L=140401022@",32
+"Diekirch, Fitness","A=1@O=Diekirch, Fitness@X=6135183@Y=49877178@U=82@L=140401021@",32
+"Holzthum, Op der Hoecht","A=1@O=Holzthum, Op der Hoecht@X=6070622@Y=49983314@U=82@L=110402001@",32
+"Holzthum, Bei der Kierch","A=1@O=Holzthum, Bei der Kierch@X=6073256@Y=49984725@U=82@L=110402002@",32
+"Holzthum, Kiirfecht","A=1@O=Holzthum, Kiirfecht@X=6076276@Y=49986883@U=82@L=110402003@",32
+"Hoscheid, Kräizgaass","A=1@O=Hoscheid, Kräizgaass@X=6080465@Y=49945874@U=82@L=110412002@",32
+"Hoscheid, Braaken","A=1@O=Hoscheid, Braaken@X=6081095@Y=49950144@U=82@L=110412001@",32
+"Holzthum, Ferme Theves","A=1@O=Holzthum, Ferme Theves@X=6084196@Y=49990946@U=82@L=110402004@",32
+"Hoscheid, Markenbach","A=1@O=Hoscheid, Markenbach@X=6084205@Y=49938431@U=82@L=110412003@",32
+"Hosingen, ZAER","A=1@O=Hosingen, ZAER@X=6086929@Y=50004547@U=82@L=110403003@",32
+"Schinker, Um Rank","A=1@O=Schinker, Um Rank@X=6087549@Y=49991530@U=82@L=110203002@",32
+Ennert Schinker,A=1@O=Ennert Schinker@X=6088250@Y=49988645@U=82@L=110203001@,32
+Um Schinker,A=1@O=Um Schinker@X=6088592@Y=49992025@U=82@L=110203003@,32
+"Hoscheid-Dickt, Um Pëtz","A=1@O=Hoscheid-Dickt, Um Pëtz@X=6089383@Y=49970010@U=82@L=110413001@",32
+"Hoscheid-Dickt, Um Wald","A=1@O=Hoscheid-Dickt, Um Wald@X=6090713@Y=49976788@U=82@L=110413002@",32
+"Hosingen, Eesberwee","A=1@O=Hosingen, Eesberwee@X=6090722@Y=50012736@U=82@L=110403001@",32
+"Hosingen, Bei der Kierch","A=1@O=Hosingen, Bei der Kierch@X=6091810@Y=50016143@U=82@L=110403005@",32
+"Hosingen, Bayrischt","A=1@O=Hosingen, Bayrischt@X=6091990@Y=50019397@U=82@L=110403006@",32
+"Hosingen, Ewescht Duerf","A=1@O=Hosingen, Ewescht Duerf@X=6092053@Y=50017069@U=82@L=110403002@",32
+"Hosingen, Forum pour l'Emploi","A=1@O=Hosingen, Forum pour l'Emploi@X=6092053@Y=50007324@U=82@L=110403007@",32
+"Hosingen, Parc Housen","A=1@O=Hosingen, Parc Housen@X=6097239@Y=49993283@U=82@L=110403004@",32
+"Gralingen, Bei der Schull","A=1@O=Gralingen, Bei der Schull@X=6099846@Y=49936435@U=82@L=130102002@",32
+"Merscheid (Putscheid), Hennischtgaass","A=1@O=Merscheid (Putscheid), Hennischtgaass@X=6105357@Y=49953641@U=82@L=130103001@",32
+"Merscheid (Putscheid), Kierch","A=1@O=Merscheid (Putscheid), Kierch@X=6105662@Y=49954315@U=82@L=130103002@",32
+"Wahlhausen, Jouseps","A=1@O=Wahlhausen, Jouseps@X=6108620@Y=49985930@U=82@L=110409003@",32
+"Wahlhausen, Burebierg","A=1@O=Wahlhausen, Burebierg@X=6117995@Y=49982478@U=82@L=110409005@",32
+"Wahlhausen, Akescht","A=1@O=Wahlhausen, Akescht@X=6120369@Y=49977777@U=82@L=110409001@",32
+"Wahlhausen, Kiirch","A=1@O=Wahlhausen, Kiirch@X=6123883@Y=49982433@U=82@L=110409006@",32
+"Weiler (Putscheid), Gemengebau","A=1@O=Weiler (Putscheid), Gemengebau@X=6124558@Y=49962046@U=82@L=130107003@",32
+"Nachtmanderscheid, Bei Klossen","A=1@O=Nachtmanderscheid, Bei Klossen@X=6129556@Y=49948157@U=82@L=130104001@",32
+"Putscheid, Bei der Gemeng","A=1@O=Putscheid, Bei der Gemeng@X=6131335@Y=49963906@U=82@L=130105001@",32
+"Weimerskirch, Duerf","A=1@O=Weimerskirch, Duerf@X=6136064@Y=49628375@U=82@L=200426005@",32
+"Bonnevoie, Leschte Steiwer / Dernier Sol","A=1@O=Bonnevoie, Leschte Steiwer / Dernier Sol@X=6136333@Y=49594297@U=82@L=200404009@",256
+"Howald, Moureschanz","A=1@O=Howald, Moureschanz@X=6136387@Y=49583231@U=82@L=200304006@",32
+"Howald, Scillas","A=1@O=Howald, Scillas@X=6136540@Y=49583141@U=82@L=200304021@",256
+"Luxembourg, Gare Rocade","A=1@O=Luxembourg, Gare Rocade@X=6136657@Y=49600517@U=82@L=200405046@",32
+"Kirchberg, Rout Bréck - Pafendall (Tram)","A=1@O=Kirchberg, Rout Bréck - Pafendall (Tram)@X=6136684@Y=49618694@U=82@L=200417058@",256
+"prov. Howald, Op der Stirzel","A=1@O=prov. Howald, Op der Stirzel@X=6136738@Y=49577109@U=82@L=200304022@",32
+"Verlorenkost, Al Molkerei","A=1@O=Verlorenkost, Al Molkerei@X=6136864@Y=49605533@U=82@L=200404001@",32
+"Dommeldange, Gare","A=1@O=Dommeldange, Gare@X=6136891@Y=49633831@U=82@L=200409015@",4
+"Weimerskirch, Pierre-Eloi Schoué","A=1@O=Weimerskirch, Pierre-Eloi Schoué@X=6136936@Y=49626460@U=82@L=200426009@",32
+"Dommeldange, Gare routière","A=1@O=Dommeldange, Gare routière@X=6137008@Y=49633337@U=82@L=200409008@",32
+"Bonnevoie, Huese Vic","A=1@O=Bonnevoie, Huese Vic@X=6137097@Y=49603718@U=82@L=200404017@",32
+"Dommeldange, Uelzechtlycée","A=1@O=Dommeldange, Uelzechtlycée@X=6137115@Y=49637103@U=82@L=200409013@",32
+"Bonnevoie, Rotonde","A=1@O=Bonnevoie, Rotonde@X=6137295@Y=49599511@U=82@L=200404034@",32
+"Howald, Peternelchen","A=1@O=Howald, Peternelchen@X=6137565@Y=49577433@U=82@L=200304009@",32
+"Dommeldange, Chingiz Aitmatov","A=1@O=Dommeldange, Chingiz Aitmatov@X=6137637@Y=49639243@U=82@L=200409014@",32
+"Bonnevoie, Dernier Sol","A=1@O=Bonnevoie, Dernier Sol@X=6137790@Y=49594450@U=82@L=200404008@",32
+"Bonnevoie, Léon XIII","A=1@O=Bonnevoie, Léon XIII@X=6137844@Y=49596994@U=82@L=200404026@",32
+"Dommeldange, Barriär","A=1@O=Dommeldange, Barriär@X=6137880@Y=49633211@U=82@L=200409016@",32
+"Weimerskirch, Tommys Bruch","A=1@O=Weimerskirch, Tommys Bruch@X=6138059@Y=49631584@U=82@L=200426011@",32
+"Dommeldange, Château","A=1@O=Dommeldange, Château@X=6138626@Y=49634694@U=82@L=200409003@",32
+"Bonnevoie, Lycée Bouneweg (Tram)","A=1@O=Bonnevoie, Lycée Bouneweg (Tram)@X=6138698@Y=49590324@U=82@L=200404031@",256
+"Weimerskirch, St.Vith","A=1@O=Weimerskirch, St.Vith@X=6138823@Y=49626155@U=82@L=200426010@",32
+"Howald, 9 Mai 1944","A=1@O=Howald, 9 Mai 1944@X=6138940@Y=49585119@U=82@L=200304015@",32
+"Bonnevoie, Hippodrome","A=1@O=Bonnevoie, Hippodrome@X=6139057@Y=49593317@U=82@L=200404016@",32
+"Clausen, Rumm","A=1@O=Clausen, Rumm@X=6139174@Y=49610774@U=82@L=200408006@",32
+"Weimerskirch, Mäertesbuer","A=1@O=Weimerskirch, Mäertesbuer@X=6139228@Y=49627952@U=82@L=200426008@",32
+"Kirchberg, B.E.I.","A=1@O=Kirchberg, B.E.I.@X=6139399@Y=49620896@U=82@L=200417007@",32
+"Bonnevoie, Virchow","A=1@O=Bonnevoie, Virchow@X=6139426@Y=49601722@U=82@L=200404036@",32
+"Dommeldange, Sidney Thomas","A=1@O=Dommeldange, Sidney Thomas@X=6139489@Y=49634470@U=82@L=200409012@",32
+"Bonnevoie, Lycée Bouneweg PE","A=1@O=Bonnevoie, Lycée Bouneweg PE@X=6139516@Y=49590665@U=82@L=200404032@",32
+"Dommeldange, Contournement","A=1@O=Dommeldange, Contournement@X=6139668@Y=49633040@U=82@L=200409005@",32
+"Clausen, Plateau Altmunster","A=1@O=Clausen, Plateau Altmunster@X=6139857@Y=49612752@U=82@L=200408005@",32
+"Kirchberg, Prince Félix","A=1@O=Kirchberg, Prince Félix@X=6139974@Y=49625229@U=82@L=200417001@",32
+"Bonnevoie, Fraternité","A=1@O=Bonnevoie, Fraternité@X=6140055@Y=49599169@U=82@L=200404013@",32
+"Verlorenkost, Lavoisier","A=1@O=Verlorenkost, Lavoisier@X=6140891@Y=49605219@U=82@L=200404025@",32
+"Cents, Dinselpuert","A=1@O=Cents, Dinselpuert@X=6140891@Y=49610747@U=82@L=200406006@",32
+"Bonnevoie, Willibrord","A=1@O=Bonnevoie, Willibrord@X=6140900@Y=49593856@U=82@L=200404037@",32
+"Clausen, Ste Cunégonde","A=1@O=Clausen, Ste Cunégonde@X=6141277@Y=49614334@U=82@L=200408007@",32
+"Clausen, Melusina","A=1@O=Clausen, Melusina@X=6141394@Y=49611376@U=82@L=200408004@",32
+"Kirchberg, Philharmonie / Mudam (Bus)","A=1@O=Kirchberg, Philharmonie / Mudam (Bus)@X=6141394@Y=49619925@U=82@L=200417061@",32
+"Bonnevoie, Vannérus","A=1@O=Bonnevoie, Vannérus@X=6141529@Y=49597479@U=82@L=200404035@",32
+"Dommeldange, Jean Engling","A=1@O=Dommeldange, Jean Engling@X=6141556@Y=49638227@U=82@L=200409009@",32
+"Bonnevoie, Lycée Technique de Bonnevoie/Quais","A=1@O=Bonnevoie, Lycée Technique de Bonnevoie/Quais@X=6141664@Y=49591169@U=82@L=200404027@",32
+"Weimerskirch, Biechelchen","A=1@O=Weimerskirch, Biechelchen@X=6141754@Y=49633571@U=82@L=200426004@",32
+"Kirchberg, Philharmonie / Mudam (Tram)","A=1@O=Kirchberg, Philharmonie / Mudam (Tram)@X=6142024@Y=49619485@U=82@L=200417031@",256
+"Verlorenkost, Général Patton","A=1@O=Verlorenkost, Général Patton@X=6142194@Y=49607781@U=82@L=200404030@",32
+"Howald, Bei der Kierch","A=1@O=Howald, Bei der Kierch@X=6142329@Y=49583249@U=82@L=200304002@",32
+"Clausen, Tour Jacob","A=1@O=Clausen, Tour Jacob@X=6142545@Y=49611781@U=82@L=200408008@",32
+"Bonnevoie, Gabriel Lippmann","A=1@O=Bonnevoie, Gabriel Lippmann@X=6142599@Y=49599088@U=82@L=200404014@",32
+"Cents, Kéibierg-I.N.S.","A=1@O=Cents, Kéibierg-I.N.S.@X=6143219@Y=49611161@U=82@L=200406011@",32
+"Kirchberg, Paul Noesen","A=1@O=Kirchberg, Paul Noesen@X=6143255@Y=49627287@U=82@L=200417030@",32
+"Bonnevoie, Demy Schlechter","A=1@O=Bonnevoie, Demy Schlechter@X=6143399@Y=49594998@U=82@L=200404007@",32
+"Clausen, Clausener Bréck","A=1@O=Clausen, Clausener Bréck@X=6143417@Y=49613480@U=82@L=200408001@",32
+"Dommeldange, Van der Meulen","A=1@O=Dommeldange, Van der Meulen@X=6143705@Y=49636294@U=82@L=200409011@",32
+"Howald, Jhangeli","A=1@O=Howald, Jhangeli@X=6143741@Y=49586099@U=82@L=200304004@",32
+"Hesperange, Cité Um Schlass","A=1@O=Hesperange, Cité Um Schlass@X=6143902@Y=49572920@U=82@L=200303002@",32
+"Dommeldange, Parc de l'Europe","A=1@O=Dommeldange, Parc de l'Europe@X=6144244@Y=49638811@U=82@L=200409010@",32
+"Bonnevoie, Pont-Remy","A=1@O=Bonnevoie, Pont-Remy@X=6144397@Y=49594540@U=82@L=200404033@",32
+"Bonnevoie, Wisestrooss","A=1@O=Bonnevoie, Wisestrooss@X=6144451@Y=49597911@U=82@L=200404038@",32
+"Hesperange, Um Schlass","A=1@O=Hesperange, Um Schlass@X=6144657@Y=49572129@U=82@L=200305009@",32
+"Kirchberg, Niedergrünewald","A=1@O=Kirchberg, Niedergrünewald@X=6144855@Y=49621831@U=82@L=200417049@",32
+"Bonnevoie, Kofferfabrick","A=1@O=Bonnevoie, Kofferfabrick@X=6145107@Y=49600931@U=82@L=200404023@",32
+"Kirchberg, Jean Monnet","A=1@O=Kirchberg, Jean Monnet@X=6145871@Y=49624797@U=82@L=200417016@",32
+"Howald, Minsbësch","A=1@O=Howald, Minsbësch@X=6145988@Y=49580319@U=82@L=200304005@",32
+"Bonnevoie, Jules Fischer","A=1@O=Bonnevoie, Jules Fischer@X=6146464@Y=49592283@U=82@L=200404021@",32
+"Clausen, Malakoff","A=1@O=Clausen, Malakoff@X=6146581@Y=49615170@U=82@L=200408003@",32
+"Kirchberg, Kierch","A=1@O=Kirchberg, Kierch@X=6146734@Y=49628447@U=82@L=200417018@",32
+"Bonnevoie, Jean Jacoby","A=1@O=Bonnevoie, Jean Jacoby@X=6146914@Y=49598387@U=82@L=200404019@",32
+"Howald, Waassertuerm","A=1@O=Howald, Waassertuerm@X=6147651@Y=49578188@U=82@L=200304013@",32
+"Bonnevoie, Jeanne d'Arc","A=1@O=Bonnevoie, Jeanne d'Arc@X=6147678@Y=49596715@U=82@L=200404020@",32
+"Cents, Fort Dumoulin","A=1@O=Cents, Fort Dumoulin@X=6147894@Y=49612428@U=82@L=200406007@",32
+"Howald, C.I.P.A.","A=1@O=Howald, C.I.P.A.@X=6147947@Y=49589173@U=82@L=200304003@",32
+"Fentange, Op de Leemen","A=1@O=Fentange, Op de Leemen@X=6147965@Y=49560884@U=82@L=200302004@",32
+"Kirchberg, Europaparlament / Parlement Européen","A=1@O=Kirchberg, Europaparlament / Parlement Européen@X=6148307@Y=49620797@U=82@L=200417029@",256
+"Hamm, Montmédy","A=1@O=Hamm, Montmédy@X=6148451@Y=49604032@U=82@L=200414005@",32
+"Howald, Am Houwaldsbierg","A=1@O=Howald, Am Houwaldsbierg@X=6148514@Y=49581847@U=82@L=200304001@",32
+"Bonnevoie, Nic Martha","A=1@O=Bonnevoie, Nic Martha@X=6148873@Y=49593002@U=82@L=200404029@",32
+"Kirchberg, Schmëdd","A=1@O=Kirchberg, Schmëdd@X=6149233@Y=49628366@U=82@L=200417037@",32
+"Bonnevoie, Chalop","A=1@O=Bonnevoie, Chalop@X=6149350@Y=49600275@U=82@L=200404006@",32
+"Kirchberg, Léon Hengen","A=1@O=Kirchberg, Léon Hengen@X=6149440@Y=49623862@U=82@L=200417021@",32
+"Bonnevoie, Anatole France","A=1@O=Bonnevoie, Anatole France@X=6149485@Y=49598720@U=82@L=200404003@",32
+"Bonnevoie, Izeger Knupp","A=1@O=Bonnevoie, Izeger Knupp@X=6150168@Y=49595942@U=82@L=200404018@",32
+"Bonnevoie, Baden-Powell","A=1@O=Bonnevoie, Baden-Powell@X=6150599@Y=49599996@U=82@L=200404004@",32
+"Pulvermühl, Hammer Dällchen","A=1@O=Pulvermühl, Hammer Dällchen@X=6150734@Y=49608823@U=82@L=200424001@",32
+"Bonnevoie, Kaltreis","A=1@O=Bonnevoie, Kaltreis@X=6150833@Y=49593659@U=82@L=200404022@",32
+"Kirchberg, Europe Gare routière","A=1@O=Kirchberg, Europe Gare routière@X=6150860@Y=49624429@U=82@L=200417048@",32
+"Fentange, Duelemerbach","A=1@O=Fentange, Duelemerbach@X=6151220@Y=49569936@U=82@L=200302001@",32
+"Kirchberg, Mischekopp","A=1@O=Kirchberg, Mischekopp@X=6151309@Y=49630757@U=82@L=200404041@",32
+"Kirchberg, Sichegronn","A=1@O=Kirchberg, Sichegronn@X=6151534@Y=49628384@U=82@L=200417038@",32
+"Kirchberg, Antoine de St Exupéry","A=1@O=Kirchberg, Antoine de St Exupéry@X=6151543@Y=49627206@U=82@L=200417005@",32
+"Cents, Nic Rollinger","A=1@O=Cents, Nic Rollinger@X=6151651@Y=49611592@U=82@L=200406013@",32
+"Neudorf/Weimershof, Hierzekrëpp","A=1@O=Neudorf/Weimershof, Hierzekrëpp@X=6151705@Y=49617067@U=82@L=200422005@",32
+"Luxembourg, Ecole Ste Sophie","A=1@O=Luxembourg, Ecole Ste Sophie@X=6151993@Y=49619053@U=82@L=200406022@",32
+"Fentange, Fuertwee","A=1@O=Fentange, Fuertwee@X=6152029@Y=49564129@U=82@L=200302002@",32
+"Kirchberg, École européenne","A=1@O=Kirchberg, École européenne@X=6152361@Y=49626074@U=82@L=200417053@",32
+"Fentange, Hiehl","A=1@O=Fentange, Hiehl@X=6152514@Y=49567428@U=82@L=200302003@",32
+"Hamm, Englebert Neveu","A=1@O=Hamm, Englebert Neveu@X=6152676@Y=49605650@U=82@L=200414002@",32
+"Dommeldange, Dauschbuer","A=1@O=Dommeldange, Dauschbuer@X=6153053@Y=49640133@U=82@L=200409006@",32
+"Hesperange, Wollefsmillen","A=1@O=Hesperange, Wollefsmillen@X=6153746@Y=49577118@U=82@L=200303007@",32
+"Hesperange, Sprëtzenhaus","A=1@O=Hesperange, Sprëtzenhaus@X=6153772@Y=49571959@U=82@L=200303005@",32
+"Hamm, Ierzkaulen","A=1@O=Hamm, Ierzkaulen@X=6153889@Y=49605111@U=82@L=200414013@",32
+"Weimershof, Bleuets","A=1@O=Weimershof, Bleuets@X=6153943@Y=49620536@U=82@L=200426001@",32
+"Cents, Tawioun","A=1@O=Cents, Tawioun@X=6154069@Y=49613866@U=82@L=200406017@",32
+"Kirchberg, Coque","A=1@O=Kirchberg, Coque@X=6154285@Y=49622784@U=82@L=200417014@",256
+"Hamm, Colonie","A=1@O=Hamm, Colonie@X=6155265@Y=49607080@U=82@L=200414001@",32
+"Neudorf, Fixmer","A=1@O=Neudorf, Fixmer@X=6156757@Y=49618990@U=82@L=200408002@",32
+"Kirchberg, Konrad Adenauer","A=1@O=Kirchberg, Konrad Adenauer@X=6156982@Y=49629436@U=82@L=200417019@",32
+"Hesperange, Am Keller","A=1@O=Hesperange, Am Keller@X=6157323@Y=49573388@U=82@L=200303001@",32
+"Cents, Pommiers","A=1@O=Cents, Pommiers@X=6157341@Y=49612779@U=82@L=200406015@",32
+"Weimershof, Pâquerettes","A=1@O=Weimershof, Pâquerettes@X=6158905@Y=49622577@U=82@L=200426003@",32
+"Cents, Jules Salentiny","A=1@O=Cents, Jules Salentiny@X=6158932@Y=49616896@U=82@L=200406010@",32
+"Kirchberg, Coudenhove-Kalergi","A=1@O=Kirchberg, Coudenhove-Kalergi@X=6159202@Y=49627908@U=82@L=200417013@",32
+"Kirchberg, Simone de Beauvoir","A=1@O=Kirchberg, Simone de Beauvoir@X=6159768@Y=49634919@U=82@L=200417060@",32
+"Hesperange, Urbengsschlass","A=1@O=Hesperange, Urbengsschlass@X=6159993@Y=49571491@U=82@L=200303006@",32
+"Hesperange, Itziger Eck","A=1@O=Hesperange, Itziger Eck@X=6160020@Y=49574422@U=82@L=200303004@",32
+"Cents, Arthur Knaff","A=1@O=Cents, Arthur Knaff@X=6160577@Y=49618370@U=82@L=200406002@",32
+"Kirchberg, Avalon","A=1@O=Kirchberg, Avalon@X=6160721@Y=49632312@U=82@L=200417039@",32
+"Cents, Kierch","A=1@O=Cents, Kierch@X=6160748@Y=49615493@U=82@L=200406012@",32
+"Kirchberg, Universitéit","A=1@O=Kirchberg, Universitéit@X=6160757@Y=49626011@U=82@L=200417046@",256
+"Kirchberg, Marguerites","A=1@O=Kirchberg, Marguerites@X=6160766@Y=49623683@U=82@L=200417024@",32
+"Alzingen, Trapeneck","A=1@O=Alzingen, Trapeneck@X=6160982@Y=49567734@U=82@L=200301003@",32
+"Neudorf, Kierch","A=1@O=Neudorf, Kierch@X=6161836@Y=49621238@U=82@L=200422009@",32
+"Hamm, Schoul","A=1@O=Hamm, Schoul@X=6161989@Y=49609147@U=82@L=200414008@",32
+"Alzingen, Hondsbréck","A=1@O=Alzingen, Hondsbréck@X=6162303@Y=49564623@U=82@L=200301002@",32
+"Cents, Fetschebuer","A=1@O=Cents, Fetschebuer@X=6162312@Y=49614073@U=82@L=200414010@",32
+"Kirchberg, Albert Borschette","A=1@O=Kirchberg, Albert Borschette@X=6162474@Y=49628600@U=82@L=200417002@",32
+"Hesperange, Holleschbierg","A=1@O=Hesperange, Holleschbierg@X=6162582@Y=49577442@U=82@L=200303003@",32
+"Cents, Charles de Tornaco","A=1@O=Cents, Charles de Tornaco@X=6163292@Y=49619242@U=82@L=200406005@",32
+"Alzingen, Gässel","A=1@O=Alzingen, Gässel@X=6163813@Y=49567815@U=82@L=200301001@",32
+"Kirchberg, Muguets","A=1@O=Kirchberg, Muguets@X=6163831@Y=49626541@U=82@L=200417026@",32
+"Neudorf, Huesegrënnchen","A=1@O=Neudorf, Huesegrënnchen@X=6164272@Y=49622901@U=82@L=200422006@",32
+"Hamm, Peupliers","A=1@O=Hamm, Peupliers@X=6164901@Y=49612131@U=82@L=200414011@",32
+"Neiduerf, Brasserie","A=1@O=Neiduerf, Brasserie@X=6164919@Y=49622451@U=82@L=200422001@",32
+"Kirchberg, Léon Thyes","A=1@O=Kirchberg, Léon Thyes@X=6165018@Y=49637292@U=82@L=200417022@",32
+"Cents, Gabriel de Marie","A=1@O=Cents, Gabriel de Marie@X=6165728@Y=49619017@U=82@L=200406008@",32
+"Neudorf, Carrières","A=1@O=Neudorf, Carrières@X=6165782@Y=49625355@U=82@L=200422002@",32
+"Cents-Hamm, Halte CFL","A=1@O=Cents-Hamm, Halte CFL@X=6165971@Y=49614585@U=82@L=200406024@",32
+"Cents-Hamm, Gare","A=1@O=Cents-Hamm, Gare@X=6165980@Y=49615017@U=82@L=200406025@",4
+"Kirchberg, Nationalbibliothéik","A=1@O=Kirchberg, Nationalbibliothéik@X=6166025@Y=49629247@U=82@L=200417045@",256
+"Cents, Robert Bruch","A=1@O=Cents, Robert Bruch@X=6166160@Y=49616914@U=82@L=200406016@",32
+"Kirchberg, Bricher Gässel","A=1@O=Kirchberg, Bricher Gässel@X=6166681@Y=49626946@U=82@L=200417008@",32
+"Itzig, Am Kiemert","A=1@O=Itzig, Am Kiemert@X=6166879@Y=49582072@U=82@L=200305002@",32
+"Hamm, Kierch","A=1@O=Hamm, Kierch@X=6167077@Y=49610190@U=82@L=200414004@",32
+"Kirchberg, Réimerwee","A=1@O=Kirchberg, Réimerwee@X=6167481@Y=49632366@U=82@L=200417036@",32
+"Itzig, An den Espen","A=1@O=Itzig, An den Espen@X=6167544@Y=49586296@U=82@L=200305003@",32
+"Kirchberg, Labours","A=1@O=Kirchberg, Labours@X=6167787@Y=49629157@U=82@L=200417020@",32
+"Kirchberg, Chambre des Métiers","A=1@O=Kirchberg, Chambre des Métiers@X=6168002@Y=49633598@U=82@L=200417012@",32
+"Neiduerf, Kapell","A=1@O=Neiduerf, Kapell@X=6168443@Y=49623530@U=82@L=200422008@",32
+"Kirchberg, Poutty Stein","A=1@O=Kirchberg, Poutty Stein@X=6168964@Y=49635584@U=82@L=200417033@",32
+"Kirchberg, Mathias Tresch","A=1@O=Kirchberg, Mathias Tresch@X=6169306@Y=49637580@U=82@L=200417025@",32
+"Kirchberg, Luxexpo Entrée Sud","A=1@O=Kirchberg, Luxexpo Entrée Sud@X=6169477@Y=49634685@U=82@L=200417023@",32
+"Cents, Trèves","A=1@O=Cents, Trèves@X=6169567@Y=49617633@U=82@L=200406018@",32
+"Hamm, Rue de Bitbourg","A=1@O=Hamm, Rue de Bitbourg@X=6169782@Y=49613183@U=82@L=200414006@",32
+"Hamm, Rue Haute","A=1@O=Hamm, Rue Haute@X=6169782@Y=49611017@U=82@L=200414007@",32
+"Itzig, Hubertuspad","A=1@O=Itzig, Hubertuspad@X=6169818@Y=49587267@U=82@L=200305005@",32
+"Kirchberg, Alphonse Weicker (Bus)","A=1@O=Kirchberg, Alphonse Weicker (Bus)@X=6169917@Y=49632303@U=82@L=200417004@",32
+"Itzig, Kapell","A=1@O=Itzig, Kapell@X=6169962@Y=49584517@U=82@L=200305006@",32
+"Kirchberg, Alphonse Weicker (Tram)","A=1@O=Kirchberg, Alphonse Weicker (Tram)@X=6170825@Y=49632177@U=82@L=200417066@",256
+"Itzig, Dellbierg","A=1@O=Itzig, Dellbierg@X=6171086@Y=49588984@U=82@L=200305004@",32
+"Weimershof, Joseph Hackin","A=1@O=Weimershof, Joseph Hackin@X=6171355@Y=49630218@U=82@L=200426002@",32
+"Kirchberg, Rehazenter Parking","A=1@O=Kirchberg, Rehazenter Parking@X=6171616@Y=49627602@U=82@L=200417035@",32
+"Itzig, Kierch","A=1@O=Itzig, Kierch@X=6171706@Y=49585910@U=82@L=200305007@",32
+"Cents, Carmel","A=1@O=Cents, Carmel@X=6172434@Y=49618325@U=82@L=200406004@",32
+"Hamm, Käschtewee","A=1@O=Hamm, Käschtewee@X=6172731@Y=49612725@U=82@L=200414003@",32
+"Neudorf, Laangegronn","A=1@O=Neudorf, Laangegronn@X=6173081@Y=49624159@U=82@L=200422011@",32
+"Itzig, Klouschter","A=1@O=Itzig, Klouschter@X=6173962@Y=49585901@U=82@L=200305008@",32
+"Cents, Paul Albrecht","A=1@O=Cents, Paul Albrecht@X=6174250@Y=49620725@U=82@L=200406014@",32
+"Kirchberg, Rehazenter","A=1@O=Kirchberg, Rehazenter@X=6174304@Y=49628878@U=82@L=200417034@",32
+"Hamm, Ronndréisch","A=1@O=Hamm, Ronndréisch@X=6174493@Y=49614837@U=82@L=200414009@",32
+"Neiduerf, Kierfecht","A=1@O=Neiduerf, Kierfecht@X=6174681@Y=49626379@U=82@L=200422010@",32
+"Kirchberg, Hugo Gernsback","A=1@O=Kirchberg, Hugo Gernsback@X=6174726@Y=49635836@U=82@L=200417040@",32
+"Kirchberg, Gare routière Luxexpo","A=1@O=Kirchberg, Gare routière Luxexpo@X=6174762@Y=49636375@U=82@L=200417050@",32
+"Kirchberg, Hôpital","A=1@O=Kirchberg, Hôpital@X=6175167@Y=49632591@U=82@L=200417015@",32
+"Kirchberg, Luxexpo","A=1@O=Kirchberg, Luxexpo@X=6175904@Y=49635422@U=82@L=200417052@",256
+"Cents, Camille Polfer","A=1@O=Cents, Camille Polfer@X=6176335@Y=49619368@U=82@L=200406003@",32
+"Neudorf/Weimershof, Grunewald","A=1@O=Neudorf/Weimershof, Grunewald@X=6177207@Y=49628420@U=82@L=200422004@",32
+"Neudorf/Weimershof, Fierschterhaus","A=1@O=Neudorf/Weimershof, Fierschterhaus@X=6177603@Y=49623808@U=82@L=200422003@",32
+"Kirchberg, Pierre Werner","A=1@O=Kirchberg, Pierre Werner@X=6177657@Y=49631674@U=82@L=200417032@",32
+"Itzig, Am Horra","A=1@O=Itzig, Am Horra@X=6177855@Y=49585380@U=82@L=200305001@",32
+"Cents, Waassertuerm","A=1@O=Cents, Waassertuerm@X=6182880@Y=49620833@U=82@L=200406019@",32
+"Neudorf, Kalchesbruck","A=1@O=Neudorf, Kalchesbruck@X=6185136@Y=49622586@U=82@L=200422007@",32
+"Sandweiler, American Cemetery-Memorial","A=1@O=Sandweiler, American Cemetery-Memorial@X=6186502@Y=49613084@U=82@L=200601011@",32
+"Kalchesbréck, Reno","A=1@O=Kalchesbréck, Reno@X=6187275@Y=49621948@U=82@L=200416002@",32
+"Findel, Business Center","A=1@O=Findel, Business Center@X=6193730@Y=49624042@U=82@L=200602002@",32
+"Findel, Gréiwelscheierhaff","A=1@O=Findel, Gréiwelscheierhaff@X=6198116@Y=49625813@U=82@L=200602003@",32
+"Sandweiler, Scheedbësch","A=1@O=Sandweiler, Scheedbësch@X=6202692@Y=49613947@U=82@L=200601015@",32
+"Sandweiler, Schaedhaff","A=1@O=Sandweiler, Schaedhaff@X=6203761@Y=49606891@U=82@L=200601009@",32
+"Walferdange, Gare","A=1@O=Walferdange, Gare@X=6136208@Y=49662031@U=82@L=201004001@",4
+"Heisdorf, Klouster","A=1@O=Heisdorf, Klouster@X=6137331@Y=49674508@U=82@L=200802004@",32
+"Bofferdange, Bouferknupp","A=1@O=Bofferdange, Bouferknupp@X=6138050@Y=49682301@U=82@L=160803002@",32
+"Heisdorf, Gare","A=1@O=Heisdorf, Gare@X=6139417@Y=49675101@U=82@L=200802003@",4
+"Bofferdange, Maison de Retraite","A=1@O=Bofferdange, Maison de Retraite@X=6140379@Y=49689403@U=82@L=160803001@",32
+"Lorentzweiler, Gare","A=1@O=Lorentzweiler, Gare@X=6140415@Y=49698464@U=82@L=160807006@",4
+"Lorentzweiler, Kleck","A=1@O=Lorentzweiler, Kleck@X=6140810@Y=49702437@U=82@L=160807002@",32
+"Helmdange, Fautelfiels","A=1@O=Helmdange, Fautelfiels@X=6140900@Y=49694203@U=82@L=160804001@",32
+"Lorentzweiler, Gare routière","A=1@O=Lorentzweiler, Gare routière@X=6140936@Y=49698347@U=82@L=160807003@",32
+"Lorentzweiler, Am Duerf","A=1@O=Lorentzweiler, Am Duerf@X=6142914@Y=49701547@U=82@L=160807001@",32
+"Lorentzweiler, rue de Blaschette","A=1@O=Lorentzweiler, rue de Blaschette@X=6148109@Y=49703066@U=82@L=160807004@",32
+"Blaschette, Kräizung","A=1@O=Blaschette, Kräizung@X=6164712@Y=49702248@U=82@L=160802002@",32
+"Blaschette, Op der Kräizung","A=1@O=Blaschette, Op der Kräizung@X=6166294@Y=49702527@U=82@L=160802001@",32
+"Blaschette, Wormeldenger Strooss","A=1@O=Blaschette, Wormeldenger Strooss@X=6166591@Y=49699435@U=82@L=160802003@",32
+"Blaschette, Fëschbecherstrooss","A=1@O=Blaschette, Fëschbecherstrooss@X=6166870@Y=49703138@U=82@L=160802004@",32
+"Asselscheuer, Klingelscheuer","A=1@O=Asselscheuer, Klingelscheuer@X=6167373@Y=49692891@U=82@L=160806001@",32
+"Asselscheuer, Uesselscheier","A=1@O=Asselscheuer, Uesselscheier@X=6171904@Y=49690967@U=82@L=160801001@",32
+Stafelter,A=1@O=Stafelter@X=6174609@Y=49658938@U=82@L=201005001@,32
+"Eisenborn, Am Duerf","A=1@O=Eisenborn, Am Duerf@X=6184120@Y=49691776@U=82@L=180505001@",32
+"Fischbach/Mersch, Beim Schlass","A=1@O=Fischbach/Mersch, Beim Schlass@X=6188794@Y=49746682@U=82@L=160402003@",32
+"Imbringen, Am Duerf","A=1@O=Imbringen, Am Duerf@X=6193685@Y=49701259@U=82@L=180510001@",32
+"Mersch, Bënzert","A=1@O=Mersch, Bënzert@X=6139381@Y=49753316@U=82@L=160904012@",32
+"Cruchten, Heemeschbaach","A=1@O=Cruchten, Heemeschbaach@X=6141727@Y=49801345@U=82@L=161001003@",32
+"Oberglabach, Kapell","A=1@O=Oberglabach, Kapell@X=6149323@Y=49784572@U=82@L=161004001@",32
+"Schrondweiler, Um Woes","A=1@O=Schrondweiler, Um Woes@X=6154797@Y=49804348@U=82@L=161005002@",32
+"Niederglabach, Peffeschhaff","A=1@O=Niederglabach, Peffeschhaff@X=6156253@Y=49791242@U=82@L=161002001@",32
+"Schrondweiler, Bei der Schoul","A=1@O=Schrondweiler, Bei der Schoul@X=6159022@Y=49805229@U=82@L=161005001@",32
+"Angelsberg, Paafendall","A=1@O=Angelsberg, Paafendall@X=6160020@Y=49762557@U=82@L=160401001@",32
+"Stegen, Eglise","A=1@O=Stegen, Eglise@X=6168919@Y=49828861@U=82@L=140503002@",32
+"Schoos, Um Hiervel","A=1@O=Schoos, Um Hiervel@X=6169683@Y=49751554@U=82@L=160404001@",32
+"Nommern, Weierwiss","A=1@O=Nommern, Weierwiss@X=6170268@Y=49793237@U=82@L=161003003@",32
+"Stegen, Kreiz","A=1@O=Stegen, Kreiz@X=6173342@Y=49829554@U=82@L=140503003@",32
+"Nommern, Bei der Kirch","A=1@O=Nommern, Bei der Kirch@X=6173675@Y=49794514@U=82@L=161003002@",32
+"Nommern, Griechten","A=1@O=Nommern, Griechten@X=6175463@Y=49797669@U=82@L=161003001@",32
+"Stegen, Bloen Eck","A=1@O=Stegen, Bloen Eck@X=6177882@Y=49827774@U=82@L=140503001@",32
+"Larochette, Goudelt","A=1@O=Larochette, Goudelt@X=6181333@Y=49781344@U=82@L=160601009@",32
+"Stegen, Um Gilker","A=1@O=Stegen, Um Gilker@X=6183931@Y=49826812@U=82@L=140503004@",32
+Aechelbur,A=1@O=Aechelbur@X=6185298@Y=49801516@U=82@L=161006001@,32
+"Brandenbourg, Bakes","A=1@O=Brandenbourg, Bakes@X=6136567@Y=49911580@U=82@L=130203001@",32
+"Brandenbourg, Vereinsbau","A=1@O=Brandenbourg, Vereinsbau@X=6139039@Y=49911355@U=82@L=130203005@",32
+"Ingeldorf, Walebroch","A=1@O=Ingeldorf, Walebroch@X=6139579@Y=49858130@U=82@L=140603005@",32
+"Brandenbourg, Kapell","A=1@O=Brandenbourg, Kapell@X=6139830@Y=49910987@U=82@L=130203002@",32
+"Ingeldorf, Cité Longchamps","A=1@O=Ingeldorf, Cité Longchamps@X=6141700@Y=49857141@U=82@L=140603003@",32
+"Brandenbourg, Laangwiss","A=1@O=Brandenbourg, Laangwiss@X=6141709@Y=49909000@U=82@L=130203003@",32
+"Diekirch, Lorentzwues","A=1@O=Diekirch, Lorentzwues@X=6145664@Y=49860234@U=82@L=140401008@",32
+"Diekirch, Dräi Braken","A=1@O=Diekirch, Dräi Braken@X=6150968@Y=49879848@U=82@L=140401003@",32
+"Diekirch, Gare routière","A=1@O=Diekirch, Gare routière@X=6152856@Y=49864486@U=82@L=140401004@",32
+"Diekirch, Gare","A=1@O=Diekirch, Gare@X=6154069@Y=49864737@U=82@L=140401018@",4
+"Diekirch, op der Kluuster","A=1@O=Diekirch, op der Kluuster@X=6158015@Y=49869574@U=82@L=140401006@",32
+"Diekirch, Place Récollets","A=1@O=Diekirch, Place Récollets@X=6158806@Y=49870302@U=82@L=140401010@",32
+"Diekirch, Altersheem","A=1@O=Diekirch, Altersheem@X=6159400@Y=49866589@U=82@L=140401001@",32
+"Bastendorf, Beim Terrain","A=1@O=Bastendorf, Beim Terrain@X=6160074@Y=49892083@U=82@L=130201001@",32
+"Diekirch, Alexis Heck","A=1@O=Diekirch, Alexis Heck@X=6162231@Y=49868207@U=82@L=140401011@",32
+"Diekirch, Fielserstrooss","A=1@O=Diekirch, Fielserstrooss@X=6162995@Y=49863686@U=82@L=140401012@",32
+"Diekirch, Beim Waasserbaseng","A=1@O=Diekirch, Beim Waasserbaseng@X=6163813@Y=49860701@U=82@L=140401016@",32
+"Bastendorf, Lann","A=1@O=Bastendorf, Lann@X=6164137@Y=49890518@U=82@L=130201003@",32
+"Gilsdorf, Ackerbauschoul","A=1@O=Gilsdorf, Ackerbauschoul@X=6167112@Y=49860980@U=82@L=140203012@",32
+"Diekirch, rue J. Merten","A=1@O=Diekirch, rue J. Merten@X=6167256@Y=49864818@U=82@L=140401007@",32
+"Diekirch, Neie Kolleisch","A=1@O=Diekirch, Neie Kolleisch@X=6168245@Y=49864791@U=82@L=140401009@",32
+"Diekirch, Hall logistique","A=1@O=Diekirch, Hall logistique@X=6171760@Y=49878131@U=82@L=140401014@",32
+"Diekirch, An der Kléck","A=1@O=Diekirch, An der Kléck@X=6172066@Y=49868738@U=82@L=140401005@",32
+"Walsdorf, An der Gaass","A=1@O=Walsdorf, An der Gaass@X=6172982@Y=49925765@U=82@L=130208002@",32
+"Diekirch, Centre Militaire","A=1@O=Diekirch, Centre Militaire@X=6173288@Y=49873610@U=82@L=140401013@",32
+"Bastendorf, Ge'erwee","A=1@O=Bastendorf, Ge'erwee@X=6173549@Y=49886851@U=82@L=130201002@",32
+"Diekirch, Bei der Tirelbaach","A=1@O=Diekirch, Bei der Tirelbaach@X=6174825@Y=49864432@U=82@L=140401017@",32
+"Gilsdorf, Op der Bell","A=1@O=Gilsdorf, Op der Bell@X=6178816@Y=49861861@U=82@L=140203010@",32
+"Gilsdorf, Bei der Schoul","A=1@O=Gilsdorf, Bei der Schoul@X=6179563@Y=49865277@U=82@L=140203002@",32
+"Gilsdorf, An der Kléck","A=1@O=Gilsdorf, An der Kléck@X=6181630@Y=49869681@U=82@L=140203001@",32
+"Tandel, Schoul","A=1@O=Tandel, Schoul@X=6181756@Y=49894123@U=82@L=130207001@",32
+"Tandel, Veianerstrooss","A=1@O=Tandel, Veianerstrooss@X=6182097@Y=49896982@U=82@L=130207002@",32
+"Seltz, Valeriushaff","A=1@O=Seltz, Valeriushaff@X=6185334@Y=49884334@U=82@L=130208001@",32
+"Broderbour, Broderbour","A=1@O=Broderbour, Broderbour@X=6185702@Y=49852134@U=82@L=140206001@",32
+"Seltz, An der Lengt","A=1@O=Seltz, An der Lengt@X=6186242@Y=49881826@U=82@L=130210001@",32
+Seltz,A=1@O=Seltz@X=6188426@Y=49878671@U=82@L=130210002@,32
+"Bettendorf, Bleesbréck","A=1@O=Bettendorf, Bleesbréck@X=6189208@Y=49871902@U=82@L=140201004@",32
+"Fouhren, Movida","A=1@O=Fouhren, Movida@X=6192867@Y=49916839@U=82@L=130204002@",32
+"Fouhren, Halt","A=1@O=Fouhren, Halt@X=6193828@Y=49912263@U=82@L=130204001@",32
+"Vianden, Place Engelmann","A=1@O=Vianden, Place Engelmann@X=6201586@Y=49934745@U=82@L=130301010@",32
+Folkendange,A=1@O=Folkendange@X=6202018@Y=49842138@U=82@L=140504004@,32
+"Vianden, Plank","A=1@O=Vianden, Plank@X=6202629@Y=49931213@U=82@L=130301011@",32
+Kounenhaff,A=1@O=Kounenhaff@X=6136459@Y=50016664@U=82@L=110417001@,32
+"Nachtmanderscheid, Poul","A=1@O=Nachtmanderscheid, Poul@X=6138760@Y=49947321@U=82@L=130104002@",32
+"Putscheid, Am Duerf","A=1@O=Putscheid, Am Duerf@X=6139084@Y=49959717@U=82@L=130105003@",32
+"Putscheid, Gemengebau","A=1@O=Putscheid, Gemengebau@X=6139830@Y=49959394@U=82@L=130105002@",32
+"Eisenbach, Bongertswies","A=1@O=Eisenbach, Bongertswies@X=6142015@Y=50008951@U=82@L=110406002@",32
+"Eisenbach, Bréck","A=1@O=Eisenbach, Bréck@X=6144999@Y=50000052@U=82@L=110406003@",32
+"Eisenbach, Bei der Baach","A=1@O=Eisenbach, Bei der Baach@X=6147102@Y=50004825@U=82@L=110406001@",32
+"Nachtmanderscheid, Um Groestéen","A=1@O=Nachtmanderscheid, Um Groestéen@X=6147849@Y=49946899@U=82@L=130108003@",32
+"Nachtmanderscheid, Houschterhaff","A=1@O=Nachtmanderscheid, Houschterhaff@X=6152793@Y=49940426@U=82@L=130208003@",32
+"Hosingen, Gemönnerbréck","A=1@O=Hosingen, Gemönnerbréck@X=6162375@Y=49986928@U=82@L=110403008@",32
+"Stolzembourg, Op Akescht","A=1@O=Stolzembourg, Op Akescht@X=6165494@Y=49977049@U=82@L=130106001@",32
+Mont St. Nicolas,A=1@O=Mont St. Nicolas@X=6166357@Y=49946719@U=82@L=130310001@,32
+"Stolzembourg, Bei der Kiirch","A=1@O=Stolzembourg, Bei der Kiirch@X=6166924@Y=49965974@U=82@L=130106003@",32
+"Stolzembourg, Bei der Bréck","A=1@O=Stolzembourg, Bei der Bréck@X=6169558@Y=49963250@U=82@L=130106002@",32
+"Stolzembourg, S.E.O.","A=1@O=Stolzembourg, S.E.O.@X=6176803@Y=49954297@U=82@L=130106004@",32
+"Bivels, Op der Loch","A=1@O=Bivels, Op der Loch@X=6190970@Y=49956535@U=82@L=130101003@",32
+"Bivels, Bei der Kiirch","A=1@O=Bivels, Bei der Kiirch@X=6192920@Y=49959403@U=82@L=130101002@",32
+"Bivels, Op der Millen","A=1@O=Bivels, Op der Millen@X=6195986@Y=49950261@U=82@L=130101001@",32
+"Vianden, Aale Moart","A=1@O=Vianden, Aale Moart@X=6203914@Y=49937945@U=82@L=130301002@",32
+Findel,A=1@O=Findel@X=6204588@Y=49629166@U=82@L=200602001@,32
+"Sandweiler, Kontrollstatioun","A=1@O=Sandweiler, Kontrollstatioun@X=6209416@Y=49615727@U=82@L=200601006@",32
+"Senningerberg, Lou Hemmer","A=1@O=Senningerberg, Lou Hemmer@X=6210458@Y=49633013@U=82@L=200508012@",32
+"Sandweiler-Contern, Gare","A=1@O=Sandweiler-Contern, Gare@X=6211771@Y=49599097@U=82@L=200601016@",4
+"Sandweiler, Am Eck","A=1@O=Sandweiler, Am Eck@X=6212184@Y=49613210@U=82@L=200601001@",32
+"Sandweiler-Contern, Gare routière","A=1@O=Sandweiler-Contern, Gare routière@X=6212508@Y=49599654@U=82@L=200601013@",32
+"Sandweiler, Kapellebierg","A=1@O=Sandweiler, Kapellebierg@X=6213416@Y=49617174@U=82@L=200601014@",32
+"Contern, Weiergewan","A=1@O=Contern, Weiergewan@X=6213847@Y=49596337@U=82@L=200201007@",32
+"Syren, Troudelermillen","A=1@O=Syren, Troudelermillen@X=6214917@Y=49565109@U=82@L=201102003@",32
+"Contern, Kuehne & Nagel","A=1@O=Contern, Kuehne *26 Nagel@X=6215420@Y=49596823@U=82@L=200201005@",32
+Aéroport Luxembourg/Findel,A=1@O=Aéroport Luxembourg/Findel@X=6215609@Y=49634856@U=82@L=200501001@,32
+"Sandweiler, Hiel","A=1@O=Sandweiler, Hiel@X=6215852@Y=49617004@U=82@L=200601004@",32
+"Sandweiler, rue d'Itzig","A=1@O=Sandweiler, rue d'Itzig@X=6215915@Y=49614684@U=82@L=200601012@",32
+"Contern, Rond Point Z.I.","A=1@O=Contern, Rond Point Z.I.@X=6215978@Y=49593605@U=82@L=200201008@",32
+"Senningerberg, Héienhaff","A=1@O=Senningerberg, Héienhaff@X=6217227@Y=49641598@U=82@L=200508016@",32
+Findel - Luxembourg Airport,A=1@O=Findel - Luxembourg Airport@X=6217443@Y=49635449@U=82@L=200501006@,256
+"Senningerberg, Héienhaff P+R","A=1@O=Senningerberg, Héienhaff P+R@X=6218333@Y=49641607@U=82@L=200508005@",256
+"Senningerberg, Parishaff","A=1@O=Senningerberg, Parishaff@X=6218998@Y=49638254@U=82@L=200508015@",32
+"Sandweiler, Kiirch","A=1@O=Sandweiler, Kiirch@X=6219151@Y=49616311@U=82@L=200601005@",32
+"Syren, Nidderbaach","A=1@O=Syren, Nidderbaach@X=6219924@Y=49565316@U=82@L=201102002@",32
+"Syren, Rue de Hassel","A=1@O=Syren, Rue de Hassel@X=6220445@Y=49561244@U=82@L=201102004@",32
+"Senningerberg, Laangschib","A=1@O=Senningerberg, Laangschib@X=6220895@Y=49644421@U=82@L=200508007@",32
+"Senningerberg, Rue du Golf","A=1@O=Senningerberg, Rue du Golf@X=6221299@Y=49645095@U=82@L=200508011@",32
+"Sandweiler, Schiltzperdgen","A=1@O=Sandweiler, Schiltzperdgen@X=6221803@Y=49615718@U=82@L=200601010@",32
+"Syren, Klappsbréck","A=1@O=Syren, Klappsbréck@X=6221956@Y=49562933@U=82@L=201102001@",32
+"Contern, Paul Rischard","A=1@O=Contern, Paul Rischard@X=6221983@Y=49601398@U=82@L=200201010@",32
+"Contern, Ieselslach","A=1@O=Contern, Ieselslach@X=6222189@Y=49594863@U=82@L=200201011@",32
+"Contern, I.E.E.","A=1@O=Contern, I.E.E.@X=6222297@Y=49593506@U=82@L=200201002@",32
+"Sandweiler, Apdikt","A=1@O=Sandweiler, Apdikt@X=6222855@Y=49615260@U=82@L=200601002@",32
+"Contern, Birewee","A=1@O=Contern, Birewee@X=6223394@Y=49586494@U=82@L=200201001@",32
+"Senningerberg, Mënsterbësch","A=1@O=Senningerberg, Mënsterbësch@X=6224787@Y=49645580@U=82@L=200508008@",32
+"Contern, Läiteschbaach","A=1@O=Contern, Läiteschbaach@X=6224805@Y=49599241@U=82@L=200201009@",32
+"Contern, Kräizgaass","A=1@O=Contern, Kräizgaass@X=6225569@Y=49584759@U=82@L=200201004@",32
+"Senningerberg, Charlys Statioun","A=1@O=Senningerberg, Charlys Statioun@X=6226091@Y=49649994@U=82@L=200508003@",32
+"Senningerberg, Kapell","A=1@O=Senningerberg, Kapell@X=6226621@Y=49650174@U=82@L=200508006@",32
+"Sandweiler, Koschterjanshaff","A=1@O=Sandweiler, Koschterjanshaff@X=6226738@Y=49613165@U=82@L=200601007@",32
+"Contern, Kiircheplaz","A=1@O=Contern, Kiircheplaz@X=6227619@Y=49585263@U=82@L=200201003@",32
+"Senningerberg, Gromscheed","A=1@O=Senningerberg, Gromscheed@X=6230891@Y=49651639@U=82@L=200508004@",32
+"Contern, Millewee","A=1@O=Contern, Millewee@X=6231179@Y=49586908@U=82@L=200201006@",32
+"Neuhaeusgen, Ennescht Neihaischen","A=1@O=Neuhaeusgen, Ennescht Neihaischen@X=6231610@Y=49623044@U=82@L=200702001@",32
+"Findel, Cargo Center","A=1@O=Findel, Cargo Center@X=6232239@Y=49638281@U=82@L=200501003@",32
+"Neuhaeusgen, Kiischtewee","A=1@O=Neuhaeusgen, Kiischtewee@X=6234559@Y=49623593@U=82@L=200702003@",32
+"Senningerberg, Rue des Résidences","A=1@O=Senningerberg, Rue des Résidences@X=6234783@Y=49649814@U=82@L=200508010@",32
+"Senningerberg, Rue des Pins","A=1@O=Senningerberg, Rue des Pins@X=6237885@Y=49648187@U=82@L=200508009@",32
+"Senningen, Duerfplaz","A=1@O=Senningen, Duerfplaz@X=6238846@Y=49645931@U=82@L=200507001@",32
+"Hostert, Betzberg","A=1@O=Hostert, Betzberg@X=6239269@Y=49652808@U=82@L=200503011@",32
+"Senningerberg, Martinus","A=1@O=Senningerberg, Martinus@X=6240887@Y=49649257@U=82@L=200508014@",32
+"Oetrange, Prisong","A=1@O=Oetrange, Prisong@X=6241705@Y=49607583@U=82@L=200204004@",32
+"Neuhaeusgen, Iewescht Neihaischen","A=1@O=Neuhaeusgen, Iewescht Neihaischen@X=6242802@Y=49622685@U=82@L=200702002@",32
+"Senningen, Um Kiem","A=1@O=Senningen, Um Kiem@X=6243017@Y=49649104@U=82@L=200507003@",32
+Milbech,A=1@O=Milbech@X=6245876@Y=49587825@U=82@L=200205001@,32
+"Senningen, Kierch","A=1@O=Senningen, Kierch@X=6247251@Y=49649751@U=82@L=200507002@",32
+Medingen,A=1@O=Medingen@X=6248914@Y=49575204@U=82@L=200202002@,32
+"Moutfort, Bombasch","A=1@O=Moutfort, Bombasch@X=6250191@Y=49594746@U=82@L=200203001@",32
+"Moutfort, Juxgaass","A=1@O=Moutfort, Juxgaass@X=6251584@Y=49587995@U=82@L=200203002@",32
+"Niederanven, Routscheed","A=1@O=Niederanven, Routscheed@X=6252321@Y=49650488@U=82@L=200504006@",32
+"Medingen, Aire de virage","A=1@O=Medingen, Aire de virage@X=6253058@Y=49573640@U=82@L=200202001@",32
+"Niederanven, Laach","A=1@O=Niederanven, Laach@X=6254721@Y=49651531@U=82@L=200504002@",32
+"Moutfort, Syrbréck","A=1@O=Moutfort, Syrbréck@X=6255593@Y=49587276@U=82@L=200203005@",32
+"Schrassig, Schlassgewan","A=1@O=Schrassig, Schlassgewan@X=6255881@Y=49614532@U=82@L=200704002@",32
+"Niederanven, Minsbecherstrooss","A=1@O=Niederanven, Minsbecherstrooss@X=6256798@Y=49651217@U=82@L=200504004@",32
+"Oetrange, Trengen Knapp","A=1@O=Oetrange, Trengen Knapp@X=6256879@Y=49599726@U=82@L=200204006@",32
+"Oetrange, Gare","A=1@O=Oetrange, Gare@X=6258335@Y=49602594@U=82@L=200204007@",4
+"Schrassig, Bastenhaff","A=1@O=Schrassig, Bastenhaff@X=6258596@Y=49609704@U=82@L=200704001@",32
+"Moutfort, Kapell","A=1@O=Moutfort, Kapell@X=6258605@Y=49587906@U=82@L=200203003@",32
+"Schrassig, Schwaarz Kaz","A=1@O=Schrassig, Schwaarz Kaz@X=6259009@Y=49613048@U=82@L=200704003@",32
+"Oetrange, Gare routière","A=1@O=Oetrange, Gare routière@X=6259054@Y=49602612@U=82@L=200204001@",32
+"Niederanven, Millen","A=1@O=Niederanven, Millen@X=6259845@Y=49649122@U=82@L=200504003@",32
+"Oetrange, Kurzebierg","A=1@O=Oetrange, Kurzebierg@X=6260142@Y=49594854@U=82@L=200204002@",32
+"Oetrange, Éiter","A=1@O=Oetrange, Éiter@X=6260340@Y=49601389@U=82@L=200204003@",32
+"Munsbach, Schlass Minsbech","A=1@O=Munsbach, Schlass Minsbech@X=6260852@Y=49631225@U=82@L=200701007@",32
+"Moutfort, Kiem","A=1@O=Moutfort, Kiem@X=6261248@Y=49585874@U=82@L=200203004@",32
+"Niederanven, Geisfeld","A=1@O=Niederanven, Geisfeld@X=6262021@Y=49652942@U=82@L=200504001@",32
+"Schuttrange, Um Grousbuer","A=1@O=Schuttrange, Um Grousbuer@X=6262398@Y=49618028@U=82@L=200705007@",32
+"Niederanven, Jacques Lamort","A=1@O=Niederanven, Jacques Lamort@X=6263836@Y=49643036@U=82@L=200504010@",32
+"Niederanven, Bombicht","A=1@O=Niederanven, Bombicht@X=6264583@Y=49643827@U=82@L=200703004@",32
+"Schuttrange, Kreizung","A=1@O=Schuttrange, Kreizung@X=6266093@Y=49621031@U=82@L=200705005@",32
+"Munsbach, Minsber Baach","A=1@O=Munsbach, Minsber Baach@X=6267001@Y=49633921@U=82@L=200701003@",32
+"Munsbach, Kulturzentrum","A=1@O=Munsbach, Kulturzentrum@X=6267783@Y=49630416@U=82@L=200701002@",32
+"Schuttrange, Kiercheplaz","A=1@O=Schuttrange, Kiercheplaz@X=6267801@Y=49623710@U=82@L=200705004@",32
+"Oetrange, Staefeld","A=1@O=Oetrange, Staefeld@X=6267855@Y=49602648@U=82@L=200204005@",32
+"Niederanven, P.A.S. Aalbaach","A=1@O=Niederanven, P.A.S. Aalbaach@X=6267873@Y=49644340@U=82@L=200703001@",32
+"Munsbach, Parc d'Activité Syrdall","A=1@O=Munsbach, Parc d'Activité Syrdall@X=6268034@Y=49638353@U=82@L=200701005@",32
+"Munsbach, Gare","A=1@O=Munsbach, Gare@X=6268484@Y=49630559@U=82@L=200701001@",4
+"Munsbach, Gare routière","A=1@O=Munsbach, Gare routière@X=6269068@Y=49630766@U=82@L=200701004@",32
+"Schuttrange, Kanecherstrooss","A=1@O=Schuttrange, Kanecherstrooss@X=6270246@Y=49619619@U=82@L=200705003@",32
+"Munsbach, Stackint","A=1@O=Munsbach, Stackint@X=6270443@Y=49638892@U=82@L=200703005@",32
+Koedange,A=1@O=Koedange@X=6209083@Y=49733998@U=82@L=160405002@,32
+"Bourglinster, Buchholz","A=1@O=Bourglinster, Buchholz@X=6212014@Y=49704010@U=82@L=180504003@",32
+"Bourglinster, Am Brill","A=1@O=Bourglinster, Am Brill@X=6217452@Y=49707084@U=82@L=180504001@",32
+"Bourglinster, Am Duerf","A=1@O=Bourglinster, Am Duerf@X=6217713@Y=49703399@U=82@L=180504002@",32
+"Altlinster, Altlinster","A=1@O=Altlinster, Altlinster@X=6218117@Y=49722123@U=82@L=180501001@",32
+"Senningerberg, Breedewues","A=1@O=Senningerberg, Breedewues@X=6224581@Y=49655145@U=82@L=200508002@",32
+"Hostert, Stade Jos Becker","A=1@O=Hostert, Stade Jos Becker@X=6228086@Y=49658525@U=82@L=200503013@",32
+"Godbrange, Op der Haerdchen","A=1@O=Godbrange, Op der Haerdchen@X=6228805@Y=49733648@U=82@L=180507008@",32
+"Rameldange, Am Duerf","A=1@O=Rameldange, Am Duerf@X=6228850@Y=49662390@U=82@L=200506001@",32
+"Rameldange, Op der Bunn","A=1@O=Rameldange, Op der Bunn@X=6229462@Y=49661419@U=82@L=200506006@",32
+"Rameldange, Beim Bësch","A=1@O=Rameldange, Beim Bësch@X=6230001@Y=49665842@U=82@L=200506004@",32
+"Hostert, Charlys Gare","A=1@O=Hostert, Charlys Gare@X=6231862@Y=49658669@U=82@L=200503001@",32
+"Godbrange, Bei der Kiirch","A=1@O=Godbrange, Bei der Kiirch@X=6232662@Y=49734367@U=82@L=180507001@",32
+"Hostert, Kierfecht","A=1@O=Hostert, Kierfecht@X=6232671@Y=49655531@U=82@L=200503002@",32
+"Hostert, Am Bruch","A=1@O=Hostert, Am Bruch@X=6233938@Y=49657419@U=82@L=200503003@",32
+"Rameldange, Beiebierg","A=1@O=Rameldange, Beiebierg@X=6234100@Y=49669573@U=82@L=200506003@",32
+"Hostert, Binnewee","A=1@O=Hostert, Binnewee@X=6236240@Y=49654507@U=82@L=200503012@",32
+"Rameldange, Bounert","A=1@O=Rameldange, Bounert@X=6238963@Y=49664107@U=82@L=200506005@",32
+"Oberanven, Rue Schetzel","A=1@O=Oberanven, Rue Schetzel@X=6239323@Y=49659307@U=82@L=200505005@",32
+"Oberanven, rue d'Ernster","A=1@O=Oberanven, rue d'Ernster@X=6239386@Y=49661635@U=82@L=200505004@",32
+"Rameldange, Rëtsch","A=1@O=Rameldange, Rëtsch@X=6242181@Y=49665644@U=82@L=200506002@",32
+"Gonderange, Op der Breck","A=1@O=Gonderange, Op der Breck@X=6242748@Y=49693565@U=82@L=180508004@",32
+"Oberanven, Gemeng","A=1@O=Oberanven, Gemeng@X=6242856@Y=49659010@U=82@L=200505002@",32
+"Gonderange, Am Duerf","A=1@O=Gonderange, Am Duerf@X=6243701@Y=49692935@U=82@L=180508001@",32
+"Oberanven, Fielsenhaus","A=1@O=Oberanven, Fielsenhaus@X=6243907@Y=49657545@U=82@L=200505001@",32
+"Ernster, Engelshaff","A=1@O=Ernster, Engelshaff@X=6243970@Y=49673896@U=82@L=200502002@",32
+"Gonderange, Mierchen","A=1@O=Gonderange, Mierchen@X=6246838@Y=49699686@U=82@L=180508003@",32
+"Ernster, Naasswiss","A=1@O=Ernster, Naasswiss@X=6247476@Y=49682544@U=82@L=200502003@",32
+"Gonderange, Schoul","A=1@O=Gonderange, Schoul@X=6247764@Y=49692926@U=82@L=180508005@",32
+"Junglinster, Op de Fréinen","A=1@O=Junglinster, Op de Fréinen@X=6248078@Y=49703579@U=82@L=180511009@",32
+"Ernster, Duerfplaz","A=1@O=Ernster, Duerfplaz@X=6248285@Y=49679434@U=82@L=200502001@",32
+"Oberanven, Routstrach","A=1@O=Oberanven, Routstrach@X=6248492@Y=49658174@U=82@L=200505003@",32
+"Junglinster, Gemeng","A=1@O=Junglinster, Gemeng@X=6249777@Y=49715184@U=82@L=180511001@",32
+"Junglinster, Um Lei","A=1@O=Junglinster, Um Lei@X=6249975@Y=49708208@U=82@L=180511005@",32
+"Junglinster, Lënster Lycée","A=1@O=Junglinster, Lënster Lycée@X=6250380@Y=49701295@U=82@L=180511008@",32
+"Niederanven, Op de Wolleken","A=1@O=Niederanven, Op de Wolleken@X=6250694@Y=49655477@U=82@L=200504005@",32
+"Junglinster, Op der Gare","A=1@O=Junglinster, Op der Gare@X=6252375@Y=49711444@U=82@L=180511002@",32
+"Gonderange, Op der Gare","A=1@O=Gonderange, Op der Gare@X=6252393@Y=49692621@U=82@L=180508007@",32
+"Junglinster, Rue de la Gare","A=1@O=Junglinster, Rue de la Gare@X=6252861@Y=49711678@U=82@L=180511004@",32
+"Gonderange, Eeschëlerstr.","A=1@O=Gonderange, Eeschëlerstr.@X=6253355@Y=49692837@U=82@L=180508002@",32
+"Junglinster, Um Reiland","A=1@O=Junglinster, Um Reiland@X=6260861@Y=49715220@U=82@L=180511007@",32
+Blumenthal/Blummendall,A=1@O=Blumenthal/Blummendall@X=6265868@Y=49743518@U=82@L=180503001@,32
+"Junglinster, Um Radio","A=1@O=Junglinster, Um Radio@X=6266470@Y=49720110@U=82@L=180511006@",32
+"Junglinster, P+R","A=1@O=Junglinster, P+R@X=6269518@Y=49718636@U=82@L=180511010@",32
+"Larochette, Hangelsbour","A=1@O=Larochette, Hangelsbour@X=6204256@Y=49786891@U=82@L=160601004@",32
+Schmët,A=1@O=Schmët@X=6204804@Y=49751509@U=82@L=160403001@,32
+"Medernach, Op der Gare","A=1@O=Medernach, Op der Gare@X=6213991@Y=49805382@U=82@L=140505003@",32
+"Larochette, Boltgesteen","A=1@O=Larochette, Boltgesteen@X=6214315@Y=49785587@U=82@L=160601002@",32
+"Medernach, Iermsdrëferstrooss","A=1@O=Medernach, Iermsdrëferstrooss@X=6216490@Y=49814551@U=82@L=140505002@",32
+"Medernach, Op der Lann","A=1@O=Medernach, Op der Lann@X=6216814@Y=49809463@U=82@L=140505004@",32
+"Medernach, Fondation","A=1@O=Medernach, Fondation@X=6217236@Y=49802118@U=82@L=140505001@",32
+"Ermsdorf, Buntewee","A=1@O=Ermsdorf, Buntewee@X=6217578@Y=49830120@U=82@L=140502001@",32
+"Larochette, Pompjeesbau","A=1@O=Larochette, Pompjeesbau@X=6218234@Y=49781578@U=82@L=160601007@",32
+"Larochette, Millewee","A=1@O=Larochette, Millewee@X=6218657@Y=49781488@U=82@L=160601006@",32
+"Ernzen, Manzebach","A=1@O=Ernzen, Manzebach@X=6219187@Y=49776985@U=82@L=160602002@",32
+"Larochette, Gare Routière","A=1@O=Larochette, Gare Routière@X=6219304@Y=49783951@U=82@L=160601003@",32
+"Larochette, Leedebach","A=1@O=Larochette, Leedebach@X=6219349@Y=49789219@U=82@L=160601005@",32
+"Larochette, Spuerkeess","A=1@O=Larochette, Spuerkeess@X=6219726@Y=49784041@U=82@L=160601008@",32
+"Larochette, Bleech","A=1@O=Larochette, Bleech@X=6220365@Y=49784293@U=82@L=160601001@",32
+"Ernzen, Kapell","A=1@O=Ernzen, Kapell@X=6221147@Y=49772319@U=82@L=160602001@",32
+Ermsdorf,A=1@O=Ermsdorf@X=6221776@Y=49828547@U=82@L=140502002@,32
+Reisermillen,A=1@O=Reisermillen@X=6224913@Y=49841356@U=82@L=140504003@,32
+Neimillen,A=1@O=Neimillen@X=6225057@Y=49838543@U=82@L=140504002@,32
+"Heffingen, Soup","A=1@O=Heffingen, Soup@X=6230037@Y=49767222@U=82@L=160501005@",32
+"Heffingen, Scherfemillen","A=1@O=Heffingen, Scherfemillen@X=6231736@Y=49782261@U=82@L=160603001@",32
+"Medernach, Reineschhaff","A=1@O=Medernach, Reineschhaff@X=6234729@Y=49810973@U=82@L=140505005@",32
+"Heffingen, Abri (Centre)","A=1@O=Heffingen, Abri (Centre)@X=6239709@Y=49770297@U=82@L=160501006@",32
+"Heffingen, Centre","A=1@O=Heffingen, Centre@X=6239925@Y=49770396@U=82@L=160501002@",32
+"Heffingen, Al Gemeng","A=1@O=Heffingen, Al Gemeng@X=6240276@Y=49769425@U=82@L=160501001@",32
+"Heffingen, Thommes","A=1@O=Heffingen, Thommes@X=6241498@Y=49763258@U=82@L=160501004@",32
+"Heffingen, Rue de Christnach","A=1@O=Heffingen, Rue de Christnach@X=6244635@Y=49770926@U=82@L=160501003@",32
+"Freckeisen, Auf der Kinderdell","A=1@O=Freckeisen, Auf der Kinderdell@X=6252573@Y=49799215@U=82@L=170805002@",32
+"Savelborn, Halerstrooss","A=1@O=Savelborn, Halerstrooss@X=6253499@Y=49811494@U=82@L=140506001@",32
+"Waldbillig, Scheedhaff","A=1@O=Waldbillig, Scheedhaff@X=6256600@Y=49805723@U=82@L=170804004@",32
+Freckeisen,A=1@O=Freckeisen@X=6259809@Y=49801570@U=82@L=170805001@,32
+Reuland,A=1@O=Reuland@X=6260636@Y=49752183@U=82@L=160502001@,32
+"Christnach, Fielserstrooss","A=1@O=Christnach, Fielserstrooss@X=6266461@Y=49788131@U=82@L=170801003@",32
+"Christnach, Hierheck","A=1@O=Christnach, Hierheck@X=6269437@Y=49787349@U=82@L=170801001@",32
+"Christnach, Um Bierg","A=1@O=Christnach, Um Bierg@X=6271657@Y=49790172@U=82@L=170801004@",32
+"Vianden, Gemeng","A=1@O=Vianden, Gemeng@X=6206494@Y=49933316@U=82@L=130301007@",32
+"Vianden, Schoul","A=1@O=Vianden, Schoul@X=6206908@Y=49934323@U=82@L=130301015@",32
+"Vianden, Bréck","A=1@O=Vianden, Bréck@X=6207186@Y=49933765@U=82@L=130301004@",32
+"Vianden, Gare","A=1@O=Vianden, Gare@X=6212652@Y=49933487@U=82@L=130301006@",32
+"Bettendorf, Elick","A=1@O=Bettendorf, Elick@X=6212832@Y=49876100@U=82@L=140201001@",32
+"Bettendorf, Bei der Gemeng","A=1@O=Bettendorf, Bei der Gemeng@X=6217389@Y=49876082@U=82@L=140201002@",32
+"Vianden, Ruoderwee","A=1@O=Vianden, Ruoderwee@X=6220356@Y=49931932@U=82@L=130301012@",32
+"Vianden, Camping Moulin","A=1@O=Vianden, Camping Moulin@X=6220365@Y=49927365@U=82@L=130301005@",32
+"Bettendorf, Beim Schlass","A=1@O=Bettendorf, Beim Schlass@X=6221434@Y=49876567@U=82@L=140201003@",32
+"Bettel, Bei der Bréck","A=1@O=Bettel, Bei der Bréck@X=6224751@Y=49920803@U=82@L=130202001@",32
+"Bettel, Bei der Schmëdd","A=1@O=Bettel, Bei der Schmëdd@X=6225731@Y=49917046@U=82@L=130202002@",32
+"Moestroff, Keiwelbaach","A=1@O=Moestroff, Keiwelbaach@X=6233372@Y=49849582@U=82@L=140204005@",32
+"Moestroff, Kierch","A=1@O=Moestroff, Kierch@X=6238226@Y=49866041@U=82@L=140204004@",32
+"Moestroff, Wangerten","A=1@O=Moestroff, Wangerten@X=6238370@Y=49871731@U=82@L=140204003@",32
+"Moestroff, Bei der Bréck","A=1@O=Moestroff, Bei der Bréck@X=6239763@Y=49868791@U=82@L=140204002@",32
+"Eppeldorf, Hessemillen","A=1@O=Eppeldorf, Hessemillen@X=6240339@Y=49852413@U=82@L=140501006@",32
+"Moestroff, An der Gae","A=1@O=Moestroff, An der Gae@X=6243521@Y=49862966@U=82@L=140204001@",32
+"Eppeldorf, Gaich","A=1@O=Eppeldorf, Gaich@X=6246424@Y=49846381@U=82@L=140501002@",32
+"Eppeldorf, Haaptstrooss","A=1@O=Eppeldorf, Haaptstrooss@X=6247539@Y=49844575@U=82@L=140501003@",32
+"Eppeldorf, Faubourg","A=1@O=Eppeldorf, Faubourg@X=6248519@Y=49843595@U=82@L=140501001@",32
+"Eppeldorf, Op Baach","A=1@O=Eppeldorf, Op Baach@X=6249571@Y=49846507@U=82@L=140501005@",32
+"Körperich, Obersgegen","A=1@O=Körperich, Obersgegen@X=6251512@Y=49932183@U=82@L=500000068@",32
+"Eppeldorf, Op de Gruechten","A=1@O=Eppeldorf, Op de Gruechten@X=6258308@Y=49846282@U=82@L=140501007@",32
+"Reisdorf, Cité J. Hientgen","A=1@O=Reisdorf, Cité J. Hientgen@X=6260879@Y=49868845@U=82@L=141203004@",32
+"Reisdorf, Bei der Gare","A=1@O=Reisdorf, Bei der Gare@X=6263675@Y=49867982@U=82@L=141203002@",32
+"Eppeldorf, Hossebierg","A=1@O=Eppeldorf, Hossebierg@X=6264322@Y=49846318@U=82@L=140501004@",32
+"Reisdorf, An der Ee","A=1@O=Reisdorf, An der Ee@X=6269589@Y=49870257@U=82@L=141203001@",32
+"Beaufort, Halerstrooss","A=1@O=Beaufort, Halerstrooss@X=6270147@Y=49843514@U=82@L=170101008@",32
+"Reisdorf, Beim Goberhaff","A=1@O=Reisdorf, Beim Goberhaff@X=6271172@Y=49861303@U=82@L=141203003@",32
+"Vianden, Larei","A=1@O=Vianden, Larei@X=6206225@Y=49936858@U=82@L=130301008@",32
+"Vianden, Am Bousebierg","A=1@O=Vianden, Am Bousebierg@X=6208211@Y=49939653@U=82@L=130301003@",32
+"Vianden, Piscine","A=1@O=Vianden, Piscine@X=6209604@Y=49940247@U=82@L=130301009@",32
+"Vianden, Scheierhaff 1","A=1@O=Vianden, Scheierhaff 1@X=6215870@Y=49941694@U=82@L=130301013@",32
+"Vianden, Scheierhaff 2","A=1@O=Vianden, Scheierhaff 2@X=6216940@Y=49942233@U=82@L=130301014@",32
+"Geichlingen, B50 Abzw. Lahr","A=1@O=Geichlingen, B50 Abzw. Lahr@X=6271145@Y=49953991@U=82@L=500000011@",32
+"Schuttrange, Al-Schëtter Mëtt","A=1@O=Schuttrange, Al-Schëtter Mëtt@X=6273437@Y=49621894@U=82@L=200705001@",32
+"Munsbach, Bekassin","A=1@O=Munsbach, Bekassin@X=6273464@Y=49643333@U=82@L=200703003@",32
+"Munsbach, Aisvull","A=1@O=Munsbach, Aisvull@X=6273832@Y=49640942@U=82@L=200701006@",32
+Ersange/Ierséng,A=1@O=Ersange/Ierséng@X=6275846@Y=49576220@U=82@L=210106001@,32
+"Uebersyren, Kreizgaass","A=1@O=Uebersyren, Kreizgaass@X=6276026@Y=49631440@U=82@L=200706001@",32
+"Lenningen, Hakenhaff","A=1@O=Lenningen, Hakenhaff@X=6280898@Y=49604257@U=82@L=210402003@",32
+"Trintange, Trenteng","A=1@O=Trintange, Trenteng@X=6281114@Y=49572363@U=82@L=210108001@",32
+Roedt,A=1@O=Roedt@X=6283936@Y=49569577@U=82@L=210107001@,32
+"Mensdorf, Uewen am Duerf","A=1@O=Mensdorf, Uewen am Duerf@X=6305897@Y=49653437@U=82@L=180104002@",32
+"Canach, Z.A. Rëckschleed","A=1@O=Canach, Z.A. Rëckschleed@X=6305969@Y=49605237@U=82@L=210401007@",32
+"Canach, Huehlgaass","A=1@O=Canach, Huehlgaass@X=6315920@Y=49608032@U=82@L=210401002@",32
+"Canach, Weber","A=1@O=Canach, Weber@X=6322527@Y=49609003@U=82@L=210401006@",32
+"Canach, Post","A=1@O=Canach, Post@X=6324532@Y=49609363@U=82@L=210401004@",32
+"Canach, Op der Bréck","A=1@O=Canach, Op der Bréck@X=6326716@Y=49611727@U=82@L=210401003@",32
+"Canach, Am Stee","A=1@O=Canach, Am Stee@X=6331894@Y=49612248@U=82@L=210401001@",32
+"Beyren, An der Fuert","A=1@O=Beyren, An der Fuert@X=6333548@Y=49632888@U=82@L=180301001@",32
+"Beyren, Op der Bréck","A=1@O=Beyren, Op der Bréck@X=6335822@Y=49629930@U=82@L=180301002@",32
+"Graulinster, Am Duerf","A=1@O=Graulinster, Am Duerf@X=6287271@Y=49740704@U=82@L=180509001@",32
+"Graulinster, Haaptstrooss","A=1@O=Graulinster, Haaptstrooss@X=6287892@Y=49739059@U=82@L=180509002@",32
+"Rodenbourg, Am Duerf","A=1@O=Rodenbourg, Am Duerf@X=6288197@Y=49688738@U=82@L=180512001@",32
+"Roodt-sur-Syre, Op der Rothoicht","A=1@O=Roodt-sur-Syre, Op der Rothoicht@X=6289707@Y=49660152@U=82@L=180106005@",32
+"Rodenbourg, An der Schleed","A=1@O=Rodenbourg, An der Schleed@X=6290669@Y=49686661@U=82@L=180512002@",32
+"Roodt-sur-Syre, Z.I. Rothoicht","A=1@O=Roodt-sur-Syre, Z.I. Rothoicht@X=6292584@Y=49657500@U=82@L=180106006@",32
+"Roodt-sur-Syre, Campus scolaire","A=1@O=Roodt-sur-Syre, Campus scolaire@X=6298112@Y=49663496@U=82@L=180106002@",32
+"Roodt-sur-Syre, Bowengsbierg","A=1@O=Roodt-sur-Syre, Bowengsbierg@X=6301348@Y=49666660@U=82@L=180106007@",32
+"Beidweiler, Am Duerf","A=1@O=Beidweiler, Am Duerf@X=6301447@Y=49728200@U=82@L=180502001@",32
+"Mensdorf, Ennen am Duerf","A=1@O=Mensdorf, Ennen am Duerf@X=6302175@Y=49654605@U=82@L=180104001@",32
+"Beidweiler, Op der Gare","A=1@O=Beidweiler, Op der Gare@X=6302490@Y=49732335@U=82@L=180502002@",32
+"Roodt-sur-Syre, Gare routière","A=1@O=Roodt-sur-Syre, Gare routière@X=6302688@Y=49666004@U=82@L=180106003@",32
+"Roodt-sur-Syre, Rue d'Olingen","A=1@O=Roodt-sur-Syre, Rue d'Olingen@X=6302895@Y=49670426@U=82@L=180106008@",32
+"Roodt-sur-Syre, Gare","A=1@O=Roodt-sur-Syre, Gare@X=6302921@Y=49666543@U=82@L=180106009@",4
+"Mensdorf, Op den Hoehlerchen","A=1@O=Mensdorf, Op den Hoehlerchen@X=6303236@Y=49658498@U=82@L=180104003@",32
+"Roodt-sur-Syre, Barriär","A=1@O=Roodt-sur-Syre, Barriär@X=6303677@Y=49666112@U=82@L=180106001@",32
+"Roodt-sur-Syre, Hunnemillen","A=1@O=Roodt-sur-Syre, Hunnemillen@X=6305079@Y=49666013@U=82@L=180106004@",32
+"Olingen, Beim leschte Wollef","A=1@O=Olingen, Beim leschte Wollef@X=6308504@Y=49681825@U=82@L=180105002@",32
+"Rippig, Rippigerkopp","A=1@O=Rippig, Rippigerkopp@X=6309088@Y=49746376@U=82@L=170205001@",32
+"Eschweiler/Junglinster, Bei der Kiirch","A=1@O=Eschweiler/Junglinster, Bei der Kiirch@X=6310257@Y=49717206@U=82@L=180506001@",32
+"Olingen, Rue de Rodenbourg","A=1@O=Olingen, Rue de Rodenbourg@X=6314032@Y=49680189@U=82@L=180105003@",32
+"Olingen, Centre culturel","A=1@O=Olingen, Centre culturel@X=6314832@Y=49679946@U=82@L=180105004@",32
+"Olingen, rue de Betzdorf","A=1@O=Olingen, rue de Betzdorf@X=6316882@Y=49681996@U=82@L=180105005@",32
+"Olingen, Am Kéisbierg","A=1@O=Olingen, Am Kéisbierg@X=6319830@Y=49679299@U=82@L=180105001@",32
+Rippig,A=1@O=Rippig@X=6322410@Y=49738142@U=82@L=170205002@,32
+"Betzdorf, Banzelt","A=1@O=Betzdorf, Banzelt@X=6328685@Y=49673267@U=82@L=180101001@",32
+"Betzdorf, Op der Banzelt","A=1@O=Betzdorf, Op der Banzelt@X=6329332@Y=49672890@U=82@L=180101002@",32
+Weidig,A=1@O=Weidig@X=6330689@Y=49717440@U=82@L=180208001@,32
+"Hemstal, Kiirch","A=1@O=Hemstal, Kiirch@X=6333611@Y=49739374@U=82@L=170203002@",32
+"Breinert, Breinertknupp","A=1@O=Breinert, Breinertknupp@X=6335094@Y=49712442@U=82@L=180204002@",32
+"Hemstal, Am Ieweschten Duerf","A=1@O=Hemstal, Am Ieweschten Duerf@X=6337063@Y=49740983@U=82@L=170203001@",32
+"Christnach, Schoulstrooss","A=1@O=Christnach, Schoulstrooss@X=6273041@Y=49788212@U=82@L=170801002@",32
+"Waldbillig, Bëlleger Kopp","A=1@O=Waldbillig, Bëlleger Kopp@X=6280565@Y=49793866@U=82@L=170804001@",32
+"Haller, Rue des Romains","A=1@O=Haller, Rue des Romains@X=6281311@Y=49819935@U=82@L=170802003@",32
+"Haller, Schoul","A=1@O=Haller, Schoul@X=6282732@Y=49820133@U=82@L=170802002@",32
+"Waldbillig, Gemeng","A=1@O=Waldbillig, Gemeng@X=6283981@Y=49796536@U=82@L=170804002@",32
+"Haller, Beim Basseng","A=1@O=Haller, Beim Basseng@X=6284691@Y=49817355@U=82@L=170802001@",32
+"Waldbillig, Michel Rodange","A=1@O=Waldbillig, Michel Rodange@X=6285482@Y=49796293@U=82@L=170804003@",32
+"Beaufort, Aispist","A=1@O=Beaufort, Aispist@X=6289033@Y=49840799@U=82@L=170101001@",32
+"Beaufort, Op der Gare","A=1@O=Beaufort, Op der Gare@X=6290741@Y=49837095@U=82@L=170101006@",32
+"Beaufort, Härewiss","A=1@O=Beaufort, Härewiss@X=6292458@Y=49833536@U=82@L=170101003@",32
+"Beaufort, Huelewee","A=1@O=Beaufort, Huelewee@X=6296260@Y=49832808@U=82@L=170101004@",32
+"Mullerthal, Schiessentümpel (Parking)","A=1@O=Mullerthal, Schiessentümpel (Parking)@X=6297303@Y=49780715@U=82@L=170803003@",32
+Jemenerhaff,A=1@O=Jemenerhaff@X=6299272@Y=49773587@U=82@L=170405001@,32
+"Breidweiler, Präitler","A=1@O=Breidweiler, Präitler@X=6302850@Y=49777398@U=82@L=170401001@",32
+Colbette,A=1@O=Colbette@X=6303919@Y=49768840@U=82@L=170405005@,32
+Kobenbour,A=1@O=Kobenbour@X=6306787@Y=49754566@U=82@L=170207001@,32
+Müllerthal/Mëllerdall,A=1@O=Müllerthal/Mëllerdall@X=6306895@Y=49790657@U=82@L=170803002@,32
+"Altrier, Kreizenhéicht (RN)","A=1@O=Altrier, Kreizenhéicht (RN)@X=6320504@Y=49748696@U=82@L=170201005@",32
+Vugelsmillen,A=1@O=Vugelsmillen@X=6325529@Y=49824349@U=82@L=170105002@,32
+Hersberg/Heeschbreg,A=1@O=Hersberg/Heeschbreg@X=6327669@Y=49755851@U=82@L=170204001@,32
+"Consdorf, Konstrëfermillen","A=1@O=Consdorf, Konstrëfermillen@X=6327786@Y=49778944@U=82@L=170402007@",32
+"Altrier, Op der Schanz","A=1@O=Altrier, Op der Schanz@X=6327795@Y=49750161@U=82@L=170201004@",32
+"Altrier, Bildchen","A=1@O=Altrier, Bildchen@X=6327983@Y=49752318@U=82@L=170201001@",32
+"Altrier, Heeschbregerwee","A=1@O=Altrier, Heeschbregerwee@X=6328325@Y=49751869@U=82@L=170201002@",32
+"Grundhof, Grondhaff","A=1@O=Grundhof, Grondhaff@X=6329170@Y=49835756@U=82@L=170104001@",32
+"Grundhof, Bei der Ernz","A=1@O=Grundhof, Bei der Ernz@X=6329943@Y=49835109@U=82@L=170104002@",32
+"Consdorf, Post","A=1@O=Consdorf, Post@X=6336910@Y=49778540@U=82@L=170402005@",32
+"Consdorf, Schoul","A=1@O=Consdorf, Schoul@X=6337125@Y=49779816@U=82@L=170402006@",32
+"Reisdorf, Duddwee","A=1@O=Reisdorf, Duddwee@X=6273536@Y=49858930@U=82@L=141203005@",32
+"Beaufort, Iewescht Heed","A=1@O=Beaufort, Iewescht Heed@X=6277374@Y=49848161@U=82@L=170101005@",32
+"Beaufort, Ennescht Heed","A=1@O=Beaufort, Ennescht Heed@X=6277689@Y=49844934@U=82@L=170101002@",32
+"Wallendorf-Pont, Cité","A=1@O=Wallendorf-Pont, Cité@X=6279469@Y=49869654@U=82@L=141204002@",32
+"Bigelbach, Op der Tonn","A=1@O=Bigelbach, Op der Tonn@X=6281150@Y=49861196@U=82@L=141201002@",32
+"Beaufort, Reisduerferstrooss","A=1@O=Beaufort, Reisduerferstrooss@X=6284682@Y=49846624@U=82@L=170101007@",32
+"Bigelbach, Kiirch","A=1@O=Bigelbach, Kiirch@X=6286615@Y=49860135@U=82@L=141201001@",32
+"Beaufort, Um Bierg","A=1@O=Beaufort, Um Bierg@X=6288719@Y=49843298@U=82@L=170101009@",32
+"Wallendorf-Pont, Bei der Bréck","A=1@O=Wallendorf-Pont, Bei der Bréck@X=6290409@Y=49873367@U=82@L=141204001@",32
+"Reisdorf, Hermeswis","A=1@O=Reisdorf, Hermeswis@X=6313223@Y=49863560@U=82@L=141205001@",32
+Cloosbierg,A=1@O=Cloosbierg@X=6319381@Y=49843370@U=82@L=170103001@,32
+Dillingen Déiljen,A=1@O=Dillingen Déiljen@X=6319767@Y=49852431@U=82@L=170102001@,32
+"Niedergeckler, Kapelle","A=1@O=Niedergeckler, Kapelle@X=6304522@Y=49969785@U=82@L=500000013@",32
+"Sinspelt, GH Pax","A=1@O=Sinspelt, GH Pax@X=6320432@Y=49972302@U=82@L=500000014@",32
