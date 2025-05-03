@@ -1,9 +1,13 @@
+import sys, os
 import requests
 import json
 from datetime import datetime, timedelta
 from profiles import hafas_profiles, locations
 
-def get_departures(region="saarvv", station="Mensa", extra_time=0, max_journeys=10):
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from util.profiles import hafas_profiles, locations, parse_delay, parse_time
+
+def get_departures(region="saarvv", station="Mensa", extra_time=0):
     now = datetime.now() + timedelta(minutes=extra_time)
 
     profile = hafas_profiles[region]
@@ -34,7 +38,7 @@ def get_departures(region="saarvv", station="Mensa", extra_time=0, max_journeys=
                 },
                 "type": "DEP",
                 "sort": "PT",
-                "maxJny": max_journeys
+                "maxJny": 5
             },
             "meth": "StationBoard",
             "id": "1|4|"
@@ -43,11 +47,38 @@ def get_departures(region="saarvv", station="Mensa", extra_time=0, max_journeys=
 
     res = requests.post(url, headers=headers, json=body)
     data = res.json()
-    with open("departures.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
     return data
+
+def parse_departures(data, max_items=10):
+    jnyL = data["svcResL"][0]["res"]["jnyL"]
+
+    common = data.get("svcResL", [])[0].get("res", {}).get("common", {})
+    prodL = common.get("prodL", [])
+    locL = common.get("locL", [])
+
+    output = []
+
+    for jny in jnyL[:max_items]:
+        try:
+
+            prod = prodL[jny["prodX"]]
+            line_name = prod.get("name", "unknown").replace(" ", "")
+            direction = jny.get("dirTxt", "")
+            dep = jny["stbStop"]
+            dep_time = dep.get("dTimeS", "")
+            delay = parse_delay(dep_time, dep.get('dTimeR')) if dep.get('dTimeR') else 0                      
+
+            output.append(f"⏱️ {parse_time(dep_time)}({delay}): {line_name} to {direction}")
+        except Exception as e:
+            print(f"⚠️ Error parsing journey: {e}")
+            continue
+
+    return "\n".join(output) if output else "❌ No valid journeys found."
+
 
 # Example use case
 if __name__ == "__main__":
-    departures = get_departures("saarvv", "Mensa", 10, 991)
-    # print(parse_departures(departures))
+    departures = get_departures("saarvv", "Mensa", 10)
+    with open("departures.json", "w", encoding="utf-8") as f:
+        json.dump(departures, f, indent=2, ensure_ascii=False)
+    print(parse_departures(departures))

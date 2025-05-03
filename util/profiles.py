@@ -35,3 +35,13 @@ hafas_profiles = {
         "ver": "1.77"
     },
 }
+
+def parse_time(time): 
+    return f"{time[:2]}:{time[2:4]}" if time else "--:--"
+
+def parse_delay(plan_time, actual_time):
+    def to_seconds(t):
+        h, m, s = int(t[:2]), int(t[2:4]), int(t[4:])
+        return h * 3600 + m * 60 + s
+    delay = (to_seconds(plan_time) - to_seconds(actual_time)) // 60
+    return f"{delay:+d}"
