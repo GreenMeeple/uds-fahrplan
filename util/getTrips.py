@@ -78,7 +78,7 @@ def parse_trips_detail(data, start="HBF", ziel="Saarbasar"):
                     dep, arr, jny = sec["dep"], sec["arr"], sec["jny"]
                     arr_time = parse_time(arr.get('aTimeS'))
                     dep_time = dep.get('dTimeS')
-                    delay = parse_delay(dep_time, dep.get('dTimeR')) if dep.get('dTimeR') else 0     
+                    delay = parse_delay(dep_time, dep.get('dTimeR')) if dep.get('dTimeR') else "+0"     
                     details.append(
                         f"⏱️ {parse_time(dep_time)}({delay}): {prodL[jny['prodX']]['name'].replace(" ", "")}\n"
                         f"📍 {locL[dep['locX']]['name']}\n"
@@ -110,7 +110,7 @@ def parse_trips_basic(data, start="HBF", ziel="Saarbasar"):
                 if sec["type"] == "JNY":
                     dep, jny = sec["dep"], sec["jny"]
                     dep_time = dep.get('dTimeS')
-                    delay = parse_delay(dep_time, dep.get('dTimeR')) if dep.get('dTimeR') else 0                      
+                    delay = parse_delay(dep_time, dep.get('dTimeR')) if dep.get('dTimeR') else "+0"                      
                     basic.append(f"{parse_time(dep_time)}({delay}): {prodL[jny['prodX']]['name'].replace(" ", "")}")
                 elif "chg" in sec:
                     walk = sec["chg"].get("durFS", {}).get("txt", "")

@@ -1,0 +1,1241 @@
+{
+  "ver": "1.63",
+  "lang": "deu",
+  "id": "st6mauwcg2x89ick",
+  "err": "OK",
+  "graph": {
+    "id": "standard",
+    "index": 0
+  },
+  "subGraph": {
+    "id": "global",
+    "index": 0
+  },
+  "view": {
+    "id": "standard",
+    "index": 0,
+    "type": "WGS84"
+  },
+  "svcResL": [
+    {
+      "id": "1|4|",
+      "meth": "StationBoard",
+      "err": "OK",
+      "res": {
+        "common": {
+          "locL": [
+            {
+              "lid": "A=1@O=Universität Mensa, Saarbrücken@X=7043543@Y=49256356@U=80@L=10905@",
+              "type": "S",
+              "name": "Universität Mensa, Saarbrücken",
+              "icoX": 0,
+              "extId": "10905",
+              "state": "F",
+              "crd": {
+                "x": 7043543,
+                "y": 49256356,
+                "floor": 0
+              },
+              "pCls": 1664,
+              "pRefL": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              "globalIdL": [
+                {
+                  "id": "de:10041:10905",
+                  "type": "A"
+                }
+              ],
+              "chgTime": "000000",
+              "countryCodeL": [
+                "de"
+              ]
+            },
+            {
+              "lid": "A=1@O=Römerkastell, Saarbrücken@X=7021258@Y=49227043@U=80@L=10602@",
+              "type": "S",
+              "name": "Römerkastell, Saarbrücken",
+              "icoX": 6,
+              "extId": "10602",
+              "state": "F",
+              "crd": {
+                "x": 7021258,
+                "y": 49227043,
+                "floor": 0
+              },
+              "pCls": 1728,
+              "globalIdL": [
+                {
+                  "id": "de:10041:10602",
+                  "type": "A"
+                }
+              ],
+              "chgTime": "000000",
+              "countryCodeL": [
+                "de"
+              ]
+            },
+            {
+              "lid": "A=1@O=Dudoplatz, Dudweiler Saarbrücken@X=7033421@Y=49276645@U=80@L=12602@",
+              "type": "S",
+              "name": "Dudoplatz, Dudweiler Saarbrücken",
+              "icoX": 0,
+              "extId": "12602",
+              "state": "F",
+              "crd": {
+                "x": 7033421,
+                "y": 49276645,
+                "floor": 0
+              },
+              "pCls": 1152,
+              "globalIdL": [
+                {
+                  "id": "de:10041:12602",
+                  "type": "A"
+                }
+              ],
+              "chgTime": "000000",
+              "countryCodeL": [
+                "de"
+              ]
+            },
+            {
+              "lid": "A=1@O=Talstr., Altenkessel Saarbrücken@X=6907940@Y=49259862@U=80@L=12009@",
+              "type": "S",
+              "name": "Talstr., Altenkessel Saarbrücken",
+              "icoX": 0,
+              "extId": "12009",
+              "state": "F",
+              "crd": {
+                "x": 6907940,
+                "y": 49259862,
+                "floor": 0
+              },
+              "pCls": 1152,
+              "pRefL": [
+                2,
+                24,
+                25,
+                26,
+                27
+              ],
+              "globalIdL": [
+                {
+                  "id": "de:10041:12009",
+                  "type": "A"
+                }
+              ],
+              "chgTime": "000000",
+              "countryCodeL": [
+                "de"
+              ]
+            }
+          ],
+          "prodL": [
+            {
+              "pid": "L::7::Bus::B0664245212::de:ZPS:10041100|Bus|138:::*",
+              "name": "Bus 138",
+              "nameS": "138",
+              "number": "138",
+              "icoX": 0,
+              "cls": 128,
+              "oprX": 0,
+              "prodCtx": {
+                "name": "Bus  138",
+                "num": "6733",
+                "line": "138",
+                "lineId": "de:ZPS:10041100|Bus|138:",
+                "matchId": "138",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus",
+                "catIn": "Bus",
+                "catCode": "7",
+                "admin": "SBBus_"
+              },
+              "stat": {
+                "cnt": 39,
+                "rt": 22,
+                "ont": 21,
+                "cncl": 0,
+                "delGrpL": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  15,
+                  20,
+                  30
+                ],
+                "delCntL": [
+                  2,
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "him": 0
+              }
+            },
+            {
+              "name": "Bus 101",
+              "nameS": "101",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 101",
+                "line": "101",
+                "lineId": "de:ZPS:10041100|Bus|101:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 102",
+              "nameS": "102",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 102",
+                "line": "102",
+                "lineId": "de:ZPS:10041100|Bus|102:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 109",
+              "nameS": "109",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 109",
+                "line": "109",
+                "lineId": "de:ZPS:10041100|Bus|109:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 111",
+              "nameS": "111",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 111",
+                "line": "111",
+                "lineId": "de:ZPS:10041100|Bus|111:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 112",
+              "nameS": "112",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 112",
+                "line": "112",
+                "lineId": "de:ZPS:10041100|Bus|112:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 124",
+              "nameS": "124",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 124",
+                "line": "124",
+                "lineId": "de:ZPS:10041100|Bus|124:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 136",
+              "nameS": "136",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 136",
+                "line": "136",
+                "lineId": "de:ZPS:10041100|Bus|136:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 138",
+              "nameS": "138",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 138",
+                "line": "138",
+                "lineId": "de:ZPS:10041100|Bus|138:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 150",
+              "nameS": "150",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 150",
+                "line": "150",
+                "lineId": "de:ZPS:10041100|Bus|150:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 163",
+              "nameS": "163",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 163",
+                "line": "163",
+                "lineId": "de:ZPS:10041100|Bus|163:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 170",
+              "nameS": "170",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 170",
+                "line": "170",
+                "lineId": "de:ZPS:10045117|Bus|170:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 320",
+              "nameS": "320",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 320",
+                "line": "320",
+                "lineId": "de:ZPS:10041100|Bus|320:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus N2",
+              "nameS": "N2",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus N2",
+                "line": "N2",
+                "lineId": "de:ZPS:10045115|Bus|N2:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus N4",
+              "nameS": "N4",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus N4",
+                "line": "N4",
+                "lineId": "de:ZPS:10044117|Bus|N4:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus N14",
+              "nameS": "N14",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus N14",
+                "line": "N14",
+                "lineId": "de:ZPS:10041100|Bus|N14:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "AST 102",
+              "nameS": "102",
+              "icoX": 2,
+              "cls": 512,
+              "prodCtx": {
+                "name": "AST 102",
+                "line": "102",
+                "lineId": "de:ZPS:10041100|Bus|102:",
+                "catOut": "AST     ",
+                "catOutS": "ass",
+                "catOutL": "Anruf-Sammel-Taxi"
+              }
+            },
+            {
+              "name": "Bus 817",
+              "nameS": "817",
+              "icoX": 3,
+              "cls": 1024,
+              "prodCtx": {
+                "name": "Bus 817",
+                "line": "817",
+                "lineId": "SBBus__817",
+                "catOut": "Bus     ",
+                "catOutS": "BSS",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 819",
+              "nameS": "819",
+              "icoX": 3,
+              "cls": 1024,
+              "prodCtx": {
+                "name": "Bus 819",
+                "line": "819",
+                "lineId": "SBBus__819",
+                "catOut": "Bus     ",
+                "catOutS": "BSS",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 821",
+              "nameS": "821",
+              "icoX": 3,
+              "cls": 1024,
+              "prodCtx": {
+                "name": "Bus 821",
+                "line": "821",
+                "lineId": "SBBus__821",
+                "catOut": "Bus     ",
+                "catOutS": "BSS",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 834",
+              "nameS": "834",
+              "icoX": 3,
+              "cls": 1024,
+              "prodCtx": {
+                "name": "Bus 834",
+                "line": "834",
+                "lineId": "SBBus__834",
+                "catOut": "Bus     ",
+                "catOutS": "BSS",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "pid": "L::7::Bus::B0664245212::de:ZPS:10041100|Bus|138:::*",
+              "name": "Bus 138",
+              "nameS": "138",
+              "number": "138",
+              "icoX": 0,
+              "cls": 128,
+              "oprX": 0,
+              "prodCtx": {
+                "name": "Bus  138",
+                "num": "6690",
+                "line": "138",
+                "lineId": "de:ZPS:10041100|Bus|138:",
+                "matchId": "138",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus",
+                "catIn": "Bus",
+                "catCode": "7",
+                "admin": "SBBus_"
+              },
+              "stat": {
+                "cnt": 39,
+                "rt": 22,
+                "ont": 21,
+                "cncl": 0,
+                "delGrpL": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  15,
+                  20,
+                  30
+                ],
+                "delCntL": [
+                  2,
+                  1,
+                  1,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "him": 0
+              }
+            },
+            {
+              "pid": "L::7::Bus::B0664245212::de:ZPS:10041100|Bus|101:::*",
+              "name": "Bus 101",
+              "nameS": "101",
+              "number": "101",
+              "icoX": 0,
+              "cls": 128,
+              "oprX": 0,
+              "prodCtx": {
+                "name": "Bus  101",
+                "num": "4118",
+                "line": "101",
+                "lineId": "de:ZPS:10041100|Bus|101:",
+                "matchId": "101",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus",
+                "catIn": "Bus",
+                "catCode": "7",
+                "admin": "SBBus_"
+              },
+              "stat": {
+                "cnt": 61,
+                "rt": 17,
+                "ont": 17,
+                "cncl": 0,
+                "delGrpL": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  15,
+                  20,
+                  30
+                ],
+                "delCntL": [
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "him": 0
+              }
+            },
+            {
+              "pid": "L::7::Bus::B0664245212::de:ZPS:10041100|Bus|102:::*",
+              "name": "Bus 102",
+              "nameS": "102",
+              "number": "102",
+              "icoX": 0,
+              "cls": 128,
+              "oprX": 0,
+              "prodCtx": {
+                "name": "Bus  102",
+                "num": "4290",
+                "line": "102",
+                "lineId": "de:ZPS:10041100|Bus|102:",
+                "matchId": "102",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus",
+                "catIn": "Bus",
+                "catCode": "7",
+                "admin": "SBBus_"
+              },
+              "stat": {
+                "cnt": 65,
+                "rt": 20,
+                "ont": 20,
+                "cncl": 0,
+                "delGrpL": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  15,
+                  20,
+                  30
+                ],
+                "delCntL": [
+                  2,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "him": 4
+              },
+              "himIdL": [
+                "HIM_FREETEXT_2121",
+                "HIM_FREETEXT_2135",
+                "HIM_FREETEXT_2163",
+                "HIM_FREETEXT_2298"
+              ]
+            },
+            {
+              "name": "Bus 151",
+              "nameS": "151",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 151",
+                "line": "151",
+                "lineId": "de:ZPS:10041100|Bus|151:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 181",
+              "nameS": "181",
+              "icoX": 0,
+              "cls": 128,
+              "prodCtx": {
+                "name": "Bus 181",
+                "line": "181",
+                "lineId": "de:ZPS:10041519|Bus|181:",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 813",
+              "nameS": "813",
+              "icoX": 3,
+              "cls": 1024,
+              "prodCtx": {
+                "name": "Bus 813",
+                "line": "813",
+                "lineId": "SBBus__813",
+                "catOut": "Bus     ",
+                "catOutS": "BSS",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "name": "Bus 840",
+              "nameS": "840",
+              "icoX": 3,
+              "cls": 1024,
+              "prodCtx": {
+                "name": "Bus 840",
+                "line": "840",
+                "lineId": "SBBus__840",
+                "catOut": "Bus     ",
+                "catOutS": "BSS",
+                "catOutL": "Bus"
+              }
+            },
+            {
+              "pid": "L::7::Bus::B0664245212::de:ZPS:10041100|Bus|102:::*",
+              "name": "Bus 102",
+              "nameS": "102",
+              "number": "102",
+              "icoX": 0,
+              "cls": 128,
+              "oprX": 0,
+              "prodCtx": {
+                "name": "Bus  102",
+                "num": "4144",
+                "line": "102",
+                "lineId": "de:ZPS:10041100|Bus|102:",
+                "matchId": "102",
+                "catOut": "Bus     ",
+                "catOutS": "Bus",
+                "catOutL": "Bus",
+                "catIn": "Bus",
+                "catCode": "7",
+                "admin": "SBBus_"
+              },
+              "stat": {
+                "cnt": 65,
+                "rt": 20,
+                "ont": 20,
+                "cncl": 0,
+                "delGrpL": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  15,
+                  20,
+                  30
+                ],
+                "delCntL": [
+                  2,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "him": 4
+              },
+              "himIdL": [
+                "HIM_FREETEXT_2121",
+                "HIM_FREETEXT_2135",
+                "HIM_FREETEXT_2163",
+                "HIM_FREETEXT_2298"
+              ]
+            }
+          ],
+          "opL": [
+            {
+              "name": "Saarbahn GmbH",
+              "url": "https://www.saarbahn.de",
+              "icoX": 1,
+              "id": "56"
+            }
+          ],
+          "himL": [
+            {
+              "hid": "2121",
+              "act": true,
+              "head": "Linien 102, 819, 826 - Einbahnreglung in der Scheidter Straße, St. Johann",
+              "text": "Aufgrund der Einbahnreglung in Fahrtrichtung Ilseplatz müssen die Buslinien 102, 819 und 826 Umleitungen bis voraussichtlich 30. Juni fahren. Die Haltestellen Ernst-Wagner-Weg und Heimgarten entfallen in Richtung Innenstadt. Die Busse der Linien verkehren bis zur Haltestelle Ilsestraße auf dem normalen Fahrweg. Ab dort wird eine Umleitung über die Kaiserslauterer Straße, Halbergstraße, Thüringer Straße und Preußenstraße zur Haltestelle Preußenstraße gefahren. An den Haltestellen der Umleitungsstrecke wird gehalten. Die jeweiligen Gegenrichtungen sind nicht betroffen.<br><a href=\"https://www.saarfahrplan.de/upload/1737971156697_Umleitungsstrecke_.pdf\" target=\"_blank\" rel=\"noopener\">Umleitungsstrecke 102, 819, 826</a>",
+              "icoX": 7,
+              "prio": 100,
+              "fLocX": 3,
+              "tLocX": 2,
+              "prod": 1152,
+              "src": 99,
+              "lModDate": "20250326",
+              "lModTime": "162800",
+              "sDate": "20250113",
+              "sTime": "000000",
+              "eDate": "20250630",
+              "eTime": "235900",
+              "sDaily": "000000",
+              "eDaily": "235900",
+              "comp": "Stadtwerke Saarbrücken",
+              "catRefL": [
+                0
+              ],
+              "pubChL": [
+                {
+                  "name": "TIMETABLE",
+                  "fDate": "20250326",
+                  "fTime": "162800",
+                  "tDate": "20250630",
+                  "tTime": "235900"
+                }
+              ]
+            },
+            {
+              "hid": "2121",
+              "act": true,
+              "head": "Linien 102, 819, 826 - Einbahnreglung in der Scheidter Straße, St. Johann",
+              "text": "Aufgrund der Einbahnreglung in Fahrtrichtung Ilseplatz müssen die Buslinien 102, 819 und 826 Umleitungen bis voraussichtlich 30. Juni fahren. Die Haltestellen Ernst-Wagner-Weg und Heimgarten entfallen in Richtung Innenstadt. Die Busse der Linien verkehren bis zur Haltestelle Ilsestraße auf dem normalen Fahrweg. Ab dort wird eine Umleitung über die Kaiserslauterer Straße, Halbergstraße, Thüringer Straße und Preußenstraße zur Haltestelle Preußenstraße gefahren. An den Haltestellen der Umleitungsstrecke wird gehalten. Die jeweiligen Gegenrichtungen sind nicht betroffen.<br><a href=\"https://www.saarfahrplan.de/upload/1737971156697_Umleitungsstrecke_.pdf\" target=\"_blank\" rel=\"noopener\">Umleitungsstrecke 102, 819, 826</a>",
+              "icoX": 7,
+              "prio": 100,
+              "fLocX": 2,
+              "tLocX": 3,
+              "prod": 1152,
+              "src": 99,
+              "lModDate": "20250326",
+              "lModTime": "162800",
+              "sDate": "20250113",
+              "sTime": "000000",
+              "eDate": "20250630",
+              "eTime": "235900",
+              "sDaily": "000000",
+              "eDaily": "235900",
+              "comp": "Stadtwerke Saarbrücken",
+              "catRefL": [
+                0
+              ],
+              "pubChL": [
+                {
+                  "name": "TIMETABLE",
+                  "fDate": "20250326",
+                  "fTime": "162800",
+                  "tDate": "20250630",
+                  "tTime": "235900"
+                }
+              ]
+            }
+          ],
+          "icoL": [
+            {
+              "res": "prod_bus",
+              "fg": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+              },
+              "bg": {
+                "r": 170,
+                "g": 85,
+                "b": 153
+              }
+            },
+            {
+              "res": "S+B",
+              "txt": "Saarbahn GmbH"
+            },
+            {
+              "res": "prod_ast",
+              "fg": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+              },
+              "bg": {
+                "r": 255,
+                "g": 203,
+                "b": 20
+              }
+            },
+            {
+              "res": "prod_school_bus",
+              "fg": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+              },
+              "bg": {
+                "r": 0,
+                "g": 103,
+                "b": 121
+              }
+            },
+            {
+              "res": "rt_ont",
+              "txtA": "pünktlich"
+            },
+            {
+              "res": "rt_cnf"
+            },
+            {
+              "res": "prod_tram",
+              "fg": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+              },
+              "bg": {
+                "r": 237,
+                "g": 135,
+                "b": 34
+              }
+            },
+            {
+              "res": "HIM0"
+            }
+          ],
+          "himMsgCatL": [
+            {
+              "id": 0
+            }
+          ],
+          "lDrawStyleL": [
+            {
+              "sIcoX": 0,
+              "type": "SOLID",
+              "bg": {
+                "r": 170,
+                "g": 85,
+                "b": 153
+              }
+            },
+            {
+              "type": "SOLID",
+              "bg": {
+                "r": 170,
+                "g": 85,
+                "b": 153
+              }
+            }
+          ],
+          "timeStyleL": [
+            {
+              "mode": "HIDE"
+            },
+            {
+              "mode": "ABS",
+              "icoX": 4
+            },
+            {
+              "mode": "CNT",
+              "icoX": 5
+            }
+          ]
+        },
+        "type": "DEP",
+        "jnyL": [
+          {
+            "jid": "1|2181|0|80|3052025",
+            "date": "20250503",
+            "prodX": 0,
+            "dirTxt": "Römerkastell",
+            "dirFlg": "A",
+            "status": "P",
+            "isRchbl": true,
+            "stbStop": {
+              "locX": 0,
+              "idx": 8,
+              "dProdX": 0,
+              "dTimeS": "075200",
+              "dTimeR": "075200",
+              "dTimeFS": {
+                "styleX": 0
+              },
+              "dTimeFR": {
+                "styleX": 1,
+                "txtA": "07:52 Uhr pünktlich"
+              },
+              "dTimeFC": {
+                "styleX": 2
+              },
+              "dProgType": "PROGNOSED",
+              "type": "N"
+            },
+            "pos": {
+              "x": 7037394,
+              "y": 49254792
+            },
+            "subscr": "F",
+            "prodL": [
+              {
+                "prodX": 0,
+                "fLocX": 0,
+                "tLocX": 1,
+                "fIdx": 8,
+                "tIdx": 21
+              }
+            ],
+            "sumLDrawStyleX": 0,
+            "resLDrawStyleX": 1,
+            "trainStartDate": "20250503"
+          },
+          {
+            "jid": "1|2198|0|80|3052025",
+            "date": "20250503",
+            "prodX": 21,
+            "dirTxt": "Dudw. Dudoplatz",
+            "dirFlg": "B",
+            "status": "P",
+            "isRchbl": true,
+            "stbStop": {
+              "locX": 0,
+              "idx": 13,
+              "dProdX": 21,
+              "dTimeS": "075200",
+              "dTimeR": "075200",
+              "dTimeFS": {
+                "styleX": 0
+              },
+              "dTimeFR": {
+                "styleX": 1,
+                "txtA": "07:52 Uhr pünktlich"
+              },
+              "dTimeFC": {
+                "styleX": 2
+              },
+              "dProgType": "PROGNOSED",
+              "type": "N"
+            },
+            "pos": {
+              "x": 7054078,
+              "y": 49254181
+            },
+            "subscr": "F",
+            "prodL": [
+              {
+                "prodX": 21,
+                "fLocX": 0,
+                "tLocX": 2,
+                "fIdx": 13,
+                "tIdx": 21
+              }
+            ],
+            "sumLDrawStyleX": 0,
+            "resLDrawStyleX": 1,
+            "trainStartDate": "20250503"
+          },
+          {
+            "jid": "1|1187|0|80|3052025",
+            "date": "20250503",
+            "prodX": 22,
+            "dirTxt": "Dudw. Dudoplatz",
+            "dirFlg": "A",
+            "status": "P",
+            "isRchbl": true,
+            "stbStop": {
+              "locX": 0,
+              "idx": 26,
+              "dProdX": 22,
+              "dTimeS": "075400",
+              "dTimeR": "075400",
+              "dTimeFS": {
+                "styleX": 0
+              },
+              "dTimeFR": {
+                "styleX": 1,
+                "txtA": "07:54 Uhr pünktlich"
+              },
+              "dTimeFC": {
+                "styleX": 2
+              },
+              "dProgType": "PROGNOSED",
+              "type": "N"
+            },
+            "pos": {
+              "x": 7020665,
+              "y": 49246163
+            },
+            "subscr": "F",
+            "prodL": [
+              {
+                "prodX": 22,
+                "fLocX": 0,
+                "tLocX": 2,
+                "fIdx": 26,
+                "tIdx": 36
+              }
+            ],
+            "sumLDrawStyleX": 0,
+            "resLDrawStyleX": 1,
+            "trainStartDate": "20250503"
+          },
+          {
+            "jid": "1|1251|1|80|3052025",
+            "date": "20250503",
+            "prodX": 23,
+            "dirTxt": "Dudw. Dudoplatz",
+            "dirFlg": "A",
+            "status": "P",
+            "isRchbl": true,
+            "stbStop": {
+              "locX": 0,
+              "idx": 39,
+              "dProdX": 23,
+              "dTimeS": "081100",
+              "dTimeR": "081100",
+              "dTimeFS": {
+                "styleX": 0
+              },
+              "dTimeFR": {
+                "styleX": 1,
+                "txtA": "08:11 Uhr pünktlich"
+              },
+              "dTimeFC": {
+                "styleX": 2
+              },
+              "dProgType": "PROGNOSED",
+              "type": "N"
+            },
+            "pos": {
+              "x": 6988394,
+              "y": 49233596
+            },
+            "msgL": [
+              {
+                "type": "HIM",
+                "himX": 0,
+                "sty": "M",
+                "fLocX": 0,
+                "tLocX": 2,
+                "tagL": [
+                  "RES_JNY_H1"
+                ],
+                "sort": 373669348
+              }
+            ],
+            "subscr": "F",
+            "prodL": [
+              {
+                "prodX": 23,
+                "fLocX": 0,
+                "tLocX": 2,
+                "fIdx": 39,
+                "tIdx": 48
+              }
+            ],
+            "sumLDrawStyleX": 0,
+            "resLDrawStyleX": 1,
+            "trainStartDate": "20250503"
+          },
+          {
+            "jid": "1|1307|2|80|3052025",
+            "date": "20250503",
+            "prodX": 28,
+            "dirTxt": "Altenk. Talstr.",
+            "dirFlg": "B",
+            "status": "P",
+            "isRchbl": true,
+            "stbStop": {
+              "locX": 0,
+              "idx": 10,
+              "dProdX": 28,
+              "dTimeS": "081500",
+              "dTimeR": "081500",
+              "dTimeFS": {
+                "styleX": 0
+              },
+              "dTimeFR": {
+                "styleX": 1,
+                "txtA": "08:15 Uhr pünktlich"
+              },
+              "dTimeFC": {
+                "styleX": 2
+              },
+              "dProgType": "PROGNOSED",
+              "type": "N"
+            },
+            "msgL": [
+              {
+                "type": "HIM",
+                "himX": 1,
+                "sty": "M",
+                "fLocX": 0,
+                "tLocX": 3,
+                "tagL": [
+                  "RES_JNY_H1"
+                ],
+                "sort": 373669348
+              }
+            ],
+            "subscr": "F",
+            "prodL": [
+              {
+                "prodX": 28,
+                "fLocX": 0,
+                "tLocX": 3,
+                "fIdx": 10,
+                "tIdx": 49
+              }
+            ],
+            "sumLDrawStyleX": 0,
+            "resLDrawStyleX": 1,
+            "trainStartDate": "20250503"
+          }
+        ],
+        "fpB": "20241215",
+        "fpE": "20251213",
+        "planrtTS": "1746251274",
+        "sD": "20250503",
+        "sT": "074840",
+        "locRefL": [
+          0
+        ]
+      }
+    }
+  ]
+}

@@ -2,7 +2,6 @@ import sys, os
 import requests
 import json
 from datetime import datetime, timedelta
-from profiles import hafas_profiles, locations
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from util.profiles import hafas_profiles, locations, parse_delay, parse_time
@@ -56,7 +55,7 @@ def parse_departures(data, max_items=10):
     prodL = common.get("prodL", [])
     locL = common.get("locL", [])
 
-    output = []
+    output = [f"Departures from {locL[0]['name']}"]
 
     for jny in jnyL[:max_items]:
         try:
@@ -66,7 +65,7 @@ def parse_departures(data, max_items=10):
             direction = jny.get("dirTxt", "")
             dep = jny["stbStop"]
             dep_time = dep.get("dTimeS", "")
-            delay = parse_delay(dep_time, dep.get('dTimeR')) if dep.get('dTimeR') else 0                      
+            delay = parse_delay(dep_time, dep.get('dTimeR')) if dep.get('dTimeR') else "+0"                      
 
             output.append(f"⏱️ {parse_time(dep_time)}({delay}): {line_name} to {direction}")
         except Exception as e:
@@ -74,7 +73,6 @@ def parse_departures(data, max_items=10):
             continue
 
     return "\n".join(output) if output else "❌ No valid journeys found."
-
 
 # Example use case
 if __name__ == "__main__":
