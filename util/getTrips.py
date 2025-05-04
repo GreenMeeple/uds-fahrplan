@@ -56,10 +56,13 @@ def get_trips(region="saarvv", from_key="Mensa", to_key="HBF", extra_time=10, tr
             "id": "1|3|"
         }]
     }
-    res = requests.post(url, headers=headers, data=json.dumps(body))
-    data = res.json()
-    return data
-
+    try:
+        res = requests.post(url, headers=headers, data=json.dumps(body))
+        data = res.json()
+        return data
+    except Exception as e:
+        print(f"❌ Error getting trip results: {e}")
+        return None
 
 def parse_trips_detail(data, start="HBF", ziel="Saarbasar"):
 
@@ -124,7 +127,6 @@ def parse_trips_basic(data, start="HBF", ziel="Saarbasar"):
         return None
 
 # Example use case
-
 if __name__ == "__main__":
     # Allow running this file directly for local dev/testing
     trip = get_trips(region="saarvv", from_key="Mensa", to_key="Waldhaus", extra_time=0, transport_mode=991)
