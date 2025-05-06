@@ -1,9 +1,10 @@
 locations = {
-    "Johanneskirche/Rathaus": "A=1@O=Johanneskirche, Saarbrücken@X=6996295@Y=49236050@U=80@L=10619@B=1@p=1744897007@",
-    "Mensa": "A=1@O=Universität Mensa, Saarbrücken@X=7043543@Y=49256356@U=80@L=10905@B=1@p=1744897007@",
-    "Saarbasar": "A=1@O=Saarbasar, Saarbrücken@X=7036333@Y=49228849@U=80@L=11010@B=1@p=1744897007@",
-    "HBF": "A=1@O=Saarbrücken Hbf@X=6991019@Y=49241066@U=80@L=8000323@B=1@p=1744897007@",
     "Waldhaus": "A=1@O=Waldhaus, Saarbrücken@X=7021528@Y=49246414@U=80@L=10803@B=1@p=1744897007@",
+    "Mensa": "A=1@O=Universität Mensa, Saarbrücken@X=7043543@Y=49256356@U=80@L=10905@B=1@p=1744897007@",
+    "Netto": "A=1@O=An der Trift, Saarbrücken@X=7007298@Y=49241893@U=80@L=10801@",
+    "Johanneskirche/Rathaus": "A=1@O=Johanneskirche, Saarbrücken@X=6996295@Y=49236050@U=80@L=10619@B=1@p=1744897007@",
+    "HBF": "A=1@O=Saarbrücken Hbf@X=6991019@Y=49241066@U=80@L=8000323@B=1@p=1744897007@",
+    "Saarbasar": "A=1@O=Saarbasar, Saarbrücken@X=7036333@Y=49228849@U=80@L=11010@B=1@p=1744897007@",
 }
 
 hafas_profiles = {

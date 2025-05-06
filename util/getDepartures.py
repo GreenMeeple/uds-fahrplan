@@ -33,7 +33,7 @@ def get_departures(region="saarvv", station="Mensa", extra_time=0):
                     }
                 ],
                 "stbLoc": {
-                    "lid": locations[station],
+                    "lid": locations[station] if station in locations else station,
                 },
                 "type": "DEP",
                 "sort": "PT",

@@ -26,8 +26,8 @@ def get_trips(region="saarvv", from_key="Mensa", to_key="HBF", extra_time=10, tr
         "svcReqL": [{
             "meth": "TripSearch",
             "req": {
-                "depLocL": [{"lid": locations[from_key]}],
-                "arrLocL": [{"lid": locations[to_key]}],
+                "depLocL": [{"lid": locations[from_key] if from_key in locations else from_key}],
+                "arrLocL": [{"lid": locations[to_key] if to_key in locations else to_key}],
                 "minChgTime": "-1",
                 "liveSearch": False,
                 "maxChg": "2",
