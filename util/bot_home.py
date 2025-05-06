@@ -10,8 +10,8 @@ load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), "..", ".env"))
 SPAWN_DATA = os.getenv("SPAWN_DATA")
 
 async def handle_home_start(query, context, data):
-    dest = locations[data] if data in locations else data
-    context.user_data["home_session"]["dest"] = context.user_data.get("home_session", {}).get("search_s", {}).get(data, data)
+    start = locations[data] if data in locations else data
+    context.user_data["home_session"]["start"] = context.user_data.get("home_session", {}).get("search_s", {}).get(data, data)
 
     user_id = query.from_user.id
 
@@ -28,8 +28,8 @@ async def handle_home_start(query, context, data):
     user_found = False
     for entry in data_list:
         if entry["user_id"] == user_id:
-            start = entry["home_id"]
-            context.user_data["home_session"]["start"] = entry["home_name"]
+            dest = entry["home_id"]
+            context.user_data["home_session"]["dest"] = entry["home_name"]
             user_found = True
             break
     if not user_found:

@@ -64,7 +64,6 @@ async def handle_trip_details(query, context, data):
                                       reply_markup=build_location_keyboard("trip","start"))
     else:
         trip = context.user_data["trip_session"].get("trip")
-        context.user_data["trip_session"].clear()
         await query.edit_message_text(text=parse_trips_detail(trip,context.user_data["trip_session"]["start"], context.user_data["trip_session"]["dest"]))
 
 async def handle_trip_stations(query, context, data):
