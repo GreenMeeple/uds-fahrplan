@@ -69,22 +69,26 @@ async def handle_trip_details(query, context, data):
 
 async def handle_trip_stations(query, context, data):
     depart_start = context.user_data.get("depart_session", {}).get("start")
-    context.user_data["trip_session"][data] = "more"
+    home_start = context.user_data.get("home_session", {}).get("start")
+    spawn_start = context.user_data.get("spawn_session", {}).get("start")
 
-    if depart_start == "more":
-        await query.edit_message_text("You had a previous session on Departure, resume the search?",reply_markup=build_session_keyboard("trip"))
+    context.user_data["trip_session"]["start"] = "more"
+
+    if spawn_start == "more" or depart_start == "more" or home_start == "more":
+        await query.edit_message_text("You had a previous session, resume the search?",reply_markup=build_session_keyboard("trip"))
     else:
-        context.user_data["trip_session"][data] = "more"
         await query.edit_message_text(f"Please Type your keyword to search the station")
 
 async def handle_trip_session(query, context, data):
     if data == "resume":
         context.user_data["trip_session"] = {}
-        await query.edit_message_text("Trip search terminated, resume the departure search.\n Please Type your keyword to search the station")
+        await query.edit_message_text("Trip search terminated, resume the previous search.\n Please Type your keyword to search the station")
     elif data == "continue":
         context.user_data["depart_session"] = {}
+        context.user_data["spawn_session"] = {}
+        context.user_data["home_session"] = {}
         context.user_data["trip_session"]["start"] = "more"
-        await query.edit_message_text(f"Departure search terminated, continue the trip search.\nPlease Type your keyword to search the station")
+        await query.edit_message_text(f"Previous search terminated, continue the trip search.\nPlease Type your keyword to search the station")
 
 async def trips(update: Update, context: ContextTypes.DEFAULT_TYPE):
     context.user_data["trip_session"] = {}

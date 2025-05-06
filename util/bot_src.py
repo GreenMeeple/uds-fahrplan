@@ -37,7 +37,7 @@ def build_session_keyboard(session):
 opt_keyboard = InlineKeyboardMarkup([
     [InlineKeyboardButton("trip", callback_data="trip:start:start")],
     [InlineKeyboardButton("depart", callback_data="depart:start:start")],
-    [InlineKeyboardButton("home", callback_data="home:start:start")]
+    [InlineKeyboardButton("spawn", callback_data="home:start:start")]
 ])
 
 # --- Command handlers ---
@@ -47,8 +47,9 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("You are submiting a New request, previous session cleared."
     )
     await update.message.reply_text("""
-/trip          Get connctions from A to B
-/depart    Get departures of station A
-/home      Get connections from A to your home"""
-    )
+/trip           Get connctions from A to B
+/depart     Get departures of station A
+/home       Get connections from A to your home
+/sethome  Set your home location to use /home
+""")
 
