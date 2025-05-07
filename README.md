@@ -1,8 +1,6 @@
 # UdS Fahrplan Bot 🚍
 
-A lightweight Telegram bot designed for Saarland University students — offering fast, clear, and focused public transport information using SaarVV and HAFAS APIs.
-
-**[Try Now](https://t.me/udsfahrbot)**
+A lightweight Telegram bot designed for Saarland University students — offering fast, clear, and focused public transport information using SaarVV and HAFAS APIs. --- **[Try Now](https://t.me/udsfahrbot)**
 
 ## 🔍 What it is
 
