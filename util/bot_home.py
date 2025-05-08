@@ -50,7 +50,7 @@ async def handle_home_start(query, context, data):
 
 async def handle_home_details(query, context, data):
     if data == "again":
-        context.user_data["v"].clear()
+        context.user_data["home_session"].clear()
         await query.edit_message_text("🚌 Where do you want to start your journey?",
                                       reply_markup=build_location_keyboard("home","start"))
     else:

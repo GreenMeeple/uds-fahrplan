@@ -34,7 +34,7 @@ async def handle_spawn_start(query, context, data):
 
     if not user_found:
         # Add new user entry
-        data_list.append({"user_id": user_id, "home": station})
+        data_list.append({"user_id": user_id, "home_id": station, "home_name": name})
 
     # Save updated data
     with open(SPAWN_DATA, "w") as file:

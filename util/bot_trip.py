@@ -48,7 +48,7 @@ async def handle_trip_destination(query, context, data):
 
         context.user_data["trip_session"]["trip"] = get_trips("saarvv", context.user_data["trip_session"]["start"], context.user_data["trip_session"]["dest"], context.user_data["trip_session"]["time"])
         
-        trip_basic=parse_trips_basic(context.user_data["trip_session"]["trip"], context.user_data["trip_session"]["start"], context.user_data["trip_session"]["dest"])
+        trip_basic=parse_trips_basic(context.user_data["trip_session"]["trip"], start_name, dest_name)
         
         if trip_basic is None:
             btn_retry = InlineKeyboardMarkup([[InlineKeyboardButton("again", callback_data="trip:details:again")]])
@@ -64,7 +64,9 @@ async def handle_trip_details(query, context, data):
                                       reply_markup=build_location_keyboard("trip","start"))
     else:
         trip = context.user_data["trip_session"].get("trip")
-        await query.edit_message_text(text=parse_trips_detail(trip,context.user_data["trip_session"]["start"], context.user_data["trip_session"]["dest"]))
+        start_name = context.user_data.get("trip_session", {}).get("search_s", {}).get(data, context.user_data["trip_session"]["start"])
+        dest_name = context.user_data.get("trip_session", {}).get("search_d", {}).get(data, data)
+        await query.edit_message_text(text=parse_trips_detail(trip,start_name, dest_name))
 
 async def handle_trip_stations(query, context, data):
     depart_start = context.user_data.get("depart_session", {}).get("start")
